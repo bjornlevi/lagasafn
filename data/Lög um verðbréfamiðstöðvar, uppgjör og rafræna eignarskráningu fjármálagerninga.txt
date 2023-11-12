@@ -174,14 +174,20 @@ Afmáning réttinda.
 
  Telji verðbréfamiðstöð að á reikningi séu skráð réttindi sem telja má að hafi ekki lengur þýðingu eða um er að ræða réttindi sem eru 20 ára gömul eða eldri og sem telja verður að séu sannanlega úr gildi fallin eða sannanlega hefur enginn rétthafi fundist að réttindunum getur hún birt innköllun í Lögbirtingablaði til þeirra sem telja sig eiga rétt til hinna skráðu réttinda og skal innköllunarfrestur vera þrír mánuðir. Jafnframt ber verðbréfamiðstöð að birta innköllunina á vefsvæði sínu. Hafi enginn gefið sig fram áður en innköllunarfrestur er liðinn skal verðbréfamiðstöðin afmá réttindin.
 
- Í reglugerð ráðherra er heimilt að setja nánari reglur um framkvæmd 2. mgr.
+ Í reglugerð
+1) ráðherra er heimilt að setja nánari reglur um framkvæmd 2. mgr.
+   
+1)Rg. 441/2023. 
 
 
 
 14. gr.
 Áhrif eignarskráningar á áþreifanlegan fjármálagerning.
 
- Ef eignarréttindi yfir fjármálagerningi eru eignarskráð í verðbréfamiðstöð skal ógilda hinn áþreifanlega fjármálagerning. Í reglugerð sem ráðherra setur, sbr. 31. gr., skal kveða nánar á um tilhögun innköllunar og eignarskráningu samkvæmt ákvæði þessu. Að uppfylltum skilyrðum um innköllun skv. 13. gr. og að lokinni yfirfærslu og eignarskráningu í verðbréfamiðstöð er hinn áþreifanlegi fjármálagerningur ógildur.
+ Ef eignarréttindi yfir fjármálagerningi eru eignarskráð í verðbréfamiðstöð skal ógilda hinn áþreifanlega fjármálagerning. Í reglugerð
+1) sem ráðherra setur, sbr. 31. gr., skal kveða nánar á um tilhögun innköllunar og eignarskráningu samkvæmt ákvæði þessu. Að uppfylltum skilyrðum um innköllun skv. 13. gr. og að lokinni yfirfærslu og eignarskráningu í verðbréfamiðstöð er hinn áþreifanlegi fjármálagerningur ógildur.
+   
+1)Rg. 441/2023. 
 
 
 
@@ -463,7 +469,8 @@ Stjórnvaldsfyrirmæli, gildistaka og breyting á öðrum lögum.
 31. gr.
 Reglugerð ráðherra.
 
- Í reglugerð sem ráðherra setur er m.a. heimilt að setja nánari reglur um: 
+ Í reglugerð sem ráðherra
+1) setur er m.a. heimilt að setja nánari reglur um: 
    
 1. grundvöll og framkvæmd eignarskráningar og skráningu reikningsstofnana í kerfi verðbréfamiðstöðvar,
    
@@ -480,6 +487,8 @@ Reglugerð ráðherra.
 7. að erlendum verðbréfamiðstöðvum og erlendum viðskiptabönkum, sparisjóðum, fyrirtækjum í verðbréfaþjónustu og öðrum lánastofnunum en viðskiptabönkum og sparisjóðum með heimild til fjárvörslu, sem hafa heimild til að starfa hér á landi og eru undir opinberu eftirliti, sé heimilt að hafa milligöngu um eignarskráningar í verðbréfamiðstöð með þeim réttaráhrifum sem getið er um í IV. kafla að fengnu samþykki Fjármálaeftirlitsins,
    
 8. að verðbréfamiðstöð sé heimilt, að fengnu samþykki Fjármálaeftirlitsins, að annast milligöngu um eignarskráningu í erlendum og innlendum verðbréfamiðstöðvum.
+   
+1)Rg. 441/2023. 
 
 
 

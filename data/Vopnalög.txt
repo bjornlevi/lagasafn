@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. september 1998. Breytt með:  L. 82/1998 (tóku gildi 1. okt. 1998). L. 19/1999 (tóku gildi 24. mars 1999). L. 24/2007 (tóku gildi 29. mars 2007). L. 124/2008 (tóku gildi 1. okt. 2008). L. 77/2011 (tóku gildi 29. júní 2011). L. 77/2015 (tóku gildi 22. júlí 2015; EES-samningurinn: II. viðauki tilskipun 2007/23/EB, 2008/43/EB). L. 33/2017 (tóku gildi 16. júní 2017; EES-samningurinn: II. viðauki reglugerð 98/2013). L. 137/2019 (tóku gildi 31. des. 2019). L. 141/2019 (tóku gildi 1. jan. 2020). L. 18/2021 (tóku gildi 1. okt. 2021). 
+Tóku gildi 1. september 1998. Breytt með:  L. 82/1998 (tóku gildi 1. okt. 1998). L. 19/1999 (tóku gildi 24. mars 1999). L. 24/2007 (tóku gildi 29. mars 2007). L. 124/2008 (tóku gildi 1. okt. 2008). L. 77/2011 (tóku gildi 29. júní 2011). L. 77/2015 (tóku gildi 22. júlí 2015; EES-samningurinn: II. viðauki tilskipun 2007/23/EB, 2008/43/EB). L. 33/2017 (tóku gildi 16. júní 2017; EES-samningurinn: II. viðauki reglugerð 98/2013). L. 137/2019 (tóku gildi 31. des. 2019). L. 141/2019 (tóku gildi 1. jan. 2020). L. 18/2021 (tóku gildi 1. okt. 2021). L. 67/2023 (tóku gildi 8. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 dómsmálaráðherra eða 
 dómsmálaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -171,6 +171,31 @@ d. hálfsjálfvirka eða handhlaðna fjölskota haglabyssu með skothylkjahólfu
  Ekki þarf leyfi fyrir greindum tækjum og efnum sem flutt eru úr landi með skipum eða flugförum ef þessar vörur teljast vera nauðsynlegur búnaður skips eða flugfars.
    
 1)L. 77/2015, 2. gr. 2)L. 24/2007, 13. gr. 
+
+
+
+[6. gr. a.
+
+ Enginn má flytja úr landi hergögn og varnartengdar vörur eins og þær eru skilgreindar í reglugerð skv. 8. mgr. nema með leyfi ráðherra sem fer með utanríkismál, eða þess sem hann felur heimildarveitinguna.
+
+ Leyfisveiting skv. 1. mgr. tekur einnig til véla, tækja, eða annars sem er sérstaklega hannað eða breytt til framleiðslu, þróunar eða nota á hergögnum og varnartengdum vörum, sbr. 1. mgr.
+
+ Enginn má flytja úr landi tækni eða hugbúnað til þróunar, framleiðslu eða nota á hlutum, sbr. 1. og 2. mgr., nema með leyfi ráðherra sem fer með utanríkismál, eða þess sem hann felur leyfisveitinguna. Leyfisskylda samkvæmt þessari málsgrein tekur einnig til flutnings á hugbúnaði eða tækni með rafrænum miðlum, þ.m.t. með bréfsíma, síma, tölvupósti eða á annan rafrænan hátt. Það felur einnig í sér að gera slíkan hugbúnað og tækni tiltæk á rafrænu formi eða munnlega yfirfærslu þegar tækni er lýst í gegnum talflutningsmiðil fyrir einstakling eða lögaðila í öðru ríki.
+
+ Leyfisskylda skv. 1., 2. og 3. mgr. tekur einnig til umflutnings í skilningi tollalaga, endurútflutnings, gegnumferðar, umfermingar og miðlunar.
+
+ Óheimilt er að flytja hergögn og varnartengdar vörur eins og þær eru skilgreindar í reglugerð skv. 8. mgr. með íslenskum loftförum hvar sem þau eru stödd nema með leyfi ráðherra sem fer með utanríkismál, eða þess sem hann felur leyfisveitinguna. Hafi útflytjandi þegar fengið leyfi til útflutnings skv. 1. mgr. þarf ekki að sækja um leyfi til ráðherra samkvæmt þessari málsgrein.
+
+ Ekki skal veita leyfi samkvæmt þessari grein gangi leyfisveitingin gegn gildandi þvingunaraðgerðum, ráðstöfunum sem öryggisráð Sameinuðu þjóðanna hefur samþykkt í samræmi við VII. kafla sáttmála hinna Sameinuðu þjóða, einkum ráðstöfunum varðandi vopnasölubann, eða viðeigandi alþjóðlegum skuldbindingum samkvæmt alþjóðasamningum sem Ísland á aðild að.
+
+ Ekki skal veita leyfi samkvæmt þessari grein ef ætla má, þegar leyfi er veitt, að hergögnin, varnartengdu vörurnar eða hlutirnir verði notaðir til þess að fremja alvarleg mannréttindabrot eða hópmorð, glæpi gegn mannúð, stríðsglæpi eða glæpi gegn friði.
+
+ Ráðherra, að höfðu samráði við ráðherra sem fer með utanríkismál, skal láta birta í B-deild Stjórnartíðinda lista yfir hergögn og varnartengdar vörur, sbr. 1. mgr. Gefi Evrópusambandið út lista yfir hergögn eða varnartengdar vörur er ráðherra heimilt í reglugerð að vísa til hans á vefsetri Stjórnartíðinda Evrópusambandsins og telst það lögmæt birting. Í reglugerð er ráðherra heimilt að kveða á um að breytingar eða uppfærslur lista öðlist sjálfkrafa gildi við uppfærslu eða breytingar á vefsetri Stjórnartíðinda Evrópusambandsins.
+
+ Ráðherra, að höfðu samráði við ráðherra sem fer með utanríkismál, skal setja í reglugerð nánari ákvæði um framkvæmd þessarar greinar, þ.m.t. um heimild til útgáfu almennra leyfa, heildarleyfa og stakra leyfa til útflutnings, umsóknir um leyfi og þau gögn og vottorð sem fylgja skulu umsóknum eða sem heimilt er að afla vegna þeirra, undanþágur frá leyfisskyldu og gildistíma leyfa.]
+1)
+   
+1)L. 67/2023, 29. gr. 
 
 
 

@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2020. Breytt með:  L. 117/2019 (tóku gildi 1. jan. 2020 nema 7. gr. sem tók gildi 2. okt. 2019). L. 70/2021 (tóku gildi 29. júní 2021). L. 115/2021 (tóku gildi 1. sept. 2021 nema 39. gr. sem tók gildi 1. nóv. 2021 og 5. mgr. 48. gr. sem tók gildi 28. febr. 2023; um lagaskil sjá 147. gr.; EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567). 
+Tóku gildi 1. janúar 2020. Breytt með:  L. 117/2019 (tóku gildi 1. jan. 2020 nema 7. gr. sem tók gildi 2. okt. 2019). L. 70/2021 (tóku gildi 29. júní 2021). L. 115/2021 (tóku gildi 1. sept. 2021 nema 39. gr. sem tók gildi 1. nóv. 2021 og 5. mgr. 48. gr. sem tók gildi 28. febr. 2023; um lagaskil sjá 147. gr.; EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567). L. 49/2023 (tóku gildi 28. júní 2023). L. 52/2023 (tóku gildi 28. júní 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 forsætisráðherra eða 
 forsætisráðuneyti sem fer með lög þessi að undanskildum málefnum skv. 12. gr., 15. gr., 31. gr., 4. mgr. 37. gr., 40. gr. og ákvæði til bráðabirgða V sem heyra undir 
@@ -53,12 +53,13 @@ Yfirstjórn.
 
  Seðlabankastjóri stýrir og ber ábyrgð á starfsemi og rekstri Seðlabanka Íslands og fer með ákvörðunarvald í öllum málefnum bankans sem ekki eru falin öðrum með lögum.
 
- Ákvarðanir um beitingu stjórntækja Seðlabankans í peningamálum eru teknar af peningastefnunefnd, sbr. 9. gr. Ákvarðanir um beitingu stjórntækja Seðlabankans varðandi fjármálastöðugleika eru teknar af fjármálastöðugleikanefnd, sbr. 12. gr. Ákvarðanir sem faldar eru Fjármálaeftirlitinu í lögum eða stjórnvaldsfyrirmælum heyra undir fjármálaeftirlitsnefnd, sbr. 15. gr.
+ Ákvarðanir um beitingu stjórntækja Seðlabankans í peningamálum eru teknar af peningastefnunefnd, sbr. 9. gr. Ákvarðanir um beitingu stjórntækja Seðlabankans varðandi fjármálastöðugleika eru teknar af fjármálastöðugleikanefnd, sbr. 12. gr. [Ákvarðanir sem faldar eru Fjármálaeftirlitinu í lögum eða stjórnvaldsfyrirmælum eru teknar af Seðlabanka Íslands eða fjármálaeftirlitsnefnd, sbr. 15. gr.]
+1)
 
  Ákvarðanir um varðveislu gjaldeyrisforða, sbr. 30. gr., og veitingu ábyrgða eða lána til lánastofnana í lausafjárvanda á grundvelli 2. mgr. 19. gr. skulu teknar af seðlabankastjóra og varaseðlabankastjórum á fundi sem seðlabankastjóri boðar til. Á sama hátt skal taka ákvarðanir um setningu reglna um [verndunarráðstafanir við sérstakar aðstæður og sérstaka bindiskyldu]
-1) vegna nýs innstreymis erlends gjaldeyris á grundvelli laga um gjaldeyrismál, ákvarðanir um setningu reglna um starfsemi skipulegra gjaldeyrismarkaða, sbr. 2. mgr. 27. gr., og um skipulag og setningu reglna um starfsemi bankans. Skal seðlabankastjóri boða til fundar þegar að minnsta kosti tveir varaseðlabankastjórar óska eftir því. Fundurinn er ályktunarhæfur ef meiri hluti bankastjóra situr hann. Afl atkvæða ræður úrslitum við afgreiðslu mála. Falli atkvæði jafnt ræður atkvæði seðlabankastjóra. Halda skal fundargerðir um fundi seðlabankastjóra og varaseðlabankastjóra þar sem sameiginlegar ákvarðanir þeirra skulu skráðar.
+2) vegna nýs innstreymis erlends gjaldeyris á grundvelli laga um gjaldeyrismál, ákvarðanir um setningu reglna um starfsemi skipulegra gjaldeyrismarkaða, sbr. 2. mgr. 27. gr., og um skipulag og setningu reglna um starfsemi bankans. Skal seðlabankastjóri boða til fundar þegar að minnsta kosti tveir varaseðlabankastjórar óska eftir því. Fundurinn er ályktunarhæfur ef meiri hluti bankastjóra situr hann. Afl atkvæða ræður úrslitum við afgreiðslu mála. Falli atkvæði jafnt ræður atkvæði seðlabankastjóra. Halda skal fundargerðir um fundi seðlabankastjóra og varaseðlabankastjóra þar sem sameiginlegar ákvarðanir þeirra skulu skráðar.
    
-1)L. 70/2021, 27. gr. 
+1)L. 49/2023, 1. gr. 2)L. 70/2021, 27. gr. 
 
 
 
@@ -244,11 +245,41 @@ Fjármálaeftirlitsnefnd.
 15. gr.
 Hlutverk og skipan fjármálaeftirlitsnefndar.
 
- Fjármálaeftirlitsnefnd skal taka ákvarðanir sem faldar eru Fjármálaeftirlitinu samkvæmt lögum og stjórnvaldsfyrirmælum. Nefndin getur framselt til varaseðlabankastjóra fjármálaeftirlits vald sitt til töku ákvarðana sem ekki teljast meiri háttar.
+ [Fjármálaeftirlitsnefnd setur stefnu um beitingu stjórnsýsluviðurlaga og þvingunarúrræða og skal veita umsögn um stefnumarkandi áherslur í fjármálaeftirliti. Varaseðlabankastjóri fjármálaeftirlits undirbýr tillögu að stefnumörkun við framkvæmd fjármálaeftirlits og hefur umsjón með innleiðingu hennar að lokinni umfjöllun í nefndinni. Þá tekur nefndin ákvarðanir um eftirfarandi: 
+   
+a. afturköllun starfsleyfis og skráningar vegna alvarlegra eða ítrekaðra brota,
+   
+b. álagningu stjórnvaldssekta,
+   
+c. samkomulag um sátt þegar um fordæmisgefandi mál er að ræða,
+   
+d. kæru til lögreglu vegna meintra brota gegn þeim lögum sem Fjármálaeftirlitinu er falið að hafa eftirlit með,
+   
+e. beitingu dagsekta til að knýja á um úrbætur,
+   
+f. beitingu févítis,
+   
+g. frávikningu stjórnarmanns og framkvæmdastjóra þegar hæfisskilyrði eru ekki uppfyllt vegna brotlegrar háttsemi,
+   
+h. aðrar ákvarðanir en getið er um í a–g-lið sem teljast sérstaklega þýðingarmiklar eða hafa veruleg áhrif.
 
- Í fjármálaeftirlitsnefnd situr varaseðlabankastjóri fjármálaeftirlits, varaseðlabankastjóri fjármálastöðugleika og þrír sérfræðingar í málefnum fjármálamarkaðar sem ráðherra sem fer með málefni fjármálamarkaðar skipar til fimm ára í senn. Samsetning fjármálaeftirlitsnefndar skal vera þannig að nefndin búi sameiginlega yfir fullnægjandi þekkingu, hæfni og reynslu til að vinna þau verkefni sem nefndinni eru falin. Ráðherra getur aðeins skipað sama mann í fjármálaeftirlitsnefnd tvisvar sinnum. Varaseðlabankastjóri fjármálaeftirlits er formaður fjármálaeftirlitsnefndar og er varaseðlabankastjóri fjármálastöðugleika staðgengill hans. Við töku ákvarðana um setningu starfsreglna skv. 2. mgr. 16. gr., ákvarðana um framsal valds til varaseðlabankastjóra fjármálaeftirlits til töku ákvarðana sem teljast ekki meiri háttar ákvarðanir sem og ákvarðana sem varða eigið fé, laust fé og fjármögnun kerfislega mikilvægra fjármálafyrirtækja tekur seðlabankastjóri sæti í fjármálaeftirlitsnefnd sem formaður nefndarinnar og er þá varaseðlabankastjóri fjármálaeftirlits staðgengill hans.
+ Seðlabankinn tekur aðrar ákvarðanir sem faldar eru Fjármálaeftirlitinu í stjórnvaldsfyrirmælum eða lögum. Seðlabankinn skal, að teknu tilliti til lögbundinna tímafresta, gefa fjármálaeftirlitsnefnd tækifæri til að koma að ábendingum og athugasemdum áður en teknar eru ákvarðanir í eftirfarandi málum: 
+   
+a. ákvörðunum sem varða könnunar- og matsferli fjármálafyrirtækja sem teljast kerfislega mikilvæg,
+   
+b. veitingu eða synjun starfsleyfis til eftirlitsskyldra aðila,
+   
+c. afgreiðslu á tilkynningum um virka eignarhluti eftirlitsskyldra aðila,
+   
+d. höfðun dómsmáls, áfrýjun eða kæru á niðurstöðu dómsmáls til æðri dómstóls í málefnum fjármálaeftirlits.]
+1)
+
+ [Í fjármálaeftirlitsnefnd sitja seðlabankastjóri, varaseðlabankastjóri fjármálaeftirlits, varaseðlabankastjóri fjármálastöðugleika og þrír sérfræðingar í málefnum fjármálamarkaðar skipaðir af ráðherra sem fer með málefni fjármálaeftirlits. Skipunartími þeirra þriggja sérfræðinga sem ráðherra skipar er frá þremur til fimm ára og skal þess að jafnaði gætt að skipun sérfræðinganna þriggja ljúki ekki á sama tíma. Samsetning fjármálaeftirlitsnefndar skal vera þannig að nefndin búi sameiginlega yfir fullnægjandi þekkingu, hæfni og reynslu til að vinna þau verkefni sem nefndinni eru falin. Sami einstaklingur getur setið í fjármálaeftirlitsnefnd í að hámarki tíu ár. Seðlabankastjóri er formaður fjármálaeftirlitsnefndar og er varaseðlabankastjóri fjármálaeftirlits staðgengill hans.]
+1)
 
  Nefndarmenn í fjármálaeftirlitsnefnd sem ráðherra skipar skulu koma fyrir þá þingnefnd sem þingforseti ákveður áður en skipun tekur gildi eða svo fljótt sem auðið er. Þeir skulu vera lögráða og mega aldrei hafa verið sviptir forræði á búi sínu. Þeir skulu hafa gott orðspor og mega ekki í tengslum við atvinnurekstur hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga eða gjaldþrot eða þeim sérlögum sem gilda um eftirlitsskylda aðila. Þá er þeim óheimilt að sinna störfum utan bankans sem geta verið til þess fallin að draga óhlutdrægni þeirra í efa. Ráðherra hefur úrskurðarvald ef ágreiningur rís um beitingu þessa ákvæðis. Ráðherra getur með reglugerð kveðið nánar á um hæfisskilyrði nefndarmanna í fjármálaeftirlitsnefnd.
+   
+1)L. 49/2023, 2. gr. 
 
 
 
@@ -257,9 +288,12 @@ Fundir fjármálaeftirlitsnefndar.
 
  Fjármálaeftirlitsnefnd er ályktunarhæf ef fjórir nefndarmenn sitja fund nefndarinnar. Ákvarðanir fjármálaeftirlitsnefndar skulu teknar með einföldum meiri hluta, en falli atkvæði jöfn ræður atkvæði formanns.
 
- Fjármálaeftirlitsnefnd skal halda fundi að jafnaði tíu sinnum á ári. Auk þess getur fjármálaeftirlitsnefnd haldið fund ef formaður ákveður eða þrír nefndarmenn krefjast þess. Fjármálaeftirlitsnefnd setur sér starfsreglur, m.a. um undirbúning, rökstuðning og birtingu ákvarðana sinna. Fjármálaeftirlitsnefnd skal halda fundargerðir. Fjármálaeftirlitsnefnd er heimilt að birta opinberlega ákvarðanir sínar. Þó skal ekki birta ákvörðun verði hún talin stefna hagsmunum fjármálamarkaðarins í hættu, varði hún ekki hagsmuni markaðarins sem slíks eða ef ætla má að birting hennar valdi hlutaðeigandi aðilum tjóni sem telst ekki í samræmi við tilefni ákvörðunarinnar.
+ [Fjármálaeftirlitsnefnd skal halda fundi eins oft og þörf er á, að jafnaði ekki sjaldnar en sex sinnum á ári. Fjármálaeftirlitsnefnd heldur fundi ef formaður ákveður eða þrír nefndarmenn krefjast þess.]
+1) Fjármálaeftirlitsnefnd setur sér starfsreglur, m.a. um undirbúning, rökstuðning og birtingu ákvarðana sinna. Fjármálaeftirlitsnefnd skal halda fundargerðir. Fjármálaeftirlitsnefnd er heimilt að birta opinberlega ákvarðanir sínar. Þó skal ekki birta ákvörðun verði hún talin stefna hagsmunum fjármálamarkaðarins í hættu, varði hún ekki hagsmuni markaðarins sem slíks eða ef ætla má að birting hennar valdi hlutaðeigandi aðilum tjóni sem telst ekki í samræmi við tilefni ákvörðunarinnar.
 
  Fjármálaeftirlitsnefnd skal skila Alþingi skýrslu um störf sín einu sinni á ári. Skýrsluna skal ræða í þeirri þingnefnd sem þingforseti ákveður.
+   
+1)L. 49/2023, 3. gr. 
 
 
 VI. kafli.
@@ -665,3 +699,11 @@ VI.
 VII.
 
  Úttekt skv. 36. gr. skal gera fyrsta sinni fyrir lok árs 2022.
+
+
+[VIII.
+
+ Þrátt fyrir ákvæði 3. mgr. 5. gr. skulu laun seðlabankastjóra og varaseðlabankastjóra hækka um 2,5% frá og með 1. júlí 2023 í stað hækkunar samkvæmt ákvæðinu hinn 1. júlí 2023.]
+1)
+   
+1)L. 52/2023, 6. gr.

@@ -7,7 +7,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 10. desember 1999. EES-samningurinn: IX. viðauki tilskipun 98/26/EB. Breytt með:  L. 159/2012 (tóku gildi 3. jan. 2013; EES-samningurinn: IX. viðauki tilskipun 98/26/EB, tilskipun 2009/44/EB). L. 15/2018 (tóku gildi 1. okt. 2018; EES-samningurinn: IX. viðauki reglugerð 648/2012). L. 91/2019 (tóku gildi 1. jan. 2020 nema 133. gr. sem tók gildi 16. júlí 2019). L. 137/2019 (tóku gildi 31. des. 2019). L. 7/2020 (tóku gildi 21. febr. 2020; EES-samningurinn: IX. viðauki reglugerð 909/2014, 236/2012). L. 115/2021 (tóku gildi 1. sept. 2021 nema 39. gr. sem tók gildi 1. nóv. 2021 og 5. mgr. 48. gr. sem tók gildi 28. febr. 2023; um lagaskil sjá 147. gr.; EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). 
+Tóku gildi 10. desember 1999. EES-samningurinn: IX. viðauki tilskipun 98/26/EB. Breytt með:  L. 159/2012 (tóku gildi 3. jan. 2013; EES-samningurinn: IX. viðauki tilskipun 98/26/EB, tilskipun 2009/44/EB). L. 15/2018 (tóku gildi 1. okt. 2018; EES-samningurinn: IX. viðauki reglugerð 648/2012). L. 91/2019 (tóku gildi 1. jan. 2020 nema 133. gr. sem tók gildi 16. júlí 2019). L. 137/2019 (tóku gildi 31. des. 2019). L. 7/2020 (tóku gildi 21. febr. 2020; EES-samningurinn: IX. viðauki reglugerð 909/2014, 236/2012). L. 115/2021 (tóku gildi 1. sept. 2021 nema 39. gr. sem tók gildi 1. nóv. 2021 og 5. mgr. 48. gr. sem tók gildi 28. febr. 2023; um lagaskil sjá 147. gr.; EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). L. 63/2023 (tóku gildi 8. júlí 2023; EES-samningurinn: IX. viðauki tilskipun 2019/879). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 fjármála- og efnahagsráðherra eða 
 fjármála- og efnahagsráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -89,7 +89,8 @@ Greiðslujöfnunarstöð: Aðili sem vinnur úr [fyrirmælum]
 2) sem berast frá stofnunum og annast greiðslujöfnun þeirra á milli, einnig milligöngu- og uppgjörsaðili, ef það á við.
    
 9.
-[Þátttakandi: Stofnun, milligönguaðili, greiðslujöfnunarstöð, uppgjörsaðili eða kerfisstjóri. Sami þátttakandi getur gegnt hlutverki milligönguaðila, uppgjörsaðila eða greiðslujöfnunarstöðvar, öllum fyrrgreindum hlutverkum í einu eða hluta þeirra.]
+[Þátttakandi: Stofnun, milligönguaðili, greiðslujöfnunarstöð, uppgjörsaðili, [kerfisstjóri eða uppgjörsaðili að miðlægum mótaðila].
+5) Sami þátttakandi getur gegnt hlutverki milligönguaðila, uppgjörsaðila eða greiðslujöfnunarstöðvar, öllum fyrrgreindum hlutverkum í einu eða hluta þeirra.]
 2)
    
 10.
@@ -106,7 +107,7 @@ Seðlabanki: Seðlabanki í aðildarríki á Evrópska efnahagssvæðinu eða Se
    
 [13. [
 Fjármálagerningur: Fjármálagerningur í skilningi laga um markaði fyrir fjármálagerninga.]
-5)
+6)
    
 14.
 Kerfisstjóri: Sú eining eða einingar sem bera lagalega ábyrgð á rekstri kerfis. Kerfisstjóri getur jafnframt verið milligönguaðili, greiðslujöfnunarstöð eða uppgjörsaðili.
@@ -118,7 +119,7 @@ Rekstrarsamhæfð kerfi: Tvö eða fleiri kerfi þar sem kerfisstjórarnir hafa 
 Viðskiptadagur: Nær yfir uppgjör að nóttu jafnt sem degi og tekur til allra atburða innan viðskiptalotu kerfis.]
 2)
    
-1)L. 7/2020, 34. gr. 2)L. 159/2012, 2. gr. 3)L. 38/2022, 151. gr. 4)L. 137/2019, 19. gr. 5)L. 115/2021, 148. gr. 
+1)L. 7/2020, 34. gr. 2)L. 159/2012, 2. gr. 3)L. 38/2022, 151. gr. 4)L. 137/2019, 19. gr. 5)L. 63/2023, 36. gr. 6)L. 115/2021, 148. gr. 
 
 
 

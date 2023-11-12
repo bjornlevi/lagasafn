@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 7. apríl 1993. Breytt með:  L. 87/1995 (tóku gildi 1. júlí 1995). L. 73/1996 (tóku gildi 19. júní 1996). L. 82/1998 (tóku gildi 1. okt. 1998). L. 31/2001 (tóku gildi 16. maí 2001). L. 63/2003 (tóku gildi 7. apríl 2003). Bbl. 103/2003 (tóku gildi 1. júlí 2003). L. 116/2003 (tóku gildi 12. nóv. 2003). L. 76/2005 (tóku gildi 1. jan. 2006). L. 167/2007 (tóku gildi 1. jan. 2008). L. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008). L. 143/2009 (tóku gildi 1. mars 2010 nema II.–IV. kafli sem tóku gildi 1. nóv. 2011 (utan 43. gr. í IV. kafla sem tók gildi 1. mars 2010) og 54. og 55. gr. og 9. efnismgr. 63. gr. sem tóku gildi 1. mars 2011; EES-samningurinn: I. og II. viðauki reglugerð 178/2002). L. 126/2011 (tóku gildi 30. sept. 2011). L. 4/2014 (tóku gildi 25. jan. 2014). L. 71/2015 (tóku gildi 21. júlí 2015). L. 93/2019 (tóku gildi 1. jan. 2020 nema 4., 10. og 11. gr. sem tóku gildi 16. júlí 2019). L. 101/2020 (tóku gildi 23. júlí 2020). L. 128/2022 (tóku gildi 1. jan. 2023 nema 1., 2., 6. og 9. gr. sem tóku gildi 31. des. 2022). 
+Tóku gildi 7. apríl 1993. Breytt með:  L. 87/1995 (tóku gildi 1. júlí 1995). L. 73/1996 (tóku gildi 19. júní 1996). L. 82/1998 (tóku gildi 1. okt. 1998). L. 31/2001 (tóku gildi 16. maí 2001). L. 63/2003 (tóku gildi 7. apríl 2003). Bbl. 103/2003 (tóku gildi 1. júlí 2003). L. 116/2003 (tóku gildi 12. nóv. 2003). L. 76/2005 (tóku gildi 1. jan. 2006). L. 167/2007 (tóku gildi 1. jan. 2008). L. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008). L. 143/2009 (tóku gildi 1. mars 2010 nema II.–IV. kafli sem tóku gildi 1. nóv. 2011 (utan 43. gr. í IV. kafla sem tók gildi 1. mars 2010) og 54. og 55. gr. og 9. efnismgr. 63. gr. sem tóku gildi 1. mars 2011; EES-samningurinn: I. og II. viðauki reglugerð 178/2002). L. 126/2011 (tóku gildi 30. sept. 2011). L. 4/2014 (tóku gildi 25. jan. 2014). L. 71/2015 (tóku gildi 21. júlí 2015). L. 93/2019 (tóku gildi 1. jan. 2020 nema 4., 10. og 11. gr. sem tóku gildi 16. júlí 2019). L. 101/2020 (tóku gildi 23. júlí 2020). L. 128/2022 (tóku gildi 1. jan. 2023 nema 1., 2., 6. og 9. gr. sem tóku gildi 31. des. 2022). L. 60/2023 (tóku gildi 7. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 matvælaráðherra eða 
 matvælaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -189,7 +189,7 @@ b. hreinsun, sótthreinsun og eyðingu fatnaðar.
 Augl. 241/2017. 
   Augl. 1107/2020. 
   Augl. 380/2022, sbr. 
-  683/2022 4)L. 4/2014, 3. gr. 5)L. 101/2020, 4. gr. 6)L. 116/2003, 9. gr. 
+  augl. 683/2022. 4)L. 4/2014, 3. gr. 5)L. 101/2020, 4. gr. 6)L. 116/2003, 9. gr. 
 
 
 V. kafli.
@@ -277,10 +277,33 @@ laga nr. 55/2003, um meðhöndlun úrgangs.
  Vinnslu-, geymslu-, lífgas- og myltingarstöðvar, svo og stöðvar fyrir milliefni og líffituefni, sem ætlað er að vinna aukaafurðir úr dýrum sem ekki teljast til úrgangs, þ.m.t. stöðvar sem annast vinnslu úr sjávar- og eldisafurðum, skulu hafa starfsleyfi frá Matvælastofnun áður en rekstur hefst.
 
  Ráðherra setur með reglugerð
-1) nánari ákvæði um aukaafurðir dýra sem ekki eru ætlaðar til manneldis, svo sem meðferð slíkra aukaafurða, flokkun og starfsleyfi vegna þeirra, sbr. 29. gr. a.]
-2)
+1) nánari ákvæði um aukaafurðir dýra sem ekki eru ætlaðar til manneldis, svo sem meðferð slíkra aukaafurða, flokkun og starfsleyfi vegna þeirra, sbr. 29. gr. a.
+
+ [Fyrir eftirlit, umsýslu og skjalaskoðun Matvælastofnunar vegna aukaafurða dýra skal greiða gjald sem ekki er hærra en raunkostnaður til að standa straum af eftirtöldum kostnaðarþáttum: 
    
-1)Rg. 120/2010. Rg. 121/2010. Rg. 122/2010. Rg. 123/2010. Rg. 124/2010. Rg. 125/2010. Rg. 126/2010. Rg. 169/2011. Rg. 261/2011. Rg. 674/2017, sbr. 1046/2017, 328/2018, 362/2018, 992/2019, 1339/2019, 161/2020, 879/2020, 205/2021, 530/2021, 1165/2021, 441/2022 og 934/2022. 2)L. 143/2009, 33. gr. 
+a. launum starfsfólks sem sinnir störfum vegna eftirlits, umsýslu og skjalaskoðunar,
+   
+b. öðrum kostnaði vegna starfsfólks, þ.m.t. kostnaði af aðstöðu, áhöldum, búnaði, þjálfun og ferðalögum, svo og tengdum kostnaði,
+   
+c. kostnaði vegna sýnatöku opinberra eftirlitsaðila og kostnaði sem opinberar rannsóknastofur innheimta vegna sýnatöku, greiningar, prófunar og sjúkdómsgreininga sem framkvæmdar eru á opinberum rannsóknastofum.
+
+ Ráðherra er heimilt að setja reglugerð um eftirlit, umsýslu og skjalaskoðun Matvælastofnunar vegna aukaafurða dýra og skal hann gefa út gjaldskrá fyrir eftirlit Matvælastofnunar að fengnum tillögum stofnunarinnar.
+
+ Við gerð reglugerðar og gjaldskrár opinberra eftirlitsaðila er heimilt að taka tillit til eftirfarandi atriða: 
+   
+a. hvers konar fyrirtæki um er að ræða og viðkomandi áhættuþátta,
+   
+b. hagsmuna fyrirtækja með litla framleiðslu,
+   
+c. hefðbundinna aðferða við framleiðslu, vinnslu og dreifingu,
+   
+d. þarfa fyrirtækja með aðsetur á svæðum sem líða fyrir landfræðilegar takmarkanir.
+
+ Matvælastofnun skal afla umsagnar hlutaðeigandi hagsmunasamtaka og kynna þeim efni og forsendur reglugerðar og/eða gjaldskrár stofnunarinnar með a.m.k. eins mánaðar fyrirvara. Hafi umsagnir þeirra ekki borist Matvælastofnun að mánuði liðnum er ráðherra þó heimilt að setja reglugerð og gjaldskrá án umsagna þeirra.]
+2)]
+3)
+   
+1)Rg. 120/2010. Rg. 121/2010. Rg. 122/2010. Rg. 123/2010. Rg. 124/2010. Rg. 125/2010. Rg. 126/2010. Rg. 169/2011. Rg. 261/2011. Rg. 674/2017, sbr. 1046/2017, 328/2018, 362/2018, 992/2019, 1339/2019, 161/2020, 879/2020, 205/2021, 530/2021, 1165/2021, 441/2022, 934/2022 og 538/2023. 2)L. 60/2023, 4. gr. 3)L. 143/2009, 33. gr. 
 
 
 
@@ -471,7 +494,7 @@ VII. kafli.
 4)
    
 1)L. 126/2011, 172. gr. 2)Rg. 200/1998, sbr. 30/2000, 221/2002, 1105/2005, 324/2009 og 866/2010. Rg. 557/1998. 
-  Augl. 635/2001. Rg. 651/2001, sbr. 726/2004, 807/2006 og 938/2014. Rg. 665/2001, sbr. 831/2012. Rg. 527/2003. Rg. 449/2005, sbr. 712/2006. Rg. 740/2006. Rg. 550/2008, sbr. 602/2010, 669/2012, 686/2020 og 1080/2022. Rg. 1254/2008, sbr. 936/2014. Rg. 560/2010, sbr. 657/2010 og 1012/2018. Rg. 911/2011, sbr. 962/2012, 996/2013, 186/2015, 1079/2019 og 332/2021. Rg. 972/2011, sbr. 89/2012 og 183/2012. Rg. 1011/2011, sbr. 371/2012, 137/2021 og 1208/2021. Rg. 1012/2011. Rg. 1013/2011. Rg. 1014/2011, sbr. 214/2012. Rg. 1043/2011. Rg. 1044/2011. Rg. 1077/2011. Rg. 41/2012, sbr. 356/2012, 1124/2013, 161/2014, 963/2014, 987/2015, 32/2016, 316/2017, 467/2017, 173/2018, 358/2018, 897/2018, 1074/2018, 172/2019, 881/2020, 1148/2020, 454/2021, 1057/2021 og 931/2022. Rg. 211/2012. Rg. 212/2012, sbr. 370/2012 og 1332/2019. Rg. 217/2012. Rg. 254/2012. Rg. 303/2012. Rg. 346/2012. Rg. 369/2012. Rg. 522/2012. Rg. 570/2012, sbr. 760/2012. Rg. 763/2012. Rg. 848/2012, sbr. 1054/2012. Rg. 916/2012, sbr. 748/2016. Rg. 119/2013. Rg. 220/2013. Rg. 221/2013. Rg. 271/2013. Rg. 272/2013. Rg. 273/2013. Rg. 371/2013. Rg. 372/2013, sbr. 1330/2019. Rg. 390/2014, sbr. 1336/2019 og 13/2021. Rg. 560/2014, sbr. 840/2014, 480/2015, 707/2015, 811/2015, 1031/2015, 188/2016, 259/2016, 915/2016, 906/2017, 1076/2018, 277/2019, 1337/2019, 59/2020, 207/2020, 233/2020, 333/2020, 839/2020, 996/2020, 1344/2020, 12/2021, 152/2021, 231/2021, 406/2021, 475/2021 og 579/2021. Rg. 661/2014, sbr. 1331/2019. Rg. 886/2014, sbr. 145/2018. Rg. 907/2014, sbr. 958/2014, 569/2015, 186/2016, 231/2017, 86/2018, 820/2019, 1338/2019, 232/2020 og 11/2021. Rg. 910/2014. Rg. 1065/2014, sbr. 379/2022. Rg. 1066/2014, sbr. 836/2021. Rg. 1276/2014, sbr. 529/2015 og 358/2019. Rg. 1277/2014. Rg. 136/2015, sbr. 291/2017. Rg. 167/2015, sbr. 354/2015, 421/2015, 956/2015, 12/2016, 412/2016, 480/2016, 1047/2016, 330/2017, 464/2017, 470/2017, 743/2017, 357/2018, 173/2019, 513/2019, 788/2019, 1149/2020, 207/2021, 536/2021 og 1287/2021. Rg. 170/2015. Rg. 850/2015, sbr. 933/2016. Rg. 187/2016. Rg. 540/2016. Rg. 856/2016. Rg. 315/2017. Rg. 527/2017, sbr. 597/2018 og 927/2019. Rg. 977/2017. Rg. 300/2018, sbr. 1447/2021. Rg. 324/2018. Rg. 511/2018. Rg. 811/2018. Rg. 1000/2018, sbr. 228/2022. Rg. 359/2019. Rg. 520/2019. Rg. 891/2019. Rg. 1250/2019. Rg. 1251/2019. Rg. 284/2020. Rg. 486/2020. Rg. 487/2020, sbr. 1039/2022. Rg. 488/2020. Rg. 490/2020. Rg. 501/2020. Rg. 502/2020, sbr. 8/2021. Rg. 503/2020. Rg. 504/2020. Rg. 505/2020. Rg. 506/2020. Rg. 507/2020, sbr. 733/2020, 1343/2020, 474/2021, 57/2022, 452/2022, 1037/2022 og 146/2023. Rg. 509/2020, sbr. 528/2021. Rg. 16/2021. Rg. 266/2021, sbr. 1361/2021. Rg. 458/2021. Rg. 462/2021, sbr. 634/2021, 1059/2021, 1369/2021, 717/2022, 1033/2022 og 283/2023. Rg. 463/2021. Rg. 464/2021. Rg. 580/2021, sbr. 61/2022, 383/2022, 443/2022, 524/2022, 525/2022, 711/2022, 927/2022, 1031/2022, 1143/2022, 1236/2022, 1393/2022, 1547/2022 og 261/2023. Rg. 581/2021, sbr. 453/2022 og 715/2022. Rg. 637/2021, sbr. 1548/2022. Rg. 1376/2021. Rg. 1377/2021, sbr. 708/2022 og 1041/2022. Rg. 88/2022, sbr. 1359/2022. Rg. 450/2022, sbr. 712/2022, 929/2022 og 1036/2022. Rg. 234/2020, sbr. 489/2020 og 451/2022. Rg. 454/2022, sbr. 721/2022, 1032/2022 og 1472/2022. Rg. 930/2022. Rg. 1034/2022. Rg. 1137/2022. Rg. 1607/2022. 3)Rg. 985/2005. 4)L. 116/2003, 11. gr. 
+  Augl. 635/2001. Rg. 651/2001, sbr. 726/2004, 807/2006, 938/2014 og 639/2023. Rg. 665/2001, sbr. 831/2012. Rg. 527/2003. Rg. 449/2005, sbr. 712/2006. Rg. 740/2006. Rg. 550/2008, sbr. 602/2010, 669/2012, 686/2020, 1080/2022 og 640/2023. Rg. 1254/2008, sbr. 936/2014. Rg. 560/2010, sbr. 657/2010 og 1012/2018. Rg. 911/2011, sbr. 962/2012, 996/2013, 186/2015, 1079/2019 og 332/2021. Rg. 972/2011, sbr. 89/2012 og 183/2012. Rg. 1011/2011, sbr. 371/2012, 137/2021 og 1208/2021. Rg. 1012/2011. Rg. 1013/2011. Rg. 1014/2011, sbr. 214/2012. Rg. 1043/2011. Rg. 1044/2011. Rg. 1077/2011. Rg. 41/2012, sbr. 356/2012, 1124/2013, 161/2014, 963/2014, 987/2015, 32/2016, 316/2017, 467/2017, 173/2018, 358/2018, 897/2018, 1074/2018, 172/2019, 881/2020, 1148/2020, 454/2021, 1057/2021 og 931/2022. Rg. 211/2012. Rg. 212/2012, sbr. 370/2012 og 1332/2019. Rg. 217/2012. Rg. 254/2012. Rg. 303/2012. Rg. 346/2012. Rg. 369/2012. Rg. 522/2012. Rg. 570/2012, sbr. 760/2012. Rg. 763/2012. Rg. 848/2012, sbr. 1054/2012. Rg. 916/2012, sbr. 748/2016. Rg. 119/2013. Rg. 220/2013. Rg. 221/2013. Rg. 271/2013. Rg. 272/2013. Rg. 273/2013. Rg. 371/2013. Rg. 372/2013, sbr. 1330/2019. Rg. 390/2014, sbr. 1336/2019 og 13/2021. Rg. 560/2014, sbr. 840/2014, 480/2015, 707/2015, 811/2015, 1031/2015, 188/2016, 259/2016, 915/2016, 906/2017, 1076/2018, 277/2019, 1337/2019, 59/2020, 207/2020, 233/2020, 333/2020, 839/2020, 996/2020, 1344/2020, 12/2021, 152/2021, 231/2021, 406/2021, 475/2021 og 579/2021. Rg. 661/2014, sbr. 1331/2019. Rg. 886/2014, sbr. 145/2018. Rg. 907/2014, sbr. 958/2014, 569/2015, 186/2016, 231/2017, 86/2018, 820/2019, 1338/2019, 232/2020 og 11/2021. Rg. 910/2014. Rg. 1065/2014, sbr. 379/2022. Rg. 1066/2014, sbr. 836/2021. Rg. 1276/2014, sbr. 529/2015 og 358/2019. Rg. 1277/2014. Rg. 136/2015, sbr. 291/2017. Rg. 167/2015, sbr. 354/2015, 421/2015, 956/2015, 12/2016, 412/2016, 480/2016, 1047/2016, 330/2017, 464/2017, 470/2017, 743/2017, 357/2018, 173/2019, 513/2019, 788/2019, 1149/2020, 207/2021, 536/2021 og 1287/2021. Rg. 170/2015. Rg. 850/2015, sbr. 933/2016. Rg. 187/2016. Rg. 540/2016. Rg. 856/2016. Rg. 315/2017. Rg. 527/2017, sbr. 597/2018 og 927/2019. Rg. 977/2017. Rg. 300/2018, sbr. 1447/2021. Rg. 324/2018. Rg. 511/2018. Rg. 811/2018. Rg. 1000/2018, sbr. 228/2022. Rg. 359/2019. Rg. 520/2019. Rg. 891/2019. Rg. 1250/2019. Rg. 1251/2019. Rg. 284/2020. Rg. 486/2020. Rg. 487/2020, sbr. 1039/2022. Rg. 488/2020. Rg. 490/2020. Rg. 501/2020. Rg. 502/2020, sbr. 8/2021. Rg. 503/2020. Rg. 504/2020. Rg. 505/2020. Rg. 506/2020. Rg. 507/2020, sbr. 733/2020, 1343/2020, 474/2021, 57/2022, 452/2022, 1037/2022 og 146/2023. Rg. 509/2020, sbr. 528/2021. Rg. 16/2021. Rg. 266/2021, sbr. 1361/2021. Rg. 458/2021. Rg. 462/2021, sbr. 634/2021, 1059/2021, 1369/2021, 717/2022, 1033/2022 og 283/2023. Rg. 463/2021. Rg. 464/2021. Rg. 580/2021, sbr. 61/2022, 383/2022, 443/2022, 524/2022, 525/2022, 711/2022, 927/2022, 1031/2022, 1143/2022, 1236/2022, 1393/2022, 1547/2022 og 261/2023. Rg. 581/2021, sbr. 453/2022 og 715/2022. Rg. 637/2021, sbr. 1548/2022. Rg. 1376/2021. Rg. 1377/2021, sbr. 708/2022 og 1041/2022. Rg. 88/2022, sbr. 1359/2022. Rg. 450/2022, sbr. 712/2022, 929/2022 og 1036/2022. Rg. 234/2020, sbr. 489/2020 og 451/2022. Rg. 454/2022, sbr. 721/2022, 1032/2022 og 1472/2022. Rg. 930/2022. Rg. 1034/2022. Rg. 1137/2022. Rg. 1607/2022. Rg. 846/2023. 3)Rg. 985/2005. 4)L. 116/2003, 11. gr. 
 
 
 
@@ -482,7 +505,7 @@ VII. kafli.
 2)]
 3)
    
-1)Rg. 120/2010. Rg. 121/2010. Rg. 122/2010. Rg. 123/2010. Rg. 124/2010. Rg. 125/2010. Rg. 126/2010. Rg. 127/2010. Rg. 489/2010, sbr. 478/2017 og 1334/2019. Rg. 564/2010. Rg. 565/2010. Rg. 606/2010. Rg. 169/2011. Rg. 261/2011. Rg. 820/2010. Rg. 674/2017, sbr. 1046/2017, 328/2018, 362/2018, 992/2019, 1339/2019, 161/2020, 879/2020, 205/2021, 530/2021, 1165/2021, 441/2022 og 934/2022. Rg. 1069/2021. 2)L. 71/2015, 2. gr. 3)L. 143/2009, 35. gr. 
+1)Rg. 120/2010. Rg. 121/2010. Rg. 122/2010. Rg. 123/2010. Rg. 124/2010. Rg. 125/2010. Rg. 126/2010. Rg. 127/2010. Rg. 489/2010, sbr. 478/2017 og 1334/2019. Rg. 564/2010. Rg. 565/2010. Rg. 606/2010. Rg. 169/2011. Rg. 261/2011. Rg. 820/2010. Rg. 674/2017, sbr. 1046/2017, 328/2018, 362/2018, 992/2019, 1339/2019, 161/2020, 879/2020, 205/2021, 530/2021, 1165/2021, 441/2022, 934/2022 og 538/2023. Rg. 1069/2021. 2)L. 71/2015, 2. gr. 3)L. 143/2009, 35. gr. 
 
 
 

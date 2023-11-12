@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. júlí 2008. Breytt með:  L. 126/2011 (tóku gildi 30. sept. 2011). L. 131/2011 (tóku gildi 1. jan. 2012). L. 157/2012 (tóku gildi 3. jan. 2013). L. 49/2014 (tóku gildi 29. maí 2014 nema 3. gr., 5. gr., 2. mgr. 7. gr., 3. og 5. mgr. c-liðar 8. gr., a-liður 11. gr., 12. gr., 16. gr., 21. gr. og 22. gr. sem tóku gildi 1. jan. 2015). L. 113/2015 (tóku gildi 1. júlí 2016). L. 47/2018 (tóku gildi 26. maí 2018). L. 88/2018 (tóku gildi 29. júní 2018). L. 108/2018 (tóku gildi 12. október 2018). L. 71/2019 (tóku gildi 5. júlí 2019). L. 101/2019 (tóku gildi 19. júlí 2019 nema 15. gr., b- og c-liður 17. gr. og 18., 19. og 22. gr. sem tóku gildi 1. jan. 2020). L. 88/2020 (tóku gildi 22. júlí 2020 nema 14. gr. sem tók gildi 1. jan. 2021). L. 59/2021 (tóku gildi 15. júní 2021). L. 71/2021 (tóku gildi 29. júní 2021 nema 29. gr. sem tók gildi 1. júlí 2021). L. 129/2022 (tóku gildi 1. jan. 2023 nema a-liður 31. gr. sem tók gildi 1. mars 2023 og 37. og 60. gr. sem tóku gildi 31. des. 2022; koma til framkvæmda skv. fyrirmælum í 68. gr., sbr. einnig brbákv. í s.l.). 
+Tóku gildi 1. júlí 2008. Breytt með:  L. 126/2011 (tóku gildi 30. sept. 2011). L. 131/2011 (tóku gildi 1. jan. 2012). L. 157/2012 (tóku gildi 3. jan. 2013). L. 49/2014 (tóku gildi 29. maí 2014 nema 3. gr., 5. gr., 2. mgr. 7. gr., 3. og 5. mgr. c-liðar 8. gr., a-liður 11. gr., 12. gr., 16. gr., 21. gr. og 22. gr. sem tóku gildi 1. jan. 2015). L. 113/2015 (tóku gildi 1. júlí 2016). L. 47/2018 (tóku gildi 26. maí 2018). L. 88/2018 (tóku gildi 29. júní 2018). L. 108/2018 (tóku gildi 12. október 2018). L. 71/2019 (tóku gildi 5. júlí 2019). L. 101/2019 (tóku gildi 19. júlí 2019 nema 15. gr., b- og c-liður 17. gr. og 18., 19. og 22. gr. sem tóku gildi 1. jan. 2020). L. 88/2020 (tóku gildi 22. júlí 2020 nema 14. gr. sem tók gildi 1. jan. 2021). L. 59/2021 (tóku gildi 15. júní 2021). L. 71/2021 (tóku gildi 29. júní 2021 nema 29. gr. sem tók gildi 1. júlí 2021). L. 129/2022 (tóku gildi 1. jan. 2023 nema a-liður 31. gr. sem tók gildi 1. mars 2023 og 37. og 60. gr. sem tóku gildi 31. des. 2022; koma til framkvæmda skv. fyrirmælum í 68. gr., sbr. einnig brbákv. í s.l.). L. 28/2023 (tóku gildi 1. júlí 2023). L. 60/2023 (tóku gildi 7. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 matvælaráðherra eða 
 matvælaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -278,30 +278,31 @@ Móttaka og afgreiðsla umsókna.
 
  Til starfrækslu fiskeldisstöðva þarf starfsleyfi Umhverfisstofnunar og rekstrarleyfi Matvælastofnunar.
 
- [Þegar ákvörðun Skipulagsstofnunar, eða eftir atvikum hlutaðeigandi sveitarstjórnar, um að framkvæmd sé ekki matsskyld eða álit stofnunarinnar um mat á umhverfisáhrifum framkvæmdar liggur fyrir skal umsækjandi afhenda Matvælastofnun umsóknir um leyfi skv. 1. mgr. og skulu þær afgreiddar samhliða, sbr. þó 2. mgr. 
-17. gr. laga um mat á umhverfisáhrifum, nr. 106/2000.]
-1)
+ [Þegar ákvörðun Skipulagsstofnunar, eða eftir atvikum hlutaðeigandi sveitarstjórnar, um að framkvæmd sé ekki matsskyld eða álit stofnunarinnar um mat á umhverfisáhrifum framkvæmdar liggur fyrir skal umsækjandi afhenda Matvælastofnun umsóknir um leyfi skv. 1. mgr. og skulu þær afgreiddar samhliða, sbr. þó [
+11. gr. laga um umhverfismat framkvæmda og áætlana, nr. 111/2021].]
+2)
 
  Matvælastofnun skal framsenda umsókn um starfsleyfi fyrir eldi ferskvatns- og sjávarlífvera til Umhverfisstofnunar til meðferðar samkvæmt 
 lögum nr. 7/1998, um hollustuhætti og mengunarvarnir. [Hvor stofnun um sig skal tilkynna umsækjanda hvort umsókn telst fullnægjandi innan mánaðar frá því að umsókn berst.]
 1) Þegar Umhverfisstofnun hefur gefið út starfsleyfi skal það sent Matvælastofnun. [Matvælastofnun afhendir umsækjanda útgefin starfs- og rekstrarleyfi samtímis.]
 1) [Varði umsókn um leyfi strandsvæði samkvæmt lögum um skipulag haf- og strandsvæða þar sem tillaga að strandsvæðisskipulagi hefur verið auglýst þegar umsókn er lögð fram er leyfisveitendum heimilt að fresta afgreiðslu á leyfisumsókn þar til strandsvæðisskipulag hefur tekið gildi fyrir viðkomandi svæði. Frestunin skal þó ekki vera lengri en sjö mánuðir nema sérstakar ástæður mæli með því.]
-2)]
-3)
+3)]
+4)
    
-1)L. 101/2019, 4. gr. 2)L. 88/2018, 18. gr. 3)L. 49/2014, 4. gr. 
+1)L. 101/2019, 4. gr. 2)L. 28/2023, 5. gr. 3)L. 88/2018, 18. gr. 4)L. 49/2014, 4. gr. 
 
 
 
 5. gr.
 [Skráningarskylda.
 
- Ráðherra er heimilt að kveða á um í reglugerð að starfræksla fiskeldisstöðva á landi, þar sem hámarkslífmassi er allt að 20 tonnum á hverjum tíma og starfrækslan er ekki háð mati á umhverfisáhrifum samkvæmt ákvörðun Skipulagsstofnunar samkvæmt lögum um mat á umhverfisáhrifum, sé háð skráningarskyldu í stað útgáfu rekstrarleyfis.
+ Ráðherra er heimilt að kveða á um í reglugerð að starfræksla fiskeldisstöðva á landi, þar sem hámarkslífmassi er allt að 20 tonnum á hverjum tíma og starfrækslan er ekki háð mati á umhverfisáhrifum samkvæmt ákvörðun Skipulagsstofnunar samkvæmt [lögum um umhverfismat framkvæmda og áætlana],
+1) sé háð skráningarskyldu í stað útgáfu rekstrarleyfis.
 
  Ráðherra er heimilt að setja í reglugerð kröfur, skilyrði og skilmála sem gilda fyrir starfsemi og eru forsenda skráningar, þ.m.t. kröfur um innra eftirlit, úttektir þegar nauðsyn ber til, skýrslugjöf til Matvælastofnunar og að stofnuninni sé heimilt að afla upplýsinga rafrænt og skylda skráningaraðila til að skrá upplýsingar í gagnagrunn sem stofnunin leggur til. Aðili sem er skráningarskyldur skv. 1. mgr. skal skrá starfsemi sína hjá Matvælastofnun. Matvælastofnun skal staðfesta skráningu rekstraraðila og leiðbeina honum um hvaða reglur gilda um starfsemina. Óheimilt er að flytja eldisfisk eða seiði í fiskeldisstöð áður en staðfesting Matvælastofnunar á skráningu hefur verið gefin út.]
-1)
+2)
    
-1)L. 71/2021, 2. gr. 
+1)L. 28/2023, 6. gr. 2)L. 71/2021, 2. gr. 
 
 
 
@@ -381,14 +382,15 @@ Rekstrarleyfi.
 8. gr.
 Umsókn um rekstrarleyfi.
 
- [Umsókn um rekstrarleyfi til fiskeldis skal vera skrifleg. Í henni skulu m.a. koma fram upplýsingar um eignaraðild að fiskeldisstöð, að umsækjandi hafi fullnægjandi fagþekkingu á viðkomandi sviði, að innra eftirlit stöðvar og eldisbúnaður standist kröfur sem nánar er kveðið á um í lögum þessum eða reglugerð um fiskeldi, um stærð og framleiðslumagn stöðvar mælt í lífmassa, eldistegundir, eldisstofna, hlutfall frjórra laxa og ófrjórra í eldi og eldisaðferðir. Einnig skal fylgja umsókn afrit af ákvörðun Skipulagsstofnunar um að framkvæmd sé ekki matsskyld eða álit stofnunarinnar um mat á umhverfisáhrifum framkvæmdar samkvæmt lögum um mat á umhverfisáhrifum.
+ [Umsókn um rekstrarleyfi til fiskeldis skal vera skrifleg. Í henni skulu m.a. koma fram upplýsingar um eignaraðild að fiskeldisstöð, að umsækjandi hafi fullnægjandi fagþekkingu á viðkomandi sviði, að innra eftirlit stöðvar og eldisbúnaður standist kröfur sem nánar er kveðið á um í lögum þessum eða reglugerð um fiskeldi, um stærð og framleiðslumagn stöðvar mælt í lífmassa, eldistegundir, eldisstofna, hlutfall frjórra laxa og ófrjórra í eldi og eldisaðferðir. Einnig skal fylgja umsókn afrit af ákvörðun Skipulagsstofnunar um að framkvæmd sé ekki matsskyld eða álit stofnunarinnar um mat á umhverfisáhrifum framkvæmdar samkvæmt [lögum um umhverfismat framkvæmda og áætlana].
+1)
 
  Umsókn skv. 1. mgr. skulu fylgja gögn um heimild til afnota af landi eða vatni eða gögn um úthlutun eldissvæðis skv. 4. gr. a ef við á. Umsókn skal einnig fylgja rekstraráætlun sem sýnir m.a. uppbyggingarferil eldis og öflun hrogna og seiða, svo og önnur gögn sem Matvælastofnun eru nauðsynleg til að meta hvort skilyrði til útgáfu rekstrarleyfis séu fyrir hendi.
 
  Umsókn um rekstrarleyfi sjókvíaeldisstöðvar skal fylgja áætlun um fjárfestingar í búnaði ásamt staðfestingu á stöðu eigin fjár og eiginfjárhlutfalli umsækjanda þegar umsókn er lögð fram. Eiginfjárhlutfall skal vera að lágmarki 30% að teknu tilliti til fjárfestinga í búnaði samkvæmt áætlun.]
-1)
+2)
    
-1)L. 101/2019, 9. gr. 
+1)L. 28/2023, 6. gr. 2)L. 101/2019, 9. gr. 
 
 
 
@@ -397,16 +399,19 @@ Umsókn um rekstrarleyfi.
 
  Ákvörðun Skipulagsstofnunar um matsskyldu framkvæmdar eða álit Skipulagsstofnunar um umhverfisáhrif framkvæmdar skal liggja fyrir áður en tillaga að rekstrarleyfi er auglýst opinberlega.
 
- [Sé fyrirhuguð starfsemi háð mati á umhverfisáhrifum skal Matvælastofnun fyrir útgáfu rekstrarleyfis kynna sér matsskýrslu framkvæmdaraðila og leggja álit Skipulagsstofnunar um mat á umhverfisáhrifum hennar til grundvallar. Matvælastofnun skal taka saman greinargerð um afgreiðslu leyfis þar sem gerð er grein fyrir samræmi milli leyfis og niðurstöðu álits Skipulagsstofnunar um mat á umhverfisáhrifum og rökstyðja sérstaklega ef í leyfinu er vikið frá niðurstöðu álitsins. Matvælastofnun skal í greinargerðinni einnig taka afstöðu til tengdra leyfisveitinga þegar tilefni er til ef um það er fjallað í áliti Skipulagsstofnunar. Sé framkvæmd ekki háð mati á umhverfisáhrifum samkvæmt ákvörðun Skipulagsstofnunar skal Matvælastofnun fyrir útgáfu rekstrarleyfis kynna sér tilkynningu framkvæmdaraðila og ákvörðun um matsskyldu og kanna hvort framkvæmdin sé í samræmi við tilkynnta framkvæmd.]
-1)
+ [Sé fyrirhuguð starfsemi háð mati á umhverfisáhrifum skal Matvælastofnun fyrir útgáfu rekstrarleyfis kynna sér matsskýrslu framkvæmdaraðila og leggja álit Skipulagsstofnunar um mat á umhverfisáhrifum hennar til grundvallar. Matvælastofnun skal taka saman greinargerð um afgreiðslu leyfis þar sem gerð er grein fyrir samræmi milli leyfis og niðurstöðu álits Skipulagsstofnunar um mat á umhverfisáhrifum …
+1). [Hafi Skipulagsstofnun sett skilyrði um mótvægisaðgerðir eða vöktun, sbr. 
+24. gr. laga um umhverfismat framkvæmda og áætlana, nr. 111/2021, skal það koma fram í leyfinu.]
+1) Matvælastofnun skal í greinargerðinni einnig taka afstöðu til tengdra leyfisveitinga þegar tilefni er til ef um það er fjallað í áliti Skipulagsstofnunar. Sé framkvæmd ekki háð mati á umhverfisáhrifum samkvæmt ákvörðun Skipulagsstofnunar skal Matvælastofnun fyrir útgáfu rekstrarleyfis kynna sér tilkynningu framkvæmdaraðila og ákvörðun um matsskyldu og kanna hvort framkvæmdin sé í samræmi við tilkynnta framkvæmd.]
+2)
 
  Matvælastofnun skal taka tillit til áhættumats erfðablöndunar skv. 6. gr. a og burðarþolsmats skv. 6. gr. b og taka rökstudda afstöðu til sjúkdómstengdra þátta sem kunna að fylgja starfsemi fiskeldisstöðvar.
 
  Matvælastofnun er heimilt að grípa til nauðsynlegra ráðstafana til að hefta útbreiðslu smitsjúkdóma eða sníkjudýra, svo sem kveðið er á um í 
 10. gr. laga um varnir gegn fisksjúkdómum, nr. 60/2006. Stofnunin getur m.a. skilgreint smitsjúkdómasvæði og takmarkað flutning lifandi eldisfiska milli slíkra svæða.]
-2)
+3)
    
-1)L. 88/2020, 19. gr. 2)L. 101/2019, 10. gr. 
+1)L. 28/2023, 7. gr. 2)L. 88/2020, 19. gr. 3)L. 101/2019, 10. gr. 
 
 
 
@@ -424,12 +429,13 @@ Efni og útgáfa rekstrarleyfis.
  Ráðherra er í reglugerð heimilt að mæla fyrir um nánari skilyrði sem setja má í rekstrarleyfi. …
 3)
 
- Við útgáfu rekstrarleyfis skal þess ávallt gætt að fullnægt sé ákvæðum laga um mat á umhverfisáhrifum og laga um hollustuhætti og mengunarvarnir.
+ Við útgáfu rekstrarleyfis skal þess ávallt gætt að fullnægt sé ákvæðum [laga um umhverfismat framkvæmda og áætlana]
+4) og laga um hollustuhætti og mengunarvarnir.
 
  [Matvælastofnun skal hafna útgáfu rekstrarleyfis til sjókvíaeldis sem felur í sér meiri framleiðslu en viðkomandi sjókvíaeldissvæði þolir samkvæmt burðarþolsmati. Burðarþolsmat skal framkvæmt af Hafrannsóknastofnun eða aðila sem ráðuneytið samþykkir að fenginni bindandi umsögn Hafrannsóknastofnunar.
 
  …
-4)
+5)
 
  Matvælastofnun skal hafna umsókn um rekstrarleyfi ef umsækjandi uppfyllir ekki kröfur skv. 2. málsl. 2. mgr. 7. gr.
 
@@ -439,7 +445,7 @@ Efni og útgáfa rekstrarleyfis.
 1) 9. gr. bendir til þess að fyrirhugað eldi feli í sér umtalsverða hættu á útbreiðslu sjúkdóma eða umtalsverð óæskileg áhrif á vistkerfi.]
 3)
    
-1)L. 101/2019, 11. gr. 2)L. 88/2018, 18. gr. 3)L. 49/2014, 8. gr. 4)L. 88/2020, 20. gr. 
+1)L. 101/2019, 11. gr. 2)L. 88/2018, 18. gr. 3)L. 49/2014, 8. gr. 4)L. 28/2023, 6. gr. 5)L. 88/2020, 20. gr. 
 
 
 
@@ -552,13 +558,31 @@ Eftirlit og skýrslugjöf.
 1) er heimilt að fela aðilum sem hlotið hafa faggildingu samkvæmt lögum um faggildingu o.fl. að annast framkvæmd eftirlitsins samkvæmt sérstökum samningi. Þeir skulu bundnir þagnarskyldu um það sem þeir fá vitneskju um við framkvæmd eftirlitsins og leynt á að fara. [Um þagnarskylduna gilda ákvæði X. kafla stjórnsýslulaga og skal brot á þeim varða refsingu skv. XIV. kafla almennra hegningarlaga.]
 4)
 
- [Fyrir eftirlit Matvælastofnunar eða faggiltra eftirlitsaðila á hennar vegum skulu fiskeldisstöðvar greiða eftirlitsgjald samkvæmt gjaldskrá sem ráðherra staðfestir. Eftirlitsgjald skal greitt samkvæmt framlögðum reikningi Matvælastofnunar. Ef eftirlitsgjald er ekki greitt á eindaga reiknast hæstu lögleyfðir dráttarvextir af fjárhæð þess frá gjalddaga til greiðsludags. Eftirlitsgjald má innheimta með fjárnámi án undangengins dóms eða sáttar. Eftirlitsgjaldið skal ekki vera hærra en raunkostnaður sem hlýst af eftirlitinu og er ætlað að standa straum af eftirtöldum kostnaðarþáttum: 
+ [Fyrir eftirlit, umsýslu og skjalaskoðun Matvælastofnunar eða faggiltra eftirlitsaðila á hennar vegum skal greiða gjald sem ekki er hærra en raunkostnaður til að standa straum af eftirtöldum kostnaðarþáttum: 
    
-a. launum starfsfólks sem sinnir störfum vegna eftirlits,
+a. launum starfsfólks sem sinnir störfum vegna eftirlits, umsýslu og skjalaskoðunar,
    
-b. öðrum kostnaði vegna starfsfólks, þ.m.t. vegna aðstöðu, áhalda, búnaðar, þjálfunar, ferðalaga og tengds kostnaðar,
+b. öðrum kostnaði vegna starfsfólks, þ.m.t. kostnaði af aðstöðu, áhöldum, búnaði, þjálfun og ferðalögum, svo og tengdum kostnaði,
    
-c. kostnaði við greiningu á rannsóknastofu og sýnatöku.]
+c. kostnaði vegna sýnatöku opinberra eftirlitsaðila og kostnaði sem opinberar rannsóknastofur innheimta vegna sýnatöku, greiningar, prófunar og sjúkdómsgreininga sem framkvæmdar eru á opinberum rannsóknastofum.
+
+ Ráðherra er heimilt að setja reglugerð um eftirlit, umsýslu og skjalaskoðun Matvælastofnunar og skal hann gefa út gjaldskrá fyrir eftirlit Matvælastofnunar að fengnum tillögum stofnunarinnar.
+
+ Við gerð reglugerðar og gjaldskrár opinberra eftirlitsaðila er heimilt að taka tillit til eftirfarandi atriða: 
+   
+a. hvers konar fyrirtæki um er að ræða og viðkomandi áhættuþátta,
+   
+b. hagsmuna fyrirtækja með litla framleiðslu,
+   
+c. hefðbundinna aðferða við framleiðslu, vinnslu og dreifingu,
+   
+d. þarfa fyrirtækja með aðsetur á svæðum sem líða fyrir landfræðilegar takmarkanir.
+
+ Matvælastofnun skal afla umsagnar hlutaðeigandi hagsmunasamtaka og kynna þeim efni og forsendur reglugerðar og/eða gjaldskrár stofnunarinnar með a.m.k. eins mánaðar fyrirvara. Hafi umsagnir þeirra ekki borist Matvælastofnun að mánuði liðnum er ráðherra þó heimilt að setja reglugerð og gjaldskrá án umsagna þeirra.
+
+ Eftirlitsgjald skal greiða samkvæmt framlögðum reikningi opinbers eftirlitsaðila.
+
+ Innheimta má eftirlitsgjaldið með fjárnámi án undangengins dóms eða sáttar. Opinberum eftirlitsaðilum er heimilt að krefjast dráttarvaxta af ógreiddri fjárkröfu vegna eftirlits frá og með gjalddaga fram að greiðsludegi.]
 5)
 
  [Matvælastofnun skal heimill óheftur aðgangur til skoðunar og eftirlits, þar á meðal til töku sýna og myndatöku, að dagbók rekstrarleyfishafa og að öllum þeim stöðum sem lög þessi og stjórnvaldsreglur ná yfir og er stofnuninni heimilt að leita aðstoðar lögreglu ef með þarf.
@@ -569,7 +593,7 @@ c. kostnaði við greiningu á rannsóknastofu og sýnatöku.]
 6) skuli greiða allan kostnað vegna þvingunarúrræða sem framkvæmd eru samkvæmt lögum þessum og má innheimta slíkan kostnað með fjárnámi án dóms eða sáttar.]
 2)
    
-1)L. 49/2014, 3. gr. 2)L. 101/2019, 16. gr. 3)L. 88/2020, 22. gr. 4)L. 71/2019, 5. gr. 5)L. 49/2014, 10. gr. 6)L. 71/2021, 4. gr. 
+1)L. 49/2014, 3. gr. 2)L. 101/2019, 16. gr. 3)L. 88/2020, 22. gr. 4)L. 71/2019, 5. gr. 5)L. 60/2023, 5. gr. 6)L. 71/2021, 4. gr. 
 
 
 [IV. kafli A.
@@ -582,13 +606,14 @@ Gjaldtaka og trygging.]1)
 [14. gr. a.
 Gjaldtaka.
 
- Við móttöku Matvælastofnunar á umsókn um rekstrarleyfi samkvæmt lögum þessum skulu umsækjendur greiða Matvælastofnun þjónustugjald vegna þess kostnaðar sem til fellur við afgreiðslu umsóknar. Ráðherra staðfestir, að fengnum tillögum Matvælastofnunar, gjaldskrá fyrir veitta þjónustu sem stofnuninni er falið að annast í tengslum við afgreiðslu á umsóknum um rekstrarleyfi samkvæmt lögum þessum. Umsóknir um rekstrarleyfi skulu ekki teknar til afgreiðslu fyrr en þjónustugjald hefur verið greitt.
+ Við móttöku Matvælastofnunar á umsókn um rekstrarleyfi [og rekstrarleyfi til bráðabirgða]
+1) samkvæmt lögum þessum skulu umsækjendur greiða Matvælastofnun þjónustugjald vegna þess kostnaðar sem til fellur við afgreiðslu umsóknar. Ráðherra staðfestir, að fengnum tillögum Matvælastofnunar, gjaldskrá fyrir veitta þjónustu sem stofnuninni er falið að annast í tengslum við afgreiðslu á umsóknum um rekstrarleyfi samkvæmt lögum þessum. Umsóknir um rekstrarleyfi skulu ekki teknar til afgreiðslu fyrr en þjónustugjald hefur verið greitt.
 
  [Við skráningu skv. 5. gr. skal aðili greiða þjónustugjald samkvæmt gjaldskrá Matvælastofnunar vegna þess kostnaðar sem fellur til við afgreiðslu skráningarinnar. Fyrir úttekt Matvælastofnunar á starfseminni og framkvæmd eftirlits skal greitt þjónustugjald samkvæmt gjaldskrá stofnunarinnar.]
-1)]
-2)
+2)]
+3)
    
-1)L. 71/2021, 5. gr. 2)L. 49/2014, 11. gr. 
+1)L. 28/2023, 8. gr. 2)L. 71/2021, 5. gr. 3)L. 49/2014, 11. gr. 
 
 
 
@@ -914,11 +939,18 @@ Dagsektir.
 1)]
 2)
 
- [Sé rekstrarleyfi fellt úr gildi getur ráðherra vegna annmarka á leyfisveitingu, að fenginni umsögn Matvælastofnunar, enda mæli ríkar ástæður með því, gefið út rekstrarleyfi til bráðabirgða til allt að tíu mánaða berist umsókn þess efnis frá handhafa þess leyfis sem var fellt úr gildi innan þriggja vikna frá því að leyfi var fellt úr gildi. Umsókn um rekstrarleyfi til bráðabirgða skal afgreidd eins fljótt og mögulegt er og eigi síðar en fjórum vikum eftir að umsókn berst. Í umsókn skal tilgreina með skýrum hætti tilgang rekstrarleyfis til bráðabirgða, ástæður þess og fyrirhugaðar aðgerðir á gildistíma bráðabirgðaleyfisins. Þrátt fyrir ákvæði 1. mgr. skal Matvælastofnun ekki stöðva rekstur fiskeldisstöðvar fyrr en fyrir liggur hvort sótt verði um rekstrarleyfi til bráðabirgða. Berist slík umsókn um rekstrarleyfi til bráðabirgða skal ekki stöðva rekstur meðan umsókn er til meðferðar hjá ráðherra. Rekstrarleyfi til bráðabirgða skal vera efnislega innan marka þess leyfis sem áður var í gildi. Ákvörðun um rekstrarleyfi til bráðabirgða má byggja á gögnum sem aflað hefur verið við undirbúning þess rekstrarleyfis sem fellt var úr gildi. Þá getur ráðherra sett rekstrarleyfi til bráðabirgða þau skilyrði sem þörf er á svo að tilgangur leyfisins náist, svo sem um samdrátt þeirrar starfsemi sem þegar er fyrir hendi, um tímafresti vegna úrbóta eða um tímamörk málshöfðunar eða annarra athafna fyrir dómi sem eru á forræði aðila. Rekstrarleyfi til bráðabirgða samkvæmt þessari málsgrein er heimilt að endurútgefa einu sinni. Rekstrarleyfi til bráðabirgða samkvæmt þessari málsgrein er fullnaðarúrlausn á stjórnsýslustigi.]
+ [[Sé rekstrarleyfi fellt úr gildi getur Matvælastofnun í sérstökum undantekningartilvikum, enda mæli ríkar ástæður með því, gefið út rekstrarleyfi til bráðabirgða til allt að eins árs berist umsókn þess efnis frá handhafa þess leyfis sem var fellt úr gildi innan þriggja vikna frá því að leyfi var fellt úr gildi.]
+3) Umsókn um rekstrarleyfi til bráðabirgða skal afgreidd eins fljótt og mögulegt er og eigi síðar en fjórum vikum eftir að umsókn berst. Í umsókn skal tilgreina með skýrum hætti tilgang rekstrarleyfis til bráðabirgða, ástæður þess og fyrirhugaðar aðgerðir á gildistíma bráðabirgðaleyfisins. Þrátt fyrir ákvæði 1. mgr. skal Matvælastofnun ekki stöðva rekstur fiskeldisstöðvar fyrr en fyrir liggur hvort sótt verði um rekstrarleyfi til bráðabirgða. [Berist umsókn um rekstrarleyfi til bráðabirgða skal ekki stöðva rekstur meðan umsókn er til meðferðar.]
+3) Rekstrarleyfi til bráðabirgða skal vera efnislega innan marka þess leyfis sem áður var í gildi. Ákvörðun um rekstrarleyfi til bráðabirgða [skal]
+3) byggja á gögnum sem aflað hefur verið við undirbúning þess rekstrarleyfis sem fellt var úr gildi. Þá getur [Matvælastofnun]
+3) sett rekstrarleyfi til bráðabirgða þau skilyrði sem þörf er á svo að tilgangur leyfisins náist, svo sem um samdrátt þeirrar starfsemi sem þegar er fyrir hendi, um tímafresti vegna úrbóta eða um tímamörk málshöfðunar eða annarra athafna fyrir dómi sem eru á forræði aðila. [Sé rekstrarleyfi fellt úr gildi vegna annmarka á umhverfismati samkvæmt lögum um umhverfismat framkvæmda og áætlana skal Matvælastofnun auk framangreindra skilyrða tryggja að rekstrarleyfi til bráðabirgða sé bundið þeim skilyrðum sem kveðið er á um í 2. mgr. 
+25. gr. laga um umhverfismat framkvæmda og áætlana, nr. 111/2021.]
+3) Rekstrarleyfi til bráðabirgða samkvæmt þessari málsgrein er heimilt að endurútgefa einu sinni. [Matvælastofnun skal vinna tillögur að rekstrarleyfum til bráðabirgða og auglýsa opinberlega hvers efnis þær eru og hvar megi nálgast þær. Heimilt er að gera skriflegar athugasemdir við tillögur Matvælastofnunar innan viku frá auglýsingu. Matvælastofnun skal tilkynna Umhverfisstofnun, umsækjanda um rekstrarleyfi til bráðabirgða og þeim sem hafa gert athugasemdir við tillögu um afgreiðslu rekstrarleyfis til bráðabirgða. Matvælastofnun skal auglýsa á vefsíðu sinni útgáfu og gildistöku rekstrarleyfis til bráðabirgða. Birting á vefsíðu Matvælastofnunar telst vera opinber birting. Í auglýsingunni skal tilgreina hvar greinargerð um afgreiðslu leyfis er aðgengileg og tilgreina um kæruheimild og kærufrest. Ákvörðun Matvælastofnunar um veitingu rekstrarleyfis til bráðabirgða er kæranleg til úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá því að ákvörðun var birt opinberlega. Ráðherra er heimilt að kveða í reglugerð nánar á um umsókn, málsmeðferð og skilyrði sem þurfa að vera fyrir hendi fyrir veitingu rekstrarleyfis til bráðabirgða samkvæmt þessari grein.]
 3)]
-4)
+4)]
+5)
    
-1)L. 71/2021, 11. gr. 2)L. 101/2019, 21. gr. 3)L. 108/2018, 1. gr. Ákvæðið tekur jafnframt til rekstrarleyfa sem voru felld úr gildi fyrir gildistöku þess skv. 2. gr. s.l. 4)L. 49/2014, 16. gr. 
+1)L. 71/2021, 11. gr. 2)L. 101/2019, 21. gr. 3)L. 28/2023, 9. gr. 4)L. 108/2018, 1. gr. Ákvæðið tekur jafnframt til rekstrarleyfa sem voru felld úr gildi fyrir gildistöku þess skv. 2. gr. s.l. 5)L. 49/2014, 16. gr. 
 
 
 

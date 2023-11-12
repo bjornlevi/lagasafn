@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. júlí 2017. EES-samningurinn: IX. viðauki reglugerð 236/2012. Breytt með:  L. 91/2019 (tóku gildi 1. jan. 2020 nema 133. gr. sem tók gildi 16. júlí 2019). L. 7/2020 (tóku gildi 21. febr. 2020; EES-samningurinn: IX. viðauki reglugerð 909/2014, 236/2012). 
+Tóku gildi 1. júlí 2017. EES-samningurinn: IX. viðauki reglugerð 236/2012. Breytt með:  L. 91/2019 (tóku gildi 1. jan. 2020 nema 133. gr. sem tók gildi 16. júlí 2019). L. 7/2020 (tóku gildi 21. febr. 2020; EES-samningurinn: IX. viðauki reglugerð 909/2014, 236/2012). L. 41/2023 (taka gildi 1. jan. 2024 nema 2. og 3. tölul. 19. gr. sem tóku gildi 20. júní 2023; EES-samningurinn: IX. viðauki reglugerð (ESB) 2015/2365). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 fjármála- og efnahagsráðherra eða 
 fjármála- og efnahagsráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -208,24 +208,51 @@ Kæra til lögreglu.
 
 
 13. gr.
-Reglugerðarheimild.
+[Stjórnvaldsfyrirmæli.
 
- Ráðherra skal setja reglugerðir
-1) sem fela í sér innleiðingu í íslenskan rétt á eftirfarandi reglugerðum Evrópusambandsins: 
+ Ráðherra er heimilt að setja reglugerð
+1) til að innleiða undirgerðir sem framkvæmdastjórn Evrópusambandsins samþykkir með stoð í eftirtöldum ákvæðum reglugerðar (ESB) nr. 236/2012: 
    
-1. Framseldri reglugerð framkvæmdastjórnarinnar (ESB) nr. 919/2012 um viðbætur við reglugerð Evrópuþingsins og ráðsins (ESB) nr. 
-236/2012 um skortsölu og tiltekna þætti skuldatrygginga með tilliti til tæknilegra eftirlitsstaðla vegna aðferðarinnar við útreikning á lækkun á virði seljanlegra hlutabréfa og annarra fjármálagerninga.
+a. 2. mgr. 2. gr. um skilgreiningar.
    
-2. Framseldri reglugerð framkvæmdastjórnarinnar (ESB) nr. 918/2012 um viðbætur við reglugerð Evrópuþingsins og ráðsins (ESB) nr. 
-236/2012 um skortsölu og tiltekna þætti skuldatrygginga að því er varðar skilgreiningar, útreikninga á hreinum skortstöðum, varðar skuldatryggingar á ríki, tilkynningarmörk, seljanleikamörk vegna tímabundinna niðurfellinga, marktæka lækkun á virði fjármálagerninga og óhagstæða atburði.
+b. 7. mgr. 3. gr. um skort- og gnóttstöður.
    
-3. Framseldri reglugerð framkvæmdastjórnarinnar (ESB) nr. 826/2012 um viðbætur við reglugerð Evrópuþingsins og ráðsins (ESB) nr. 
-236/2012 að því er varðar tæknilega eftirlitsstaðla um tilkynningar- og birtingarkröfur varðandi hreinar skortstöður, nánari lýsingu á upplýsingunum sem skal veita Evrópsku verðbréfamarkaðseftirlitsstofnuninni í tengslum við hreinar skortstöður og aðferðina við að reikna út veltu til að ákvarða hvaða hlutabréf skulu undanþegin.
+c. 2. mgr. 4. gr. um óvarða stöðu í skuldatryggingu á ríki.
    
-4. Framkvæmdarreglugerð framkvæmdastjórnarinnar (ESB) nr. 827/2012 um tæknilega framkvæmdarstaðla að því er varðar aðferðir við opinbera birtingu á hreinum skortstöðum, snið upplýsinganna sem skal veita Evrópsku verðbréfamarkaðseftirlitsstofnuninni um hreinar skortstöður, gerðir samninga, fyrirkomulags og ráðstafana til að tryggja með fullnægjandi hætti að hlutabréf eða ríkisskuldagerningar séu tiltækir vegna uppgjörs og dagsetningar og tímabil vegna ákvörðunar á meginvettvangi hlutabréfs samkvæmt reglugerð Evrópuþingsins og ráðsins (ESB) nr. 
-236/2012 um skortsölu og tiltekna þætti skuldatrygginga.
+d. 4. mgr. 5. gr. um viðmiðunarmörk vegna tilkynninga til lögbærra yfirvalda um verulegar hreinar skortstöður í hlutabréfum.
    
-1)Rg. 641/2017. 
+e. 4. mgr. 6. gr. um viðmiðunarmörk vegna opinberrar birtingar á verulegum hreinum skortstöðum í hlutabréfum.
+   
+f. 3. mgr. 7. gr. um viðmiðunarmörk vegna tilkynninga til lögbærra yfirvalda um verulegar hreinar skortstöður í ríkisskuldum.
+   
+g. 4. mgr. 13. gr. um viðmiðunarmörk seljanleika vegna ríkisskulda.
+   
+h. 6.–7. mgr. 23. gr. um viðmiðunarmörk um hvað teljist veruleg lækkun á verði fjármálagernings.
+   
+i. 30. gr. um óhagstæða atburði eða þróun.
+
+ Seðlabanka Íslands er heimilt að setja reglur til að innleiða undirgerðir sem framkvæmdastjórn Evrópusambandsins samþykkir með stoð í eftirtöldum ákvæðum reglugerðar (ESB) nr. 236/2012: 
+   
+a. 5. mgr. 9. gr. um upplýsingar í tilkynningum og við opinbera birtingu.
+   
+b. 6. mgr. 9. gr. um með hvaða hætti birta skuli almenningi upplýsingar.
+   
+c. 3. mgr. 11. gr. um upplýsingar sem veita skal Evrópsku verðbréfamarkaðseftirlitsstofnuninni.
+   
+d. 4. mgr. 11. gr. um snið upplýsinga sem veittar eru Evrópsku verðbréfamarkaðseftirlitsstofnuninni.
+   
+e. 2. mgr. 12. gr. um tegundir samninga, fyrirkomulags og ráðstafana sem tryggja með fullnægjandi hætti að hlutabréf verði aðgengilegt vegna uppgjörs.
+   
+f. 5. mgr. 13. gr. um tegundir samninga eða fyrirkomulags sem tryggja með fullnægjandi hætti að ríkisskuldir verði aðgengilegar vegna uppgjörs
+   
+g. 3. mgr. 16. gr. um aðferðina við að reikna út veltu til að ákvarða meginvettvang viðskipta með hlutabréf.
+   
+h. 3. mgr. 16. gr. um nánari framkvæmd vegna undanþágu ef meginviðskiptavettvangur er í þriðja landi.
+   
+i. 8. mgr. 23. gr. um aðferðina við að reikna út 10% lækkun að því er varðar seljanleg hlutabréf og verulega lækkun á virði.]
+2)
+   
+1)Rg. 641/2017. 2)L. 41/2023, 19. gr. 
 
 
 

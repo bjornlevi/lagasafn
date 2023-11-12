@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2012. Breytt með:  L. 159/2011 (tóku gildi 1. jan. 2012). L. 21/2012 (tóku gildi 16. mars 2012). L. 148/2012 (tóku gildi 1. jan. 2013). L. 28/2013 (tóku gildi 1. júní 2013 og giltu til 31. maí 2018). L. 10/2014 (tóku gildi 4. febr. 2014). L. 53/2018 (tóku gildi 22. júní 2018). L. 73/2018 (tóku gildi 27. júní 2018). L. 32/2019 (tóku gildi 1. júlí 2019). L. 71/2019 (tóku gildi 5. júlí 2019). L. 72/2019 (tóku gildi 5. júlí 2019 nema 9. gr. sem tók gildi 1. jan. 2021; EES-samningurinn: XX. viðauki tilskipun 2003/4/EB). L. 18/2020 (tóku gildi 19. mars 2020). L. 25/2020 (tóku gildi 1. apríl 2020). L. 29/2020 (tóku gildi 3. apríl 2020). L. 22/2021 (tóku gildi 31. mars 2021). L. 96/2021 (tóku gildi 10. júlí 2021). L. 107/2021 (tóku gildi 1. jan. 2022; koma til framkvæmda skv. fyrirmælum í 43. gr.). L. 112/2021 (tóku gildi 1. jan. 2022). L. 83/2022 (tóku gildi 14. júlí 2022). 
+Tóku gildi 1. janúar 2012. Breytt með:  L. 159/2011 (tóku gildi 1. jan. 2012). L. 21/2012 (tóku gildi 16. mars 2012). L. 148/2012 (tóku gildi 1. jan. 2013). L. 28/2013 (tóku gildi 1. júní 2013 og giltu til 31. maí 2018). L. 10/2014 (tóku gildi 4. febr. 2014). L. 53/2018 (tóku gildi 22. júní 2018). L. 73/2018 (tóku gildi 27. júní 2018). L. 32/2019 (tóku gildi 1. júlí 2019). L. 71/2019 (tóku gildi 5. júlí 2019). L. 72/2019 (tóku gildi 5. júlí 2019 nema 9. gr. sem tók gildi 1. jan. 2021; EES-samningurinn: XX. viðauki tilskipun 2003/4/EB). L. 18/2020 (tóku gildi 19. mars 2020). L. 25/2020 (tóku gildi 1. apríl 2020). L. 29/2020 (tóku gildi 3. apríl 2020). L. 22/2021 (tóku gildi 31. mars 2021). L. 96/2021 (tóku gildi 10. júlí 2021). L. 107/2021 (tóku gildi 1. jan. 2022; komu til framkvæmda skv. fyrirmælum í 43. gr.). L. 112/2021 (tóku gildi 1. jan. 2022). L. 83/2022 (tóku gildi 14. júlí 2022). L. 30/2023 (tóku gildi 7. júní 2023). L. 62/2023 (tóku gildi 8. júlí 2023 nema III. kafli sem tók gildi 1. sept. 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 innviðaráðherra eða 
 innviðaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -42,15 +42,17 @@ Yfirstjórn sveitarstjórnarmála.
 
  Engu málefni sem varðar sérstaklega hagsmuni sveitarfélags skal ráðið til lykta án umfjöllunar sveitarstjórnarinnar.
 
- [Ráðherra sveitarstjórnarmála leggur að minnsta kosti á þriggja ára fresti fyrir Alþingi tillögu til þingsályktunar um stefnumótandi áætlun ríkisins um málefni sveitarfélaga til fimmtán ára í senn. Í áætluninni skal jafnframt mörkuð aðgerðaáætlun til næstu fimm ára á þessu sviði.
+ [Ráðherra leggur fram á Alþingi á hverju kjörtímabili tillögu til þingsályktunar um stefnu ríkisins um málefni sveitarfélaga ásamt aðgerðaáætlun. Í henni skal mörkuð stefna fyrir næstu fimmtán ár og jafnframt tilgreindar sérstaklega þær aðgerðir sem ráðast skal í á fyrstu fimm árum gildistíma hennar. Ef forsendur stefnunnar breytast eða ef tilefni er til að öðru leyti leggur ráðherra fram á Alþingi tillögu til þingsályktunar um breytingu á stefnunni.]
+1)
 
- Við gerð tillagna að stefnumótandi áætlun og aðgerðaáætlun skv. 4. mgr. skal haft samráð við ráðuneyti, Samband íslenskra sveitarfélaga og sveitarfélög. Þá skal haft samráð við hagsmunaaðila eftir þörfum. Horfa skal einnig til þeirrar stefnumörkunar sem fram kemur í byggðaáætlun og sóknaráætlunum sem gerðar eru samkvæmt lögum um byggðaáætlun og sóknaráætlanir. Loks skal almenningi gefinn kostur á að koma að sjónarmiðum sínum og athugasemdum í opnu samráðsferli.
+ Við gerð tillagna að stefnumótandi áætlun og aðgerðaáætlun skv. 4. mgr. skal haft samráð við ráðuneyti, Samband íslenskra sveitarfélaga og sveitarfélög. Þá skal haft samráð við hagsmunaaðila eftir þörfum. Horfa skal einnig til þeirrar stefnumörkunar sem fram kemur í byggðaáætlun og sóknaráætlunum …
+1). Loks skal almenningi gefinn kostur á að koma að sjónarmiðum sínum og athugasemdum í opnu samráðsferli.
 
  Ráðherra skal í reglugerð
-1) setja nánari ákvæði um gerð stefnumótandi áætlunar og aðgerðaáætlunar, sbr. 4. og 5. mgr.]
-2)
+2) setja nánari ákvæði um gerð stefnumótandi áætlunar og aðgerðaáætlunar, sbr. 4. og 5. mgr.]
+3)
    
-1)Rg. 1245/2018. 2)L. 53/2018, 10. gr. 
+1)L. 30/2023, 10. gr. 2)Rg. 1245/2018. 3)L. 53/2018, 10. gr. 
 
 
 
@@ -558,19 +560,19 @@ Nefnd fyrir hluta sveitarfélags.
 
  Ef mælt er fyrir um kosningu slíkrar nefndar í lögum eða samþykkt um stjórn sveitarfélags telst hún til fastanefnda sveitarstjórnar.
 
- Í samþykkt um stjórn sveitarfélags má ákveða að nefnd samkvæmt þessari grein skuli kosin af íbúum viðkomandi hluta sveitarfélags sem kosningarrétt eiga [til sveitarstjórnar]
-1) samkvæmt lögum um kosningar …
+ Í samþykkt um stjórn sveitarfélags má ákveða að nefnd samkvæmt þessari grein skuli kosin af íbúum viðkomandi hluta sveitarfélags sem [hafa kosningarrétt í íbúakosningum sveitarfélagsins, sbr. 2. og 3. mgr. 133. gr.]
+1) …
 2). …
-1)
+3)
 
  Ákvörðun skv. 3. mgr. er háð samþykki ráðuneytisins og er m.a. háð því skilyrði að hægt sé að gefa út [kjörskrá]
-1) fyrir þann hluta sveitarfélagsins sem um ræðir …
+3) fyrir þann hluta sveitarfélagsins sem um ræðir …
 2). [Við framkvæmd atkvæðagreiðslu samkvæmt þessari grein skal að öðru leyti farið eftir 133. gr. og reglum sem sveitarstjórn setur sér um íbúakosningar.]
-1)
+3)
 
  Ákvæði 44., 45. og 49. gr. gilda ekki um skipun nefndar sem er kosin skv. 3. mgr. Að öðru leyti gilda um störf slíkrar nefndar, kjörgengi, réttindi og skyldur nefndarmanna og aðra þætti ákvæði þessara laga eftir því sem við getur átt.
    
-1)L. 83/2022, 2. gr. 2)L. 112/2021, 144. gr. 
+1)L. 62/2023, 47. gr. 2)L. 112/2021, 144. gr. 3)L. 83/2022, 2. gr. 
 
 
 
@@ -1359,6 +1361,24 @@ Landshlutasamtök sveitarfélaga.
 
 
 
+[97. gr. a.
+Sóknaráætlanir landshluta.
+
+ Sóknaráætlanir landshluta eru stefnumótandi áætlanir sem taka til starfssvæða landshlutasamtaka sveitarfélaga. Í þeim kemur fram stöðumat viðkomandi landshluta, framtíðarsýn, markmið og aðgerðir til að ná þeim markmiðum. Í sóknaráætlunum landshluta skal mælt fyrir um svæðisbundnar áherslur sem taka mið af meginmarkmiðum byggðastefnu, landsskipulagsstefnu, skipulagsáætlunum, menningarstefnu og, eftir atvikum, annarri opinberri stefnumótun.
+
+ Landshlutasamtök sveitarfélaga skulu vinna sóknaráætlanir hver á sínu starfssvæði og bera ábyrgð á framkvæmd þeirra.
+
+ Sóknaráætlanir eru unnar í samvinnu við samráðsvettvang viðkomandi landshluta sem er samstarfsvettvangur sveitarfélaga, ríkisstofnana, atvinnulífs, menningarlífs, fræðasamfélags og annarra hagsmunaaðila í hverjum landshluta.
+
+ Þar sem atvinnu- og þjónustusóknarsvæði, eins og þau eru skilgreind í byggðastefnu, ná yfir tvo eða fleiri landshluta skulu viðkomandi landshlutasamtök sveitarfélaga samhæfa sóknaráætlanir sínar.
+
+ Byggðastofnun leggur mat á framvindu sóknaráætlana og hefur eftirlit með fjárreiðum þeirra.]
+1)
+   
+1)L. 30/2023, 10. gr. 
+
+
+
 98. gr.
 Samband íslenskra sveitarfélaga.
 
@@ -1470,14 +1490,16 @@ Borgarafundir.
 
  Sveitarstjórn ákveður hvort fram skuli fara almenn atkvæðagreiðsla meðal íbúa sveitarfélagsins, eða hluta íbúa sveitarfélagsins, um einstök málefni þess, sbr. þó 108. gr.
 
- Til atkvæðagreiðslu skv. 1. mgr. skal boða með a.m.k. 36 daga fyrirvara með opinberri auglýsingu. Samhliða skal sveitarstjórn opinberlega kynna þá tillögu sem borin verður undir atkvæði og þær upplýsingar sem kjósendum eru nauðsynlegar til að geta tekið til hennar upplýsta afstöðu.
+ Til atkvæðagreiðslu skv. 1. mgr. skal boða með a.m.k. [20 daga]
+1) fyrirvara með opinberri auglýsingu. Samhliða skal sveitarstjórn opinberlega kynna þá tillögu sem borin verður undir atkvæði og þær upplýsingar sem kjósendum eru nauðsynlegar til að geta tekið til hennar upplýsta afstöðu.
 
  Atkvæðagreiðsla samkvæmt þessari grein, sem og skv. 108. gr., er ráðgefandi nema sveitarstjórn ákveði að hún skuli binda hendur hennar til loka kjörtímabils. Í auglýsingu skv. 2. mgr. skal koma fram hvort atkvæðagreiðsla er bindandi. Slíka ákvörðun má binda skilyrði um að tiltekið hlutfall þeirra sem voru á kjörskrá hafi tekið þátt í atkvæðagreiðslu.
 
- Við framkvæmd atkvæðagreiðslu samkvæmt þessari grein skal að öðru leyti farið eftir ákvæðum 133. gr. og reglum sem sveitarstjórn setur sér um íbúakosningar.]
-1)
+ Við framkvæmd atkvæðagreiðslu samkvæmt þessari grein skal að öðru leyti farið eftir ákvæðum 133. gr. …
+1)]
+2)
    
-1)L. 83/2022, 3. gr. 
+1)L. 62/2023, 48. gr. 2)L. 83/2022, 3. gr. 
 
 
 
@@ -1486,19 +1508,20 @@ Frumkvæði íbúa sveitarfélags.
 
  Ef minnst 10% af þeim sem kosningarrétt eiga í sveitarfélagi óska borgarafundar skv. 105. gr. skal sveitarstjórn verða við því svo fljótt sem unnt er. Um framkvæmd borgarafundar fer eftir ákvæði 105. gr.
 
- Ef minnst 20% af þeim sem kosningarrétt eiga í sveitarfélagi óska almennrar atkvæðagreiðslu skv. 107. gr. skal sveitarstjórn verða við því eigi síðar en innan árs frá því að slík ósk berst. Sveitarstjórn er heimilt að ákveða hærra hlutfall í samþykkt um stjórn sveitarfélags en þó aldrei hærra en þriðjung þeirra sem kosningarrétt eiga í sveitarfélagi. Sveitarstjórnin á ákvörðunarvald um framkvæmd viðkomandi viðburðar og þá spurningu sem borin verður upp sé um að ræða almenna atkvæðagreiðslu meðal íbúa sveitarfélagsins. Um framkvæmd almennrar atkvæðagreiðslu meðal íbúa sveitarfélags fer eftir ákvæði 107. gr.
+ Ef minnst 20% af þeim sem kosningarrétt eiga í sveitarfélagi óska almennrar atkvæðagreiðslu [meðal allra íbúa sveitarfélagsins]
+1) skv. 107. gr. skal sveitarstjórn verða við því eigi síðar en innan árs frá því að slík ósk berst. Sveitarstjórn er heimilt að ákveða hærra hlutfall í samþykkt um stjórn sveitarfélags en þó aldrei hærra en þriðjung þeirra sem kosningarrétt eiga í sveitarfélagi. Sveitarstjórnin á ákvörðunarvald um framkvæmd viðkomandi viðburðar og þá spurningu sem borin verður upp sé um að ræða almenna atkvæðagreiðslu meðal íbúa sveitarfélagsins. Um framkvæmd almennrar atkvæðagreiðslu meðal íbúa sveitarfélags fer eftir ákvæði 107. gr.
 
  Almennrar atkvæðagreiðslu skv. 107. gr. verður ekki krafist um efni fjárhagsáætlunar skv. 62. gr. og viðauka skv. 63. gr., um tekjustofna sveitarfélaga eða álagningu annarra lögheimilla gjalda, um ráðningu í störf hjá sveitarfélagi, um laun og önnur starfskjör sveitarstjórnarmanna eða starfsmanna sveitarfélags eða tillögu sem gengur gegn lögum eða mundi leiða til þess að lagaskyldu yrði ekki fullnægt af hálfu sveitarfélagsins.
 
  Ráðuneytið skal í reglugerð
-1) mæla nánar fyrir um það hvernig staðið verður að söfnun undirskrifta eða annarrar staðfestingar á ósk íbúa [skv. 1. og 2. mgr.]
-2) Þar má m.a. kveða á um að undirskriftir skuli lagðar fram á sérstöku eyðublaði sem ráðuneytið eða viðkomandi sveitarfélag lætur gera eða að staðfesting skuli lögð fram rafrænt á nánar tiltekinn hátt. Sé mælt fyrir um rafræna staðfestingu skal þó ávallt jafnframt gefinn kostur á að undirskriftir verði lagðar fram skriflega á þar til gerðum eyðublöðum.
+2) mæla nánar fyrir um það hvernig staðið verður að söfnun undirskrifta eða annarrar staðfestingar á ósk íbúa [skv. 1. og 2. mgr.]
+3) Þar má m.a. kveða á um að undirskriftir skuli lagðar fram á sérstöku eyðublaði sem ráðuneytið eða viðkomandi sveitarfélag lætur gera eða að staðfesting skuli lögð fram rafrænt á nánar tiltekinn hátt. Sé mælt fyrir um rafræna staðfestingu skal þó ávallt jafnframt gefinn kostur á að undirskriftir verði lagðar fram skriflega á þar til gerðum eyðublöðum.
 
  Við mat á því hvort tilskilinn fjöldi hafi lagt fram ósk skv. 1. mgr. skal miðað við þá einstaklinga [sem hafa kosningarrétt við kosningar til sveitarstjórna]
-3) á þeim degi sem söfnun undirskrifta og/eða staðfestinga lýkur samkvæmt [kjörskrá]
-4) sem Þjóðskrá Íslands lætur sveitarfélagi í té.
+4) á þeim degi sem söfnun undirskrifta og/eða staðfestinga lýkur samkvæmt [kjörskrá]
+5) sem Þjóðskrá Íslands lætur sveitarfélagi í té.
    
-1)Rg. 154/2013. Rg. 155/2013. 2)L. 159/2011, 1. gr. 3)L. 112/2021, 144. gr. 4)L. 83/2022, 4. gr. 
+1)L. 62/2023, 49. gr. 2)Rg. 154/2013. Rg. 155/2013. 3)L. 159/2011, 1. gr. 4)L. 112/2021, 144. gr. 5)L. 83/2022, 4. gr. 
 
 
 XI. kafli.
@@ -1639,13 +1662,14 @@ Sameining sveitarfélaga.
 
  Að lokinni umræðu sveitarstjórna skal fara fram atkvæðagreiðsla meðal íbúa sveitarfélaganna um sameininguna. Viðkomandi sveitarstjórnir ákveða sameiginlega hvenær atkvæðagreiðsla fer fram og skal kosið sama dag í öllum viðkomandi sveitarfélögum.
 
- Samstarfsnefndin eða viðkomandi sveitarstjórnir skulu kynna íbúum sveitarfélaganna þá tillögu sem greiða skal atkvæði um og helstu forsendur hennar með a.m.k. [36 daga]
-1) fyrirvara, svo sem með kynningarfundum og/eða dreifibréfum. Tillagan skal innan sama frests auglýst opinberlega í Lögbirtingablaði og í fjölmiðlum.
+ Samstarfsnefndin eða viðkomandi sveitarstjórnir skulu kynna íbúum sveitarfélaganna þá tillögu sem greiða skal atkvæði um og helstu forsendur hennar með a.m.k. [20 daga]
+2) fyrirvara, svo sem með kynningarfundum og/eða dreifibréfum. Tillagan skal innan sama frests auglýst opinberlega í Lögbirtingablaði og í fjölmiðlum.
 
- Sveitarstjórn lætur gera atkvæðaseðil til afnota við atkvæðagreiðsluna. Form atkvæðaseðils skal staðfest af ráðuneytinu. [Við framkvæmd atkvæðagreiðslu samkvæmt þessari grein skal að öðru leyti farið eftir ákvæðum 133. gr. og reglum sem sveitarstjórn setur sér um íbúakosningar.]
+ Sveitarstjórn lætur gera atkvæðaseðil til afnota við atkvæðagreiðsluna. Form atkvæðaseðils skal staðfest af ráðuneytinu. [Við framkvæmd atkvæðagreiðslu samkvæmt þessari grein skal að öðru leyti farið eftir ákvæðum 133. gr. …
+2)]
 1) Ekki er heimilt að hefja talningu atkvæða fyrr en öllum kjörstöðum hefur verið lokað í þeim sveitarfélögum sem taka þátt í atkvæðagreiðslu um sameiningartillögu.
    
-1)L. 83/2022, 5. gr. 
+1)L. 83/2022, 5. gr. 2)L. 62/2023, 50. gr. 
 
 
 
@@ -1831,21 +1855,32 @@ Sérreglur um stjórn og stjórnskipulag einstakra sveitarfélaga.
 
 
 [133. gr.
-Framkvæmd íbúakosninga.
+[Íbúakosningar sveitarfélaga.
 
- Sveitarfélög skulu setja sér reglur um framkvæmd íbúakosninga sem fram fara á vegum þeirra, sbr. 4. mgr. 38. gr., 4. mgr. 107. gr. og 5. mgr. 119. gr. Reglurnar skulu birtar í Stjórnartíðindum eigi síðar en á sama tíma og atkvæðagreiðsla er auglýst fyrir íbúum sveitarfélagsins. Óheimilt er að auglýsa atkvæðagreiðslu sem ekki fer fram á grundvelli laga þessara undir heitinu íbúakosning.
+ Atkvæðagreiðsla í íbúakosningu skal vera leynileg og atkvæðisréttur jafn. Heimilt er að halda íbúakosningu þar sem atkvæði er greitt með pósti og/eða að íbúakosning fari fram á tilteknu tímabili í stað þess að hún fari fram á tilteknum kjördegi. Einungis er heimilt að auglýsa atkvæðagreiðslu sem fer fram á grundvelli laga þessara undir heitinu íbúakosning.
 
- Atkvæðagreiðsla í íbúakosningu skal vera leynileg og atkvæðisréttur jafn.
-
- Rétt til þátttöku í íbúakosningu eiga þeir sem kosningarrétt eiga í sveitarfélaginu við kosningar til sveitarstjórnar samkvæmt kosningalögum. Þjóðskrá skal gera kjörskrá fyrir atkvæðagreiðsluna og um gerð hennar gilda ákvæði kosningalaga. Sveitarstjórn er heimilt að miða kosningaaldur í íbúakosningu við 16 ár.
-
- Til að tryggja að íbúakosning á vegum sveitarfélags uppfylli grundvallarskilyrði um lýðræðislegar kosningar skal ráðuneytið setja reglugerð
-1) að höfðu samráði við landskjörstjórn þar sem mælt er fyrir um þau lágmarksatriði sem fram skulu koma í reglum sveitarfélaga um íbúakosningar. Í reglugerðinni skal m.a. koma fram hvaða reglur sveitarfélög geta sett sér um undirbúning, framkvæmd og fyrirkomulag kosninga, þ.m.t. um starfshætti kjörstjórnar, framkvæmd talningar, kjörgengi frambjóðenda og öll önnur atriði sem mikilvægt er að fram komi í reglum sveitarfélaga um íbúakosningar.
-
- Kærur um ólögmæti íbúakosninga skulu sendar úrskurðarnefnd kosningamála til úrlausnar innan sjö daga frá því að lýst var úrslitum kosninga. Úrskurðarnefnd kosningamála skal úrskurða innan fjögurra vikna frá því að kæra berst, nema mál sé mjög umfangsmikið og skal þá úrskurða innan sex vikna.]
-2)
+ Rétt til þátttöku í íbúakosningu á: 
    
-1)Rg. 323/2023. 2)L. 83/2022, 6. gr. 
+a. hver íslenskur, danskur, finnskur, sænskur eða norskur ríkisborgari sem náð hefur 18 ára aldri þegar kosning hefst og á skráð lögheimili í sveitarfélaginu,
+   
+b. erlendur ríkisborgari, annar en greinir í a-lið, ef hann hefur átt skráð lögheimili hér á landi í þrjú ár samfellt fyrir upphaf kosningar, enda fullnægi hann að öðru leyti skilyrðum a-liðar.
+
+ Sveitarstjórn er heimilt að miða kosningaaldur við 16 ár í íbúakosningum.
+
+ Í íbúakosningu um einstök málefni sveitarfélags sem fram fer að frumkvæði sveitarstjórnar og ekki er bindandi, sbr. 3. mgr. 107. gr., er sveitarstjórn heimilt að ákveða að kosningarréttur sé bundinn ákveðnum aldri, að kosningarréttur sé bundinn við lögheimili í tilteknum hluta sveitarfélags, sbr. 1. mgr. 107. gr., og/eða að ekki sé gerð krafa um ríkisfang eða búsetutíma. Ákvörðun sveitarstjórnar er háð því skilyrði að hægt sé að gefa út kjörskrá fyrir þann hóp kjósenda sem um ræðir.
+
+ Þjóðskrá Íslands skal gera kjörskrá fyrir atkvæðagreiðsluna og um gerð hennar gilda ákvæði reglugerðar, sbr. 7. mgr. Þjóðskrá Íslands er heimil vinnsla persónuupplýsinga við gerð kjörskrár fyrir íbúakosningar sveitarfélaga og skal hún vera í samræmi við lög um persónuvernd og vinnslu persónuupplýsinga. Heimilt er að kveða í reglugerð, sbr. 7. mgr., á um að ákvörðun Þjóðskrár Íslands um leiðréttingar á kjörskrá sé skotið til ráðuneytisins.
+
+ Sveitarfélög setja sér reglur um hvernig kosið skuli í nefnd fyrir hluta sveitarfélagsins, sbr. 38. gr., og skulu reglurnar birtar í Stjórnartíðindum eigi síðar en 30 dögum áður en atkvæðagreiðsla hefst. Að öðru leyti gilda um slíkar kosningar sveitarstjórnarlög og reglugerð, sbr. 7. mgr.
+
+ Ráðherra skal setja reglugerð
+1) þar sem mælt er fyrir um undirbúning, framkvæmd og fyrirkomulag íbúakosninga sveitarfélaga, þ.m.t. um skipan og starfshætti kjörstjórnar, kjörskrá, framkvæmd talningar, kjörgögn, aðstoðarmenn kjósenda, umboðsmenn, kostnað við kosningar, fyrirkomulag atkvæðagreiðslu með pósti o.fl. Í reglugerðinni skal jafnframt mælt fyrir um þau lágmarksatriði sem fram skulu koma í reglum sveitarfélaga um íbúakosningar um skipan nefndar fyrir hluta sveitarfélags, sbr. 38. gr., þ.m.t. reglur um kjörgengi frambjóðenda.
+
+ Kærur um ólögmæti íbúakosninga skulu sendar ráðuneytinu til úrlausnar innan sjö daga frá því að lýst var úrslitum kosninga.]
+2)]
+3)
+   
+1)Rg. 323/2023. 2)L. 62/2023, 51. gr. 3)L. 83/2022, 6. gr. 
 
 
 
@@ -1862,6 +1897,48 @@ Rafræn íbúakosning.
 1)
    
 1)L. 83/2022, 6. gr. 
+
+
+
+[134. gr. a
+Refsiákvæði vegna íbúakosninga.
+
+ Kærum vegna brota á grundvelli 133. og 134. gr., að svo miklu leyti sem þau heyra ekki undir úrskurð sveitarstjórna, kjörstjórna eða ráðuneytis, skal beina til héraðssaksóknara og fer um þau að hætti sakamála. Það varðar sektum nema þyngri refsing liggi við eftir öðrum lögum: 
+   
+a. ef sveitarstjórn, kjörstjórn eða starfsmaður sveitarfélags hagar fyrirskipaðri framkvæmd laga þessara vísvitandi á ólöglegan hátt eða vanrækir hana,
+   
+b. ef kjósandi ónýtir af ásettu ráði atkvæðaseðil sinn við kosningu,
+   
+c. ef maður njósnar um hvernig kjósandi kýs eða hefur kosið,
+   
+d. ef maður vanrækir af ásettu ráði að koma til skila atkvæðisbréfi sem honum hefur verið trúað fyrir eða tefur vísvitandi fyrir sendingu atkvæða og kjörgagna,
+   
+e. ef maður gefur ónákvæmar eða villandi upplýsingar um sig eða aðra, svo sem um nafn, aldur, búsetu í landinu, heimilisfang eða annað, sem leiðir eða leitt getur til þess að maður verður settur á kjörskrá sem ekki á rétt á að vera þar, eða maður er ekki settur á kjörskrá eða er tekinn út af kjörskrá sem á rétt á að vera þar, eða maður verði látinn greiða atkvæði í stað annars manns sem stendur á kjörskrá; hér undir heyrir sérstaklega ef maður telur sig til málamynda eiga lögheimili í kjördæmi, aðeins til þess að verða settur þar á kjörskrá, ef ekki liggur þyngri refsing við eftir öðrum ákvæðum laga þessara eða eftir öðrum lögum,
+   
+f. ef maður gefur út villandi kosningaleiðbeiningar,
+   
+g. ef kjörstjórnarmaður eða starfsmaður sveitarfélags njósnar um hvernig kjósandi kýs eða hefur kosið, eða gefur vísvitandi villandi kosningaleiðbeiningar,
+   
+h. ef kjörstjórnarmaður, starfsmaður sveitarfélags eða aðstoðarmaður kjósanda sem aðstoð veitir segir frá því hvernig kjósandi sem hann hefur aðstoðað hefur greitt atkvæði,
+   
+i. ef kjörstjórnarmaður, starfsmaður sveitarfélags eða sá sem tekið hefur að sér flutning kjörgagna tefur fyrir að þau komist til skila,
+   
+j. ef maður greiðir atkvæði á tveimur stöðum við sömu kosningar,
+   
+k. ef maður ber fé eða fríðindi á mann eða heitir manni fé eða fríðindum til að hafa áhrif á hvort hann greiðir atkvæði eða hvernig hann greiðir atkvæði, eða ef maður sviptir mann atvinnu eða hlunnindum eða ógnar manni með sviptingu atvinnu eða hlunninda í sama skyni,
+   
+l. ef maður tekur fé eða fríðindi fyrir að greiða atkvæði, láta vera að greiða atkvæði eða greiða atkvæði á ákveðinn hátt,
+   
+m. ef aðstoðarmaður kjósanda aðstoðar fleiri en þrjá kjósendur við sömu kosningu.
+
+ Það varðar fangelsi allt að tveimur árum nema þyngri refsing liggi við eftir öðrum lögum: 
+   
+a. ef maður beitir þvingunarráðstöfunum eða ofbeldi eða hótunum um ofbeldi til að raska kosningafrelsi manns, með því að neyða hann til að greiða atkvæði, með því að meina honum að greiða atkvæði eða neyða hann til að greiða atkvæði á annan veg en hann vill,
+   
+b. ef maður vísvitandi rangfærir atkvæðagreiðslu, annaðhvort með því að glata atkvæði, breyta atkvæði, skemma eða glata atkvæðasendingu, búa til kjörseðla, sem líkjast mjög þeim sem notaðir eru við kosningu, og hagnýtir þá sjálfur eða lætur þá frá sér til þess að aðrir geti ruglað úrslit talningar atkvæða eða á annan hátt.]
+1)
+   
+1)L. 62/2023, 52. gr. 
 
 
 

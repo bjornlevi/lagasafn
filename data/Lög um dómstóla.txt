@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2018 nema brbákv. I, II, IV, V og VI sem tóku gildi 14. júní 2016. Breytt með:  L. 117/2016 (tóku gildi 1. jan. 2018, nema 52., 53., 75., 76. og 79.–81. gr. sem tóku gildi 28. okt. 2016). L. 130/2016 (tóku gildi 1. júlí 2017). L. 10/2017 (tóku gildi 1. mars 2017). L. 90/2017 (tóku gildi 29. des. 2017). L. 141/2018 (tóku gildi 1. jan. 2019). L. 76/2019 (tóku gildi 5. júlí 2019). L. 79/2019 (tóku gildi 6. júlí 2019; komu til framkvæmda skv. fyrirmælum í brbákv., sbr. einnig l. 25/2020, 20. gr.). L. 47/2020 (tóku gildi 1. des. 2020 nema 3. og 6. gr. sem tóku gildi 5. júní 2020). L. 50/2021 (tóku gildi 8. júní 2021). L. 136/2021 (tóku gildi 31. des. 2021). L. 134/2022 (tóku gildi 7. jan. 2023; um lagaskil sjá 24. gr.). 
+Tóku gildi 1. janúar 2018 nema brbákv. I, II, IV, V og VI sem tóku gildi 14. júní 2016. Breytt með:  L. 117/2016 (tóku gildi 1. jan. 2018, nema 52., 53., 75., 76. og 79.–81. gr. sem tóku gildi 28. okt. 2016). L. 130/2016 (tóku gildi 1. júlí 2017). L. 10/2017 (tóku gildi 1. mars 2017). L. 90/2017 (tóku gildi 29. des. 2017). L. 141/2018 (tóku gildi 1. jan. 2019). L. 76/2019 (tóku gildi 5. júlí 2019). L. 79/2019 (tóku gildi 6. júlí 2019; komu til framkvæmda skv. fyrirmælum í brbákv., sbr. einnig l. 25/2020, 20. gr.). L. 47/2020 (tóku gildi 1. des. 2020 nema 3. og 6. gr. sem tóku gildi 5. júní 2020). L. 50/2021 (tóku gildi 8. júní 2021). L. 136/2021 (tóku gildi 31. des. 2021). L. 134/2022 (tóku gildi 7. jan. 2023; um lagaskil sjá 24. gr.). L. 23/2023 (tóku gildi 27. maí 2023). L. 52/2023 (tóku gildi 28. júní 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 dómsmálaráðherra eða 
 dómsmálaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -344,7 +344,8 @@ Landsréttur.
 21. gr.
 Almenn hæfisskilyrði.
 
- Í Landsrétti eiga sæti 15 dómarar sem forseti Íslands skipar ótímabundið samkvæmt tillögu ráðherra.
+ Í Landsrétti eiga sæti [16 dómarar]
+1) sem forseti Íslands skipar ótímabundið samkvæmt tillögu ráðherra.
 
  Þann einn má skipa í embætti landsréttardómara sem fullnægir þessum skilyrðum: 
    
@@ -357,19 +358,19 @@ Almenn hæfisskilyrði.
 4. Er lögráða og hefur aldrei misst forræði á búi sínu.
    
 5. Hefur hvorki [hlotið fangelsisdóm fyrir refsiverðan verknað sem framinn var eftir að hann varð fullra 18 ára]
-1) né sýnt af sér háttsemi sem getur rýrt það traust sem dómarar verða almennt að njóta.
+2 né sýnt af sér háttsemi sem getur rýrt það traust sem dómarar verða almennt að njóta.
    
 6. Hefur lokið embættisprófi eða grunnnámi ásamt meistaraprófi í lögum.
    
 7. Hefur starfað í minnst þrjú ár sem …
-2) héraðsdómari, [lögmaður með málflutningsréttindi fyrir Hæstarétti],
-3) prófessor eða dósent í lögum, lögreglustjóri, sýslumaður, saksóknari, ráðuneytisstjóri, skrifstofustjóri í ráðuneyti því sem fer með málefni dómstóla og réttarfars eða umboðsmaður Alþingis eða hefur um jafnlangan tíma gegnt öðru líku starfi sem veitir hliðstæða lögfræðilega reynslu.
+3) héraðsdómari, [lögmaður með málflutningsréttindi fyrir Hæstarétti],
+4) prófessor eða dósent í lögum, lögreglustjóri, sýslumaður, saksóknari, ráðuneytisstjóri, skrifstofustjóri í ráðuneyti því sem fer með málefni dómstóla og réttarfars eða umboðsmaður Alþingis eða hefur um jafnlangan tíma gegnt öðru líku starfi sem veitir hliðstæða lögfræðilega reynslu.
    
 8. Telst vera hæfur til að gegna embættinu í ljósi starfsferils síns og lögfræðilegrar þekkingar.
 
  Í embætti landsréttardómara má ekki skipa þann sem er eða hefur verið í hjúskap við dómara sem þar er skipaður fyrir eða skyldur slíkum dómara eða mægður að feðgatali, niðjatali eða öðrum lið til hliðar.
    
-1)L. 141/2018, 5. gr. 2)L. 90/2017, 2. gr. 3)L. 117/2016, 77. gr. 
+1)L. 23/2023, 1. gr. 2)L. 141/2018, 5. gr. 3)L. 90/2017, 2. gr. 4)L. 117/2016, 77. gr. 
 
 
 
@@ -963,4 +964,12 @@ VI.
  Þegar skipað er í fyrsta sinn í Endurupptökudóm skal einn dómandi ásamt varadómanda skipaður til eins árs, annar dómandi ásamt varadómanda til tveggja ára og svo koll af kolli þannig að fimmti dómandi ásamt varadómanda sé skipaður til fimm ára. Skal skipunartími hvers þeirra ákveðinn af tilviljun þegar ráðið hefur verið hverjir veljast þar til starfa. Ef aðalmaður er skipaður til þriggja ára eða skemmri tíma er heimilt að skipa hann í Endurupptökudóm einu sinni að nýju.]
 1)
    
-1)L. 47/2020, 6. gr.
+1)L. 47/2020, 6. gr. 
+
+
+[X.
+
+ Þrátt fyrir ákvæði 4. mgr. 44. gr. skulu laun forseta Hæstaréttar, varaforseta Hæstaréttar, annarra hæstaréttardómara, forseta Landsréttar, varaforseta Landsréttar, annarra landsréttardómara, dómstjórans í Reykjavík, varadómstjórans í Reykjavík, dómstjóra utan Reykjavíkur og annarra héraðsdómara hækka um 2,5% frá og með 1. júlí 2023 í stað hækkunar samkvæmt ákvæðinu hinn 1. júlí 2023.]
+1)
+   
+1)L. 52/2023, 4. gr.

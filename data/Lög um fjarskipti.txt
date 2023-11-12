@@ -317,7 +317,11 @@ Lágmarksréttindi sem fylgja almennri heimild.
 
  Almenn heimild veitir rétt til útnefningar til að veita alþjónustu í samræmi við lög þessi.
 
- Fjarskiptastofa gefur út reglur um almenna heimild til að reka fjarskiptanet og fjarskiptaþjónustu til nánari fyllingar á réttindum og skyldum sem mælt er fyrir um í þessari grein og 8. og 9. gr.
+ Fjarskiptastofa gefur út reglur
+1) um almenna heimild til að reka fjarskiptanet og fjarskiptaþjónustu til nánari fyllingar á réttindum og skyldum sem mælt er fyrir um í þessari grein og 8. og 9. gr.
+   
+1)
+Rgl. 720/2023. 
 
 
 
@@ -946,11 +950,14 @@ b. frjálsra félagasamtaka eða opinberra aðila sem safna saman þráðlausum 
 
  Opinber stjórnvöld skulu veita aðgang að efnislegum grunnvirkjum, sem þau hafa yfirráð yfir og henta tæknilega til að hýsa þráðlausa aðgangspunkta sem þekja lítið svæði eða eru nauðsynlegir til að tengja þá við grunnnet, þ.m.t. ljósastaurum, götuskiltum, umferðarljósum, auglýsingaskiltum og stöðvum fyrir almenningssamgöngur. Opinber stjórnvöld skulu sinna öllum réttmætum beiðnum um aðgang með sanngjörnum, réttmætum, gagnsæjum skilyrðum og skilmálum, án mismununar. Beiðni um slíkan aðgang skal afgreiða innan fjögurra mánaða frá því að hún er sett fram.
 
- Ráðherra skal setja reglugerð þar sem tilgreindar eru kröfur um eðlisfræðilega og tæknilega eiginleika, svo sem hámarksstærð, þyngd og, eftir því sem við á, sendiafl sem þráðlausir aðgangspunktar sem þekja lítið svæði þurfa að uppfylla.
+ Ráðherra skal setja reglugerð
+1) þar sem tilgreindar eru kröfur um eðlisfræðilega og tæknilega eiginleika, svo sem hámarksstærð, þyngd og, eftir því sem við á, sendiafl sem þráðlausir aðgangspunktar sem þekja lítið svæði þurfa að uppfylla.
 
  Fjarskiptastofa skal beita sér fyrir því að reglur sem gilda um útbreiðslu þráðlausra aðgangspunkta sem þekja lítið svæði séu samræmdar á landsvísu og birtar opinberlega á vef stofnunarinnar.
 
  Fjarskiptastofa skal veita hverjum sem þess óskar upplýsingar um reglur sem gilda um uppsetningu og starfrækslu fjarskiptasenda sem falla undir þessa grein.
+   
+1)Rg. 422/2023. 
 
 
 
@@ -973,7 +980,10 @@ Skilgreining markaða o.fl.
  Við skilgreiningu markaða skal Fjarskiptastofa taka ýtrasta tillit til tilmæla Eftirlitsstofnunar EFTA um viðkomandi þjónustumarkaði og viðmiðunarreglna Eftirlitsstofnunar EFTA um markaðsgreiningar og mat á umtalsverðum markaðsstyrk að teknu tilliti til innlendra aðstæðna, sérstaklega viðkomandi landfræðilegs markaðar, þar sem hliðsjón er m.a. höfð af eðli samkeppni í innviðum á tilteknu svæði í samræmi við ákvæði samkeppnislaga. Fjarskiptastofa skal, ef við á, taka tillit til niðurstaðna úr landfræðilegri könnun sem framkvæmd er í samræmi við 
 11. gr. laga um Fjarskiptastofu, nr. 75/2021.
 
- Ráðherra skal setja reglugerð um nánari skilgreiningu markaða samkvæmt ákvæði þessu, um framkvæmd markaðsgreiningar skv. 44. gr., um mælikvarða sem nota skal við mat á því hvort fyrirtæki, eitt eða fleiri saman, hafi umtalsverðan markaðsstyrk skv. 45. gr. og um kvaðir og aðrar skyldur og réttindi skv. 46.–61. gr.
+ Ráðherra skal setja reglugerð
+1) um nánari skilgreiningu markaða samkvæmt ákvæði þessu, um framkvæmd markaðsgreiningar skv. 44. gr., um mælikvarða sem nota skal við mat á því hvort fyrirtæki, eitt eða fleiri saman, hafi umtalsverðan markaðsstyrk skv. 45. gr. og um kvaðir og aðrar skyldur og réttindi skv. 46.–61. gr.
+   
+1)Rg. 556/2023. 
 
 
 
@@ -1165,7 +1175,10 @@ Eftirlit með gjaldskrá.
 
  Ef kvöð felur í sér gerð kostnaðarbókhaldskerfis skal tryggja opinn aðgang að lýsingu á kostnaðarbókhaldskerfinu þar sem fram koma a.m.k. helstu flokkar kostnaðar og reglur sem notaðar eru við skiptingu kostnaðar. Óháður þar til bær aðili skal sannreyna að farið sé að reglum um kostnaðarbókhaldskerfið og árlega skal birta yfirlýsingu um hvort farið er eftir reglunum.
 
- Ráðherra er heimilt að setja reglugerð um útfærslu bókhaldslegs aðskilnaðar í rekstri fjarskiptafyrirtækja skv. 51. gr., þ.m.t. skiptingu eftir netum og þjónustu, og um nánara fyrirkomulag kostnaðargreiningar samkvæmt þessari grein, m.a. um aðferðir við eignamat, afskriftir, ávöxtunarkröfu og gerð kostnaðarlíkana.
+ Ráðherra er heimilt að setja reglugerð
+1) um útfærslu bókhaldslegs aðskilnaðar í rekstri fjarskiptafyrirtækja skv. 51. gr., þ.m.t. skiptingu eftir netum og þjónustu, og um nánara fyrirkomulag kostnaðargreiningar samkvæmt þessari grein, m.a. um aðferðir við eignamat, afskriftir, ávöxtunarkröfu og gerð kostnaðarlíkana.
+   
+1)Rg. 555/2023. 
 
 
 
@@ -2185,7 +2198,7 @@ Reglugerðarheimild.
  Ráðherra er heimilt að setja reglugerð
 1) um nánari framkvæmd laga þessara.
    
-1)Rg. 1100/2022. Rg. 1350/2022. Rg. 1589/2022 
+1)Rg. 1100/2022. Rg. 1350/2022. Rg. 1589/2022. Rg. 422/2023. 
 
 
 
@@ -2226,7 +2239,6 @@ I.
    
 1)Sjá nú: Rg. 53/2000. Rg. 734/2000. Rg. 866/2000, sbr. 700/2005. Rg. 532/2001. 
   Rgl. 94/2002. Rg. 199/2002. Rg. 348/2004, sbr. 1306/2017. 
-  Rgl. 345/2005. 
   Rgl. 570/2006. 
   Rgl. 1221/2007, sbr. 
   rgl. 68/2020. 
@@ -2235,10 +2247,10 @@ I.
   Rgl. 629/2008, sbr. 
   rgl. 1068/2008, 
   rgl. 463/2010 og 
-  rgl. 636/2011. Rg. 741/2009, sbr. 206/2018. 
+  rgl. 636/2011. 
   Rgl. 993/2009. 
   Rgl. 220/2010. 
-  Rgl. 655/2010. Rg. 780/2010, sbr. 689/2016. Rg. 526/2011. Rg. 564/2011. Rg. 1047/2011. Rg. 50/2014, sbr. 248/2016. Rg. 405/2015. 
+  Rgl. 655/2010. Rg. 780/2010, sbr. 689/2016. Rg. 526/2011. Rg. 1047/2011. Rg. 50/2014, sbr. 248/2016. Rg. 405/2015. 
   Rgl. 590/2015, sbr. 
   rgl. 1289/2016. 
   Rgl. 1111/2015, sbr. 

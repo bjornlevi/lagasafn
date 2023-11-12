@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 18. júlí 2015. Breytt með:  L. 10/2020 (tóku gildi 4. mars 2020). L. 90/2021 (tóku gildi 8. júlí 2021). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). 
+Tóku gildi 18. júlí 2015. Breytt með:  L. 10/2020 (tóku gildi 4. mars 2020). L. 90/2021 (tóku gildi 8. júlí 2021). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). L. 36/2023 (tóku gildi 14. júní 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 menningar- og viðskiptaráðherra eða 
 menningar- og viðskiptaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -36,8 +36,9 @@ Orðskýringar.
 1.
 Einkaleiga er starfsemi sem rekin er í atvinnuskyni þar sem einstaklingum er gert kleift að bjóða til leigu, að jafnaði um skemmri tíma, skráningarskylt ökutæki í persónulegri eigu með milligöngu leigumiðlunar.
    
-2.
-Föst starfsstöð er húsnæði eða annað rými þar sem ökutækjaleiga er rekin, staðbundið og reglulega, í atvinnuskyni.
+2. [
+Geymslustaður er svæði eða rými þar sem ökutækjaleiga geymir skráningarskyld ökutæki.]
+1)
    
 3.
 Leigusamningur er samningur milli leigusala og leigutaka um leigu á skráningarskyldu ökutæki án ökumanns og til afnota gegn gjaldi.
@@ -53,6 +54,8 @@ Starfsleyfi er leyfi til reksturs ökutækjaleigu og einkaleigu í samræmi við
    
 7.
 Ökutækjaleiga er starfsemi sem rekin er í atvinnuskyni þar sem almenningi eða fyrirtækjum er boðið til leigu skráningarskylt ökutæki án ökumanns, að jafnaði til skemmri tíma.
+   
+1)L. 36/2023, 1. gr. 
 
 
 
@@ -61,22 +64,26 @@ Starfsleyfi.
 
  Hver sá sem hyggst reka ökutækjaleigu skal hafa til þess starfsleyfi frá Samgöngustofu.
 
- Starfsleyfi er ótímabundið og skal veitt að fenginni jákvæðri umsögn sveitarstjórnar í því umdæmi þar sem ökutækjaleiga mun hafa fasta starfsstöð. Í umsögn skal sveitarstjórn m.a. taka afstöðu til staðsetningar ökutækjaleigu og þess hvort aðkoma henti fyrir væntanlega starfsemi hennar. Umsagnir skulu vera skýrar og rökstuddar. Starfsleyfi getur verið bundið skilyrðum sem koma fram í umsögn.
+ Starfsleyfi er ótímabundið og skal veitt að fenginni jákvæðri umsögn sveitarstjórnar í því umdæmi þar sem ökutækjaleiga mun [geyma skráningarskyld ökutæki].
+1) Í umsögn skal sveitarstjórn m.a. taka afstöðu til staðsetningar [geymslustaðar]
+1) og þess hvort aðkoma henti fyrir væntanlega starfsemi …
+1). Umsagnir skulu vera skýrar og rökstuddar. Starfsleyfi getur verið bundið skilyrðum sem koma fram í umsögn.
 
  Gjald fyrir útgáfu starfsleyfis skal vera samkvæmt gjaldskrá Samgöngustofu sem ráðherra staðfestir. Starfsleyfisgjald skal standa undir kostnaði við meðferð og umsýslu umsókna auk þess að standa undir eftirliti með leyfishöfum.
 
  Samgöngustofa skal halda skrá yfir þá sem hafa leyfi samkvæmt lögum þessum og birta hana með aðgengilegum hætti.
 
- Ökutækjaleiga skal rekin á fastri starfsstöð …
-1). Á fastri starfsstöð skal framkvæmdastjóri eða yfirmaður fullnægja skilyrðum 4. gr. Ökutækjaleiga getur á grundvelli starfsleyfis sett á fót útibú, og skal hún þá tilkynna Samgöngustofu um útibúið auk þess sem jákvæð umsögn sveitarstjórnar skal liggja fyrir.
+ [Ökutækjaleiga skal hafa geymslustað þar sem skráningarskyld ökutæki eru geymd. Ökutækjaleiga getur á grundvelli starfsleyfis haft geymslustaði í fleiri en einu sveitarfélagi og skal hún þá tilkynna Samgöngustofu um geymslustaðina, auk þess sem jákvæð umsögn sveitarstjórnar skal liggja fyrir.]
+1)
 
- Leyfishafa er heimilt að reka starfsemi sína á rafrænan hátt en leyfishafi skal þó alltaf hafa fasta starfsstöð …
-1). Um rafræna þjónustu leyfishafa gilda lög um rafræn viðskipti og aðra rafræna þjónustu, þar á meðal um hvað koma skal fram á vefsíðu leyfishafa.
+ Leyfishafa er heimilt að reka starfsemi sína á rafrænan hátt …
+1) …
+2). Um rafræna þjónustu leyfishafa gilda lög um rafræn viðskipti og aðra rafræna þjónustu, þar á meðal um hvað koma skal fram á vefsíðu leyfishafa.
 
  Heimilt er í reglugerð
-2) að kveða nánar á um umsóknarferli vegna starfsleyfis, þar á meðal útgáfu leiðbeininga fyrir umsagnaraðila um þau atriði sem umsögn skal lúta að og tímafresti.
+3) að kveða nánar á um umsóknarferli vegna starfsleyfis, þar á meðal útgáfu leiðbeininga fyrir umsagnaraðila um þau atriði sem umsögn skal lúta að og tímafresti.
    
-1)L. 90/2021, 4. gr. 2)Rg. 840/2015. 
+1)L. 36/2023, 2. gr. 2)L. 90/2021, 4. gr. 3)Rg. 840/2015. 
 
 
 
@@ -85,7 +92,8 @@ Skilyrði starfsleyfis.
 
  Umsækjandi um starfsleyfi getur verið hvort sem er einstaklingur eða lögaðili. Ef umsækjandi er lögaðili skal starfa hjá honum forsvarsmaður sem ber ábyrgð á rekstrinum.
 
- Til að öðlast starfsleyfi þarf umsækjandi eða forsvarsmaður umsækjanda ef hann er lögaðili að uppfylla eftirfarandi skilyrði: 
+ Til að öðlast starfsleyfi þarf [umsækjandi og/eða forsvarsmaður]
+1) umsækjanda ef hann er lögaðili að uppfylla eftirfarandi skilyrði: 
    
 1. Hafa búsetu innan aðildarríkja Evrópska efnahagssvæðisins eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum.
    
@@ -102,13 +110,13 @@ Skilyrði starfsleyfis.
 7. Skulda ekki skatta, opinber gjöld eða iðgjöld í lífeyrissjóð sem nema samanlagt hærri fjárhæð en 500.000 kr.
    
 8. Hafa gilda starfsábyrgðartryggingu hjá vátryggingafélagi sem hefur heimild til að veita þjónustu á Evrópska efnahagssvæðinu, hafa aflað sér bankatryggingar eða lagt fram aðra tryggingu sem Samgöngustofa metur gilda til að bæta leigutökum tjón er hann kann að baka þeim. Nánari ákvæði um starfsábyrgðartryggingu, m.a. um lágmarksfjárhæð og vátryggingarskilmála, skulu sett með reglugerð.
-1)
+2)
 
  Í umsókn um starfsleyfi skal koma fram heiti leigu og skal geta um öll hjáheiti sem aðili hyggst nota í starfsemi sinni. Óheimilt er að reka starfsemina undir öðrum heitum en þeim sem leyfi hljóðar um. Heimilt er að bæta við hjáheitum í þegar útgefið starfsleyfi með sérstakri umsókn til Samgöngustofu sem gefur þá út nýtt starfsleyfi án endurgjalds.
 
  Meiri hluti stjórnarmanna lögaðila skal fullnægja skilyrðum 2. mgr.
    
-1)Rg. 840/2015. 
+1)L. 36/2023, 3. gr. 2)Rg. 840/2015. 
 
 
 
@@ -142,9 +150,10 @@ Skyldur ökutækjaleigu.
 
  Leyfishafi skal tryggja að leigutaka séu eigi settir ólögmætir, ósanngjarnir eða óeðlilegir skilmálar í samningum. Leyfishafi ber ábyrgð á verkum starfsmanna sinna við leigu ökutækja sem væru þau verk hans sjálfs.
 
- Skylt er að leyfisbréf til starfseminnar liggi frammi á starfsstöð og afrit þess í útibúum.
+ [Leyfisbréf skal vera sýnilegt á vefsíðu leyfishafa eða aðgengilegt leigutaka með öðrum hætti.]
+3)
    
-1)L. 38/2022, 163. gr. 2)L. 10/2020, 1. gr. 
+1)L. 38/2022, 163. gr. 2)L. 10/2020, 1. gr. 3)L. 36/2023, 4. gr. 
 
 
 
@@ -185,7 +194,8 @@ Einkaleigur.
 
  Einkaleiga skal í hvívetna leysa störf sín af hendi svo sem góðar viðskiptavenjur bjóða og gæta þess að skráningarskyld ökutæki í útleigu, hvort sem er skoðunarskyld ökutæki eða ekki, séu ætíð í góðu ásigkomulagi, hljóti gott viðhald og eftirlit og fullnægi kröfum sem gerðar eru um þau í lögum eða reglugerðum. Einnig skal einkaleiga gæta að því að ökutæki séu í ásigkomulagi sem tekur mið af árstíma og færð.
 
- Skylt er að leyfisbréf til starfseminnar liggi frammi á starfsstöð.
+ [Leyfisbréf skal vera sýnilegt á vefsíðu leyfishafa eða aðgengilegt leigutaka með öðrum hætti.]
+2)
 
  Um innheimtu og skil á virðisaukaskatti fer samkvæmt 
 lögum um virðisaukaskatt, nr. 50/1988, með síðari breytingum.
@@ -193,9 +203,9 @@ lögum um virðisaukaskatt, nr. 50/1988, með síðari breytingum.
  Ákvæði 5. gr. og 10.–14. gr. eiga við um einkaleigur.
 
  Ráðherra er heimilt að setja reglugerð
-2) um einkaleigur þar sem m.a. er kveðið á um fyrirkomulag trygginga ökutækja og nánari skilyrði starfseminnar.
+3) um einkaleigur þar sem m.a. er kveðið á um fyrirkomulag trygginga ökutækja og nánari skilyrði starfseminnar.
    
-1)Svo í Stjtíð. en á væntanlega að vera „hún“. 2)Rg. 840/2015, sbr. 172/2016. 
+1)Svo í Stjtíð. en á væntanlega að vera „hún“. 2)L. 36/2023, 5. gr. 3)Rg. 840/2015, sbr. 172/2016. 
 
 
 
@@ -220,7 +230,9 @@ Eftirlit.
 11. gr.
 Niðurfelling leyfis og önnur úrræði.
 
- Samgöngustofu er heimilt að fella niður leyfi til reksturs ökutækjaleigu ef leyfishafi eða forsvarsmaður hans fullnægir ekki lengur skilyrðum 4. gr. og jafnframt ef leyfishafi eða forsvarsmaður hans verður uppvís að misnotkun á leyfi eða brýtur á annan hátt gegn ákvæðum laga þessara.
+ Samgöngustofu er heimilt að fella niður leyfi til reksturs ökutækjaleigu ef [leyfishafi og/eða forsvarsmaður]
+1) hans fullnægir ekki lengur skilyrðum 4. gr. og jafnframt ef [leyfishafi og/eða forsvarsmaður]
+1) hans verður uppvís að misnotkun á leyfi eða brýtur á annan hátt gegn ákvæðum laga þessara.
 
  Samgöngustofu er enn fremur heimilt að fella niður leyfi til reksturs ökutækjaleigu hafi ekki verið nein starfsemi af hálfu leigunnar í samfellt þrjú ár.
 
@@ -233,6 +245,8 @@ Niðurfelling leyfis og önnur úrræði.
  Ökutækjaleigu er skylt að veita Samgöngustofu allar upplýsingar er varða starfsemina og rekstur leigunnar, svo sem um starfsleyfi, leigusamninga og ökutæki í eigu eða undir yfirráðum ökutækjaleigu. Samgöngustofa getur fellt niður starfsleyfi ökutækjaleigu veiti hún Samgöngustofu ekki umbeðnar upplýsingar eða hefur veitt rangar eða villandi upplýsingar til að fá starfsleyfi.
 
  Samgöngustofa skal auglýsa með tryggilegum hætti þegar um niðurfellingu leyfis er að ræða í Lögbirtingablaði og á vefsíðu sinni. Jafnframt getur Samgöngustofa auglýst niðurfellingu leyfis á annan hátt eins og heppilegt þykir hverju sinni.
+   
+1)L. 36/2023, 6. gr. 
 
 
 
@@ -241,9 +255,11 @@ Dagsektir.
 
  Samgöngustofa getur lagt dagsektir, allt að 500.000 kr. á dag, á ökutækjaleigu eða einkaleigu sem brýtur gegn: 
    
-1. 2. málsl. 5. mgr. 3. gr. um skyldu til að framkvæmdastjóri eða yfirmaður uppfylli skilyrði 4. gr.
+1. …
+1)
    
-2. 3. mgr. 4. gr. um skyldu til að reka starfsstöð eða útibú undir heiti sem leyfi hljóðar um.
+2. 3. mgr. 4. gr. um skyldu til að reka [starfsemi]
+1) undir heiti sem leyfi hljóðar um.
    
 3. 1. mgr. 5. gr. um skyldu til að tilkynna Samgöngustofu um fyrirhugaðar breytingar sem varða hina leyfisskyldu starfsemi.
    
@@ -252,14 +268,14 @@ Dagsektir.
 5. 1. mgr. 6. gr. um skyldu leyfishafa til að hafa ökutæki skráð sem ökutæki í notkunarflokki ökutækjaleigu.
    
 6. 2. mgr. 6. gr. um skyldu leyfishafa til að vera skráður eigandi ökutækis eða fyrsti umráðamaður samkvæmt samningi við [löggilta kaup- eða fjármögnunarleigu].
-1) Þetta gildir hvorki um undanþágu í 2. málsl. 2. mgr. 6. gr. né um einkaleigur skv. 9. gr.
+2) Þetta gildir hvorki um undanþágu í 2. málsl. 2. mgr. 6. gr. né um einkaleigur skv. 9. gr.
    
 7. 3. mgr. 6. gr. um skyldu til að leigja aðeins út ökutæki sem hafa lögbundna aðalskoðun.
    
 8. 4. mgr. 6. gr. um skyldu til að leigja aðeins út ökutæki sem hafa lögbundna ábyrgðartryggingu.
    
-9. [8. mgr.]
-2) 6. gr. um skyldu til að leyfisbréf liggi frammi á starfsstöð og afrit þess í útibúum.
+9. [8. mgr. 6. gr. um skyldu til að hafa leyfisbréf sýnilegt á vefsíðu leyfishafa eða aðgengilegt leigutaka með öðrum hætti].
+1)
 
  Samgöngustofa skal því aðeins leggja á dagsektir skv. 1. mgr. að aðila hafi verið veittur hæfilegur frestur til að bæta úr vanefndum og uppfylla skyldur sínar.
 
@@ -269,7 +285,7 @@ Dagsektir.
 
  Ákvörðun Samgöngustofu um dagsektir samkvæmt þessari grein má skjóta til ráðherra innan þriggja mánaða frá því að aðila var tilkynnt um ákvörðunina. Málskot til ráðherra frestar aðför. Úrskurðir ráðherra um dagsektir eru aðfararhæfir.
    
-1)L. 38/2022, 163. gr. 2)L. 10/2020, 2. gr. 
+1)L. 36/2023, 7. gr. 2)L. 38/2022, 163. gr. 
 
 
 

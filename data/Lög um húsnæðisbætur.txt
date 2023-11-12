@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2017. Breytt með:  L. 80/2018 (tóku gildi 1. jan. 2019 nema 3. mgr. 2. gr. og 7. gr. sem tóku gildi 1. jan. 2020 og brbákv. I sem tók gildi 28. júní 2018). L. 71/2019 (tóku gildi 5. júlí 2019). L. 137/2019 (tóku gildi 31. des. 2019). L. 140/2019 (tóku gildi 1. jan. 2020 nema 2. málsl. 3. mgr. 11. gr. sem tók gildi 1. maí 2021, 2. mgr. 12. gr. sem tók gildi 1. júní 2022, 4. mgr. 12. gr. sem tók gildi 1. jan. 2021 og 14. gr. sem tók gildi 1. jan. 2022). L. 150/2019 (tóku gildi 31. des. 2019). L. 28/2021 (tóku gildi 1. jan. 2022 nema b-liður 31. gr. sem tók gildi 30. apríl 2021). L. 27/2022 (tóku gildi 26. maí 2022). L. 121/2022 (tóku gildi 1. jan. 2023 nema 2. málsl. 1. mgr. og 2. málsl. 4. mgr. 3. gr., 4. gr. og 3. málsl. 3. mgr. b-liðar 6. gr. sem taka gildi 1. jan. 2024; um lagaskil og framkvæmd sjá nánar 10. gr.). 
+Tóku gildi 1. janúar 2017. Breytt með:  L. 80/2018 (tóku gildi 1. jan. 2019 nema 3. mgr. 2. gr. og 7. gr. sem tóku gildi 1. jan. 2020 og brbákv. I sem tók gildi 28. júní 2018). L. 71/2019 (tóku gildi 5. júlí 2019). L. 137/2019 (tóku gildi 31. des. 2019). L. 140/2019 (tóku gildi 1. jan. 2020 nema 2. málsl. 3. mgr. 11. gr. sem tók gildi 1. maí 2021, 2. mgr. 12. gr. sem tók gildi 1. júní 2022, 4. mgr. 12. gr. sem tók gildi 1. jan. 2021 og 14. gr. sem tók gildi 1. jan. 2022). L. 150/2019 (tóku gildi 31. des. 2019). L. 28/2021 (tóku gildi 1. jan. 2022 nema b-liður 31. gr. sem tók gildi 30. apríl 2021). L. 27/2022 (tóku gildi 26. maí 2022). L. 121/2022 (tóku gildi 1. jan. 2023 nema 2. málsl. 1. mgr. og 2. málsl. 4. mgr. 3. gr., 4. gr. og 3. málsl. 3. mgr. b-liðar 6. gr. sem taka gildi 1. jan. 2024; um lagaskil og framkvæmd sjá nánar 10. gr.). L. 54/2023 (tóku gildi 29. júní 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 innviðaráðherra eða 
 innviðaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -636,4 +636,37 @@ Frítekjumörk m.v. árstekjur 2022
  Frítekjumörk skv. 1. mgr. skulu gilda afturvirkt frá 1. janúar 2022 fyrir árið í heild sinni. Endurreikningi og leiðréttingu húsnæðisbóta til bráðabirgða fyrir tímabilið 1. janúar – 31. maí 2022 vegna afturvirkrar hækkunar frítekjumarka samkvæmt ákvæði þessu skal lokið fyrir 1. september 2022. Um endurreikning og leiðréttingu húsnæðisbóta fer að öðru leyti skv. 25. og 26. gr.]
 1)
    
-1)L. 27/2022, 3. gr.
+1)L. 27/2022, 3. gr. 
+
+
+[IV.
+
+ Þrátt fyrir ákvæði 1. og 4. mgr. 17. gr. og 2. mgr. 30. gr. skal við útreikning húsnæðisbóta vegna leigu á íbúðarhúsnæði á árinu 2023 lækka grunnfjárhæð húsnæðisbóta um fjárhæð sem nemur 11% af samanlögðum árstekjum heimilismanna, 18 ára og eldri, umfram eftirfarandi frítekjumörk sem miðast við greiðslur húsnæðisbóta fyrir heilt almanaksár og taka mið af fjölda heimilismanna óháð aldri eftir stuðlum skv. 1. mgr. 16. gr.: 
+
+
+
+Fjöldi heimilismanna
+Frítekjumörk m.v. árstekjur 2023
+
+
+1
+5.388.983 kr.
+
+
+2
+7.127.364 kr.
+
+
+3
+8.344.232 kr.
+
+
+4 eða fleiri
+9.039.585 kr.
+
+
+
+ Frítekjumörk skv. 1. mgr. skulu gilda afturvirkt frá 1. janúar 2023 fyrir árið í heild. Endurreikningi og leiðréttingu húsnæðisbóta til bráðabirgða fyrir tímabilið 1. janúar – 30. júní 2023 vegna afturvirkrar hækkunar frítekjumarka samkvæmt ákvæði þessu skal lokið fyrir 1. október 2023. Um endurreikning og leiðréttingu húsnæðisbóta fer að öðru leyti skv. 25. og 26. gr.]
+1)
+   
+1)L. 54/2023, 2. gr.

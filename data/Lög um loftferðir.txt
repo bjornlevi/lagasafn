@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 14. júlí 2022 nema b-liður 2. mgr. 170. gr., b-liður 1. mgr. 171. gr. hvað varðar samevrópska u-rýmisþjónustu og c-liður 1. mgr. 171. gr. sem tóku gildi 26. jan. 2023 og d-liður 258. gr. sem tók gildi 1. jan. 2023; EES-samningurinn: XIII. viðauki reglugerð 2027/97, 889/2002, tilskipun 2000/79/EB, 2009/12/EB. 
+Tóku gildi 14. júlí 2022 nema b-liður 2. mgr. 170. gr., b-liður 1. mgr. 171. gr. hvað varðar samevrópska u-rýmisþjónustu og c-liður 1. mgr. 171. gr. sem tóku gildi 26. jan. 2023 og d-liður 258. gr. sem tók gildi 1. jan. 2023; EES-samningurinn: XIII. viðauki reglugerð 2027/97, 889/2002, tilskipun 2000/79/EB, 2009/12/EB. Breytt með:  L. 67/2023 (tóku gildi 8. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 innviðaráðherra eða 
 innviðaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -1666,15 +1666,20 @@ Flutningur hættulegs varnings.
 
 
 112. gr.
-Hergögn og hervopn.
+[Flutningur hergagna og hervopna með loftförum.]1)
 
- För loftfara með hergögn og hervopn um íslenskt yfirráðasvæði er óheimil nema með heimild ráðherra sem fer með varnarmál eða þess sem hann felur heimildarveitinguna.
+ [För loftfara með hergögn og hervopn um íslenska lofthelgi er óheimil nema með heimild ráðherra eða þess sem hann felur heimildarveitinguna.
 
- Loftförum skráðum hér á landi og ómönnuðum loftförum sem starfrækt eru á íslensku yfirráðasvæði er óheimilt að flytja hergögn og hervopn nema með heimild ráðherra sem fer með varnarmál eða þess sem hann felur heimildarveitinguna.
+ Loftförum skráðum hér á landi er óheimilt að flytja hergögn og hervopn nema með leyfi skv. 
+6. gr. a vopnalaga, nr. 16/1998.]
+1)
 
  Þrátt fyrir 1. og 2. mgr. er ríkisloftförum sem skráð eru hér á landi, óskráðum ómönnuðum ríkisloftförum og loftförum opinberra aðila sem sinna þjónustu í almannaþágu eða skyldum á ábyrgð íslenska ríkisins í ríkisflugi heimil för og flutningur hergagna og hervopna um íslenskt yfirráðasvæði, sbr. þó 111. gr.
 
- Ráðherra sem fer með varnarmál er heimilt að setja í reglugerð nánari ákvæði um framkvæmd þessarar greinar, þ.m.t. um skilgreiningu hergagna og hervopna, skilyrði fyrir heimild, framkvæmd flutnings, geymslu, eftirlit, umsóknir og umsóknargögn, undanþágur frá banni skv. 1. og 2. mgr., sbr. þó 111. gr., skilyrði fyrir undanþágum og bann við flutningi annars varnings en hergagna og hervopna til að halda uppi allsherjarreglu og öryggi.
+ [Ráðherra er heimilt, að höfðu samráði við ráðherra sem fara með varnarmál og vopnamál, að setja í reglugerð nánari ákvæði um framkvæmd þessarar greinar.]
+1)
+   
+1)L. 67/2023, 29. gr. 
 
 
 
@@ -1976,7 +1981,8 @@ b. greinilega, grófa og alvarlega vanrækslu í tengslum við augljósa áhætt
 131. gr.
 Reglugerðarheimild.
 
- Ráðherra er heimilt að setja í reglugerðir nánari ákvæði um: 
+ Ráðherra er heimilt að setja í reglugerðir
+1) nánari ákvæði um: 
    
 a. atvik sem skylt er að tilkynna, til hvaða aðila tilkynningarskyldan nær og að skyldan nái til fleiri aðila en taldir eru upp í 125. gr.,
    
@@ -1997,6 +2003,8 @@ h. skýrslugjöf og miðlun upplýsinga í þágu aukins flugöryggis, þ.m.t. u
 i. gagnagrunna fyrirtækja, Samgöngustofu og miðlæga samevrópska gagnasafnsins, flutning upplýsinga milli gagnagrunna fyrirtækja til Samgöngustofu eða, ef við á, í miðlæga samevrópska gagnasafnið sem og um flutning upplýsinga milli gagnagrunns Samgöngustofu og miðlæga samevrópska gagnasafnsins,
    
 j. aðgengi að upplýsingum úr gagnagrunnum fyrirtækja, Samgöngustofu og miðlæga samevrópska gagnasafninu og takmarkanir á miðlun upplýsinga.
+   
+1)Rg. 900/2017, sbr. 525/2023. 
 
 
 XII. kafli.
@@ -2512,7 +2520,7 @@ q. upplýsingamiðlun um flugvernd og samstarf og samvinnu á sviði flugverndar
 
  Rekstraraðilum flugvalla og rekstraraðilum rekstrarstjórnunar flugumferðar/flugleiðsöguþjónustu er heimilt að setja reglur um aðgangsstýringu, útgáfu aðgangsheimilda og afmörkun haftasvæða vegna flugverndar og aðgreindra svæða og, ef við á, bannsvæða og svæða þar sem öll umferð er takmörkuð.
    
-1)Rg. 750/2016, sbr. 287/2017, 515/2017, 1203/2017, 117/2018, 770/2018, 52/2019, 439/2019, 644/2019, 1053/2019, 491/2020, 844/2020, 1195/2020, 298/2021, 695/2021 og 1297/2022. 
+1)Rg. 750/2016, sbr. 287/2017, 515/2017, 1203/2017, 117/2018, 770/2018, 52/2019, 439/2019, 644/2019, 1053/2019, 491/2020, 844/2020, 1195/2020, 298/2021, 695/2021, 1297/2022 og 453/2023. 
 
 
 XIV. kafli.
@@ -3021,7 +3029,8 @@ Tölvufarskráningarkerfi.
 200. gr.
 Reglugerðarheimild.
 
- Ráðherra er heimilt að setja í reglugerðir nánari ákvæði um: 
+ Ráðherra er heimilt að setja í reglugerðir
+1) nánari ákvæði um: 
    
 a. úthlutun takmarkaðra flugréttinda skv. 189. gr., skilyrði og viðmiðanir sem lagðar eru til grundvallar úthlutun og hvaða sjónarmið skuli leggja til grundvallar við val, tilnefningu flugrekanda, afturköllun eða sviptingu og umsóknarferli,
    
@@ -3050,6 +3059,8 @@ l. viðmið við mat á ágreiningi um gjaldtöku og málsmeðferð komi til ág
 m. framkvæmd stöðvunar og samskipti sýslumanns við gerðarbeiðanda og gerðarþola, svo sem framlagningu gagna við gerðina og varðveislu þeirra, færslu sýslumanns í gerðabók og kynningu á efni hennar,
    
 n. hátternisreglur fyrir notkun tölvufarskráningarkerfa, aðgengi, áreiðanleika og röðun upplýsinga, skilmála, bann við mismunun; eftirlit með starfsemi tölvufarskráningarkerfa; ráðstafanir til varnar jafnri samkeppni og vernd persónuupplýsinga.
+   
+1)Rg. 858/2014, sbr. 307/2020, 373/2021 og 468/2023. 
 
 
 XVI. kafli.
@@ -3457,7 +3468,7 @@ Takmörkun eða bann við flugi loftfara á grundvelli flugöryggis.
  Ráðherra er heimilt að setja reglugerð
 1) sem innleiðir reglugerð Evrópusambandsins sem tekin hefur verið upp í EES-samninginn um gerð og birtingu skrár yfir loftför, flugrekendur og ríki sem sæta banni til flugs innan Evrópska efnahagssvæðisins á grundvelli flugöryggis. Heimilt er að vísa til erlends frumtexta reglugerðar Evrópusambandsins í Stjórnartíðindum Evrópusambandsins í B-deild Stjórnartíðinda og telst það lögmæt birting.
    
-1)Rg. 277/2008, sbr. 396/2008, 826/2008, 1185/2008, 464/2009, 181/2010, 675/2010, 424/2011, 202/2011, 1074/2011, 315/2012, 864/2012, 996/2012, 341/2013, 1253/2013, 579/2014, 1257/2014, 865/2015, 443/2016, 1037/2017, 573/2018, 1082/2018, 813/2019, 1041/2019, 1194/2020, 441/2021, 622/2021, 1343/2021 og 1296/2022. 
+1)Rg. 277/2008, sbr. 396/2008, 826/2008, 1185/2008, 464/2009, 181/2010, 675/2010, 424/2011, 202/2011, 1074/2011, 315/2012, 864/2012, 996/2012, 341/2013, 1253/2013, 579/2014, 1257/2014, 865/2015, 443/2016, 1037/2017, 573/2018, 1082/2018, 813/2019, 1041/2019, 1194/2020, 441/2021, 622/2021, 1343/2021, 1296/2022 og 524/2023. 
 
 
 
@@ -3957,7 +3968,7 @@ laga um loftferðir, nr. 60/1998, halda gildi sínu að svo miklu leyti sem ákv
   92/2011, 
   194/2011, 
   313/2012 og 
-  553/2012. Rg. 781/2001. Rg. 293/2002. Rg. 904/2005. Rg. 53/2006, sbr. 182/2010. Rg. 78/2006, sbr. 89/2007 og 625/2021. Rg. 780/2006, sbr. 779/2007. Rg. 464/2007, sbr. 1258/2011. Rg. 751/2007. Rg. 870/2007, sbr. 1124/2014. Rg. 1045/2007. Rg. 1046/2007. Rg. 400/2008, sbr. 600/2009 og 439/2012. Rg. 474/2008. Rg. 475/2008. Rg. 600/2008. Rg. 602/2008, sbr. 464/2012, 154/2014, 1036/2017 og 571/2018. Rg. 1043/2008, sbr. 360/2009 og 124/2016. Rg. 1264/2008. Rg. 97/2009. Rg. 108/2009, sbr. 465/2012. Rg. 518/2010. Rg. 652/2010. Rg. 693/2010, sbr. 1038/2017. Rg. 694/2010, sbr. 88/2012, 488/2014, 1076/2014, 18/2016, 1158/2016 og 333/2018. Rg. 695/2010, sbr. 1076/2014, 18/2016, 1158/2016 og 334/2018. Rg. 770/2010, sbr. 665/2015 og 659/2017. Rg. 772/2010, sbr. 211/2017 og 533/2017. Rg. 787/2010. Rg. 947/2010. Rg. 71/2011, sbr. 1084/2011. Rg. 48/2012, sbr. 1058/2019, 708/2020 og 443/2021. Rg. 438/2012, sbr. 651/2017 og 537/2018. Rg. 812/2012, sbr. 179/2013, 409/2013, 1144/2013 og 885/2016. Rg. 1025/2012. Rg. 1048/2012. Rg. 1185/2012. Rg. 380/2013, sbr. 967/2013, 347/2015, 123/2016, 885/2016, 1466/2020 og 1344/2021. Rg. 962/2013, sbr. 991/2016. Rg. 180/2014, sbr. 992/2016, 1081/2018, 468/2020 og 623/2021. Rg. 694/2014. Rg. 732/2014, sbr. 572/2018. Rg. 733/2014. Rg. 858/2014, sbr. 307/2020 og 373/2021. Rg. 1125/2014, sbr. 667/2015, 863/2015, 499/2020 og 442/2021. Rg. 1127/2014, sbr. 864/2015, 538/2018 og 1193/2020. Rg. 340/2015, sbr. 976/2015. Rg. 394/2015. Rg. 666/2015. Rg. 926/2015, sbr. 433/2016 og 1042/2019. Rg. 75/2016, sbr. 1083/2018. Rg. 125/2016, sbr. 653/2017. Rg. 854/2016. Rg. 900/2017. Rg. 990/2017. Rg. 1085/2017. Rg. 370/2018. Rg. 1085/2018. Rg. 464/2019. Rg. 720/2019. Rg. 444/2020. 
+  553/2012. Rg. 781/2001. Rg. 293/2002. Rg. 904/2005. Rg. 53/2006, sbr. 182/2010. Rg. 78/2006, sbr. 89/2007 og 625/2021. Rg. 780/2006, sbr. 779/2007. Rg. 464/2007, sbr. 1258/2011. Rg. 751/2007. Rg. 870/2007, sbr. 1124/2014. Rg. 1045/2007. Rg. 1046/2007. Rg. 400/2008, sbr. 600/2009 og 439/2012. Rg. 474/2008. Rg. 475/2008. Rg. 600/2008. Rg. 602/2008, sbr. 464/2012, 154/2014, 1036/2017 og 571/2018. Rg. 1043/2008, sbr. 360/2009 og 124/2016. Rg. 1264/2008. Rg. 97/2009. Rg. 108/2009, sbr. 465/2012. Rg. 518/2010. Rg. 652/2010. Rg. 693/2010, sbr. 1038/2017. Rg. 694/2010, sbr. 88/2012, 488/2014, 1076/2014, 18/2016, 1158/2016 og 333/2018. Rg. 695/2010, sbr. 1076/2014, 18/2016, 1158/2016 og 334/2018. Rg. 770/2010, sbr. 665/2015 og 659/2017. Rg. 772/2010, sbr. 211/2017 og 533/2017. Rg. 787/2010. Rg. 947/2010. Rg. 71/2011, sbr. 1084/2011. Rg. 48/2012, sbr. 1058/2019, 708/2020 og 443/2021. Rg. 438/2012, sbr. 651/2017 og 537/2018. Rg. 812/2012, sbr. 179/2013, 409/2013, 1144/2013 og 885/2016. Rg. 1025/2012. Rg. 1048/2012. Rg. 1185/2012. Rg. 380/2013, sbr. 967/2013, 347/2015, 123/2016, 885/2016, 1466/2020 og 1344/2021. Rg. 962/2013, sbr. 991/2016. Rg. 180/2014, sbr. 992/2016, 1081/2018, 468/2020 og 623/2021. Rg. 694/2014. Rg. 732/2014, sbr. 572/2018. Rg. 733/2014. Rg. 1125/2014, sbr. 667/2015, 863/2015, 499/2020 og 442/2021. Rg. 1127/2014, sbr. 864/2015, 538/2018 og 1193/2020. Rg. 340/2015, sbr. 976/2015. Rg. 394/2015. Rg. 666/2015. Rg. 926/2015, sbr. 433/2016 og 1042/2019. Rg. 75/2016, sbr. 1083/2018. Rg. 125/2016, sbr. 653/2017. Rg. 854/2016. Rg. 990/2017. Rg. 1085/2017. Rg. 370/2018. Rg. 1085/2018. Rg. 464/2019. Rg. 720/2019. Rg. 444/2020. 
 
 
 XXII. kafli.

@@ -149,7 +149,11 @@ f. geyma yfirlýsingu um að skjalið taki til gjalda fyrir algengustu tegundir 
 
  Greiðsluþjónustuveitandi skal ætíð hafa gjaldskrá greiðslureikninga og hugtakalista yfir algengustu tegundir þjónustu aðgengilega fyrir neytendur. Gjaldskráin og hugtakalistinn skulu vera aðgengileg á rafrænu formi á vefsetri greiðsluþjónustuveitanda sem og pappír eða öðrum varanlegum miðli, án endurgjalds, á starfsstöð greiðsluþjónustuveitanda. Geymi hugtakalistinn önnur hugtök en reglur Seðlabanka Íslands tilgreina skulu hugtökin vera á skýru og ótvíræðu máli sem hvorki er of tæknilegt né misvísandi.
 
- Seðlabanki Íslands setur nánari reglur um hugtakalista yfir algengustu tegundir þjónustu greiðslureiknings og gjaldskrá.
+ Seðlabanki Íslands setur nánari reglur
+1) um hugtakalista yfir algengustu tegundir þjónustu greiðslureiknings og gjaldskrá.
+   
+1)
+Rgl. 485/2023. 
 
 
 
@@ -180,7 +184,11 @@ c. bera yfirskriftina gjaldayfirlit efst á fyrstu síðu yfirlitsins, næst sam
    
 d. samið á íslensku eða á öðru tungumáli sem neytandi og greiðsluþjónustuveitandi eru ásáttir um.
 
- Seðlabanki Íslands setur nánari reglur um gjaldayfirlit.
+ Seðlabanki Íslands setur nánari reglur
+1) um gjaldayfirlit.
+   
+1)
+Rgl. 485/202. 
 
 
 

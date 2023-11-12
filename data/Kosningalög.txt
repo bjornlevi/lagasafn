@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2022. Breytt með:  L. 113/2021 (tóku gildi 16. júlí 2021). L. 137/2021 (tóku gildi 31. des. 2021). L. 18/2022 (tóku gildi 18. mars 2022). 
+Tóku gildi 1. janúar 2022. Breytt með:  L. 113/2021 (tóku gildi 16. júlí 2021). L. 137/2021 (tóku gildi 31. des. 2021). L. 18/2022 (tóku gildi 18. mars 2022). L. 62/2023 (tóku gildi 8. júlí 2023 nema III. kafli sem tók gildi 1. sept. 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 dómsmálaráðherra eða 
 dómsmálaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -45,7 +45,10 @@ Kosningarréttur við alþingiskosningar, forsetakjör og þjóðaratkvæðagrei
 
  Kosningarrétt við alþingiskosningar, forsetakjör og þjóðaratkvæðagreiðslur á hver íslenskur ríkisborgari sem náð hefur 18 ára aldri þegar kosning fer fram og á lögheimili hér á landi.
 
- Íslenskur ríkisborgari, sem náð hefur 18 ára aldri og hefur átt lögheimili hér á landi, á kosningarrétt í sextán ár frá því að hann flytur lögheimili af landinu. Eftir þann tíma skal hann sækja um til Þjóðskrár Íslands að vera tekinn á kjörskrá. Í umsókn skal koma fram nafn umsækjanda, kennitala, hvenær hann flutti af landi brott, síðasta lögheimili á Íslandi, heimilisfang erlendis og yfirlýsing umsækjanda um að hann sé enn íslenskur ríkisborgari. Þjóðskrá Íslands gefur út leiðbeiningar um móttöku og meðferð umsókna. Í þeim er heimilt að mæla fyrir um rafrænt umsóknarferli. Ákvörðun um að einhver skuli þannig tekinn á kjörskrá gildir í fjögur ár frá 1. desember næstum eftir að umsókn var lögð fram. Heimilt er að skjóta synjun Þjóðskrár Íslands til úrskurðarnefndar kosningamála.
+ Íslenskur ríkisborgari, sem náð hefur 18 ára aldri og hefur átt lögheimili hér á landi, á kosningarrétt í sextán ár frá því að hann flytur lögheimili af landinu. Eftir þann tíma skal hann sækja um til Þjóðskrár Íslands að vera tekinn á kjörskrá. Í umsókn skal koma fram nafn umsækjanda, kennitala, hvenær hann flutti af landi brott, síðasta lögheimili á Íslandi, heimilisfang erlendis og yfirlýsing umsækjanda um að hann sé enn íslenskur ríkisborgari. Þjóðskrá Íslands gefur út leiðbeiningar um móttöku og meðferð umsókna. Í þeim er heimilt að mæla fyrir um rafrænt umsóknarferli. Ákvörðun um að einhver skuli þannig tekinn á kjörskrá gildir í fjögur ár [í senn]
+1) frá 1. desember næstum eftir að umsókn var lögð fram. Heimilt er að skjóta synjun Þjóðskrár Íslands til úrskurðarnefndar kosningamála.
+   
+1)L. 62/2023, 1. gr. 
 
 
 
@@ -101,10 +104,15 @@ Kjördæmi við alþingiskosningar.
  Kjósendur neyta kosningarréttar síns í alþingiskosningum, forsetakjöri og þjóðaratkvæðagreiðslum í kjördæmum eftir þeim reglum og með þeim skilyrðum er lög þessi setja. Landinu er skipt í kjördæmi sem hér segir:
     1. 
 Norðvesturkjördæmi.
-    Til þess teljast eftirtalin sveitarfélög: Akraneskaupstaður, Hvalfjarðarsveit, Skorradalshreppur, Borgarbyggð, Eyja- og Miklaholtshreppur, Snæfellsbær, Grundarfjarðarbær, Helgafellssveit, Stykkishólmsbær, Dalabyggð, Reykhólahreppur, Vesturbyggð, Tálknafjarðarhreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Súðavíkurhreppur, Árneshreppur, Kaldrananeshreppur, Strandabyggð, Húnaþing vestra, Húnavatnshreppur, Blönduósbær, Skagabyggð, Sveitarfélagið Skagaströnd, Sveitarfélagið Skagafjörður og Akrahreppur.
+    Til þess teljast eftirtalin sveitarfélög: Akraneskaupstaður, Hvalfjarðarsveit, Skorradalshreppur, Borgarbyggð, Eyja- og Miklaholtshreppur, Snæfellsbær, Grundarfjarðarbær, [Sveitarfélagið Stykkishólmur],
+1) Dalabyggð, Reykhólahreppur, Vesturbyggð, Tálknafjarðarhreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Súðavíkurhreppur, Árneshreppur, Kaldrananeshreppur, Strandabyggð, Húnaþing vestra, [Húnabyggð],
+1) Skagabyggð, Sveitarfélagið Skagaströnd [og Skagafjörður].
+1)
     2. 
 Norðausturkjördæmi.
-    Til þess teljast eftirtalin sveitarfélög: Fjallabyggð, Dalvíkurbyggð, Hörgársveit, Akureyrarbær, Eyjafjarðarsveit, Svalbarðsstrandarhreppur, Grýtubakkahreppur, Þingeyjarsveit, Skútustaðahreppur, Norðurþing, Tjörneshreppur, Svalbarðshreppur, Langanesbyggð, Vopnafjarðarhreppur, Fljótsdalshreppur, Múlaþing og Fjarðabyggð.
+    Til þess teljast eftirtalin sveitarfélög: Fjallabyggð, Dalvíkurbyggð, Hörgársveit, Akureyrarbær, Eyjafjarðarsveit, Svalbarðsstrandarhreppur, Grýtubakkahreppur, Þingeyjarsveit, …
+1) Norðurþing, Tjörneshreppur, …
+1) Langanesbyggð, Vopnafjarðarhreppur, Fljótsdalshreppur, Múlaþing og Fjarðabyggð.
     3. 
 Suðurkjördæmi.
     Til þess teljast eftirtalin sveitarfélög: Sveitarfélagið Hornafjörður, Skaftárhreppur, Mýrdalshreppur, Rangárþing eystra, Rangárþing ytra, Ásahreppur, Vestmannaeyjabær, Flóahreppur, Sveitarfélagið Árborg, Skeiða- og Gnúpverjahreppur, Hrunamannahreppur, Bláskógabyggð, Grímsnes- og Grafningshreppur, Hveragerðisbær, Sveitarfélagið Ölfus, Grindavíkurbær, Suðurnesjabær, Reykjanesbær og Sveitarfélagið Vogar.
@@ -116,6 +124,8 @@ Reykjavíkurkjördæmi suður og norður.
     Reykjavík skal skipta frá vestri til austurs í tvö kjördæmi, suðurkjördæmi og norðurkjördæmi, eftir því sem fyrir er mælt í 8. gr.
 
  Verði heiti eða mörkum sveitarfélags breytt eða sameinist tvö eða fleiri þeirra skal litið svo á að sveitarfélagið, sem til verður í staðinn, heyri til þess kjördæmis sem það eldra eða þau eldri heyrðu til. Varði slík breyting mörk kjördæma skulu þau þó haldast óbreytt.
+   
+1)L. 62/2023, 2. gr. 
 
 
 
@@ -160,11 +170,13 @@ Reykjavíkurkjördæmi norður
 
 
 
- Í Norðvesturkjördæmi skulu vera sjö kjördæmissæti og eitt jöfnunarsæti. Í Norðausturkjördæmi og Suðurkjördæmi skulu vera níu kjördæmissæti og eitt jöfnunarsæti í hvoru kjördæmi. Í Suðvesturkjördæmi skulu vera ellefu kjördæmissæti og tvö jöfnunarsæti. Í Reykjavíkurkjördæmi norður og Reykjavíkurkjördæmi suður skulu vera níu kjördæmissæti og tvö jöfnunarsæti í hvoru kjördæmi.
+ Í Norðvesturkjördæmi skulu vera [sex]
+2) kjördæmissæti og eitt jöfnunarsæti. Í Norðausturkjördæmi og Suðurkjördæmi skulu vera níu kjördæmissæti og eitt jöfnunarsæti í hvoru kjördæmi. Í Suðvesturkjördæmi skulu vera [tólf]
+2) kjördæmissæti og tvö jöfnunarsæti. Í Reykjavíkurkjördæmi norður og Reykjavíkurkjördæmi suður skulu vera níu kjördæmissæti og tvö jöfnunarsæti í hvoru kjördæmi.
 
  Þrátt fyrir það sem segir í 1. og 2. mgr. getur landskjörstjórn breytt fjölda kjördæmissæta í hverju kjördæmi í samræmi við 10. gr.
    
-1)L. 18/2022, 2. gr. 
+1)L. 18/2022, 2. gr. 2)L. 62/2023, 3. gr. 
 
 
 
@@ -290,7 +302,8 @@ e. Undirkjörstjórnir.
 16. gr.
 Yfirkjörstjórnir kjördæma og umdæmiskjörstjórnir.
 
- Í hverju kjördæmi við alþingiskosningar, forsetakjör og þjóðaratkvæðagreiðslur er yfirkjörstjórn sem hefur umsjón með kosningum í kjördæminu samkvæmt fyrirmælum laga þessara. Skal hún skipuð fimm mönnum og jafnmörgum til vara og eru þeir kosnir af Alþingi. Kýs hún sér sjálf oddvita. Nú fær framboð sem á fulltrúa á Alþingi ekki kjörinn fulltrúa í yfirkjörstjórn og skal því þá heimilt að tilnefna áheyrnarfulltrúa til setu í henni og annan til vara. Áheyrnarfulltrúi hefur sama rétt og kjörinn fulltrúi annan en atkvæðisrétt.
+ Í hverju kjördæmi við alþingiskosningar, forsetakjör og þjóðaratkvæðagreiðslur er yfirkjörstjórn sem hefur umsjón með kosningum í kjördæminu samkvæmt fyrirmælum laga þessara. [Skal yfirkjörstjórn kosin af Alþingi eftir hverjar almennar þingkosningar og skipuð fimm mönnum og jafnmörgum til vara.]
+1) Kýs hún sér sjálf oddvita. Nú fær framboð sem á fulltrúa á Alþingi ekki kjörinn fulltrúa í yfirkjörstjórn og skal því þá heimilt að tilnefna áheyrnarfulltrúa til setu í henni og annan til vara. Áheyrnarfulltrúi hefur sama rétt og kjörinn fulltrúi annan en atkvæðisrétt.
 
  Yfirkjörstjórn skal með nægum fyrirvara á undan kosningum auglýsa aðsetur sitt þar sem hún dvelst meðan kosning fer fram, og skal aðsetur hennar liggja eins vel við samgöngum og kostur er.
 
@@ -299,6 +312,8 @@ Yfirkjörstjórnir kjördæma og umdæmiskjörstjórnir.
  Yfirkjörstjórn kjördæmis ræður starfsfólk sér til aðstoðar við kosningar. Ekki er skylt að auglýsa slík störf. Yfirkjörstjórn kjördæmis getur falið starfsfólki sveitarfélaga störf í tengslum við framkvæmd kosninga.
 
  Þjóðskrá Íslands ber að veita yfirkjörstjórnum kjördæma aðgang að upplýsingum úr skrám og kerfum stofnunarinnar án endurgjalds svo að þær geti sinnt hlutverki sínu.
+   
+1)L. 62/2023, 4. gr. 
 
 
 
@@ -326,7 +341,16 @@ Yfirkjörstjórnir sveitarfélaga, hverfiskjörstjórnir og undirkjörstjórnir.
 18. gr.
 Hæfi kjörstjórnarmanna.
 
- Kjörstjórnarmaður, sbr. 15. gr., og fulltrúi í landskjörstjórn skal víkja úr kjörstjórn ef einstaklingur er í kjöri sem er eða hefur verið maki hans, sambúðarmaki, fyrrverandi sambúðarmaki eða skyldur eða mægður honum í beinan legg eða að öðrum lið til hliðar eða tengdur honum með sama hætti vegna ættleiðingar.
+ [Kjörstjórnarmaður, sbr. 15. gr., og fulltrúi í landskjörstjórn skal víkja sæti ef til úrskurðar er mál: 
+   
+a. er varðar maka hans eða sambúðarmaka, enda sé sambúðin skráð í þjóðskrá, eða þann sem er skyldur honum eða mægður í beinan legg eða að öðrum lið til hliðar eða tengdur honum með sama hætti við ættleiðingu, eða
+   
+b. ef að öðru leyti en greinir í a-lið eru fyrir hendi þær aðstæður sem eru fallnar til þess að draga óhlutdrægni hans í efa með réttu.
+
+ Ágreiningi um hæfi kjörstjórnarmanns og fulltrúa í landskjörstjórn til að úrskurða í máli má skjóta til úrskurðarnefndar kosningamála skv. 22. gr.]
+1)
+   
+1)L. 62/2023, 5. gr. 
 
 
 
@@ -368,25 +392,41 @@ Hlutverk Þjóðskrár Íslands.
    
 1. Synjun Þjóðskrár Íslands um að taka kjósanda á kjörskrá, sbr. 3. mgr. 4. gr., og um leiðréttingar á kjörskrá skv. 32. gr., sbr. 33. gr.
    
-2. Ákvörðun landskjörstjórnar og yfirkjörstjórnar sveitarfélags um gildi framboðslista og önnur atriði er þau varða, sbr. 45. og 46. gr.
+[2. Kæru vegna ákvörðunar um hæfi, sbr. 18. og 72. gr.]
+1)
    
-3. Ákvörðun yfirkjörstjórnar um kjörgengi frambjóðenda í sveitarstjórnarkosningum, sbr. 48. gr.
+[3.]
+1) Ákvörðun landskjörstjórnar og yfirkjörstjórnar sveitarfélags um gildi framboðslista og önnur atriði er þau varða, sbr. 45. og 46. gr.
    
-4. Ákvörðun landskjörstjórnar um gildi framboðs til forsetakjörs, sbr. 2. mgr. 50. gr.
+[4.]
+1) Ákvörðun yfirkjörstjórnar um kjörgengi frambjóðenda í sveitarstjórnarkosningum, sbr. 48. gr.
    
-5. Kæru vegna ólögmætis sveitarstjórnarkosninga, sbr. 128. gr.
+[5.]
+1) Ákvörðun landskjörstjórnar um gildi framboðs til forsetakjörs, sbr. 2. mgr. 50. gr.
    
-6. Kæru vegna ólögmætis forsetakjörs og þjóðaratkvæðagreiðslna, sbr. 129. gr.
+[6.]
+1) Kæru vegna ólögmætis sveitarstjórnarkosninga, sbr. 128. gr.
    
-7. Kæru vegna ólögmætis íbúakosninga sem haldnar eru á grundvelli sveitarstjórnarlaga.
+[7.]
+1) Kæru vegna ólögmætis forsetakjörs og þjóðaratkvæðagreiðslna, sbr. 129. gr.
    
-8. Ákvörðun sem landskjörstjórn tekur samkvæmt öðrum lögum. 
+[8.]
+1) …
+1)
+   
+[9.]
+1) Ákvörðun sem landskjörstjórn tekur samkvæmt öðrum lögum. 
 
  Um frest til þess að kæra einstakar ákvarðanir fer samkvæmt fyrirmælum laga þessara.
 
  Ákvörðun málsaðila um að bera ákvarðanir stjórnvalda skv. 2. mgr. undir dómstóla frestar ekki réttaráhrifum þeirra.
 
  Úrskurði úrskurðarnefndar kosningamála verður ekki skotið til annars stjórnvalds.
+
+ [Úrskurð úrskurðarnefndar kosningamála má bera undir dómstóla innan þriggja vikna frá birtingu hans. Um rekstur málsins fer eftir almennum reglum um meðferð einkamála að öðru leyti en því að það sætir flýtimeðferð skv. XIX. kafla þeirra laga.]
+1)
+   
+1)L. 62/2023, 6. gr. 
 
 
 V. kafli.
@@ -410,11 +450,14 @@ Alþingiskosningar.
 24. gr.
 Sveitarstjórnarkosningar.
 
- Almennar sveitarstjórnarkosningar fara fram annan laugardag í maímánuði sem ekki ber upp á laugardag fyrir hvítasunnu. Beri sveitarstjórnarkosningar upp á laugardag fyrir hvítasunnu skal kjördegi flýtt um eina viku.
+ Almennar sveitarstjórnarkosningar fara fram [þriðja]
+1) laugardag í maímánuði sem ekki ber upp á laugardag fyrir hvítasunnu. Beri sveitarstjórnarkosningar upp á laugardag fyrir hvítasunnu skal kjördegi flýtt um eina viku.
 
  Landskjörstjórn skal auglýsa hvenær almennar reglulegar sveitarstjórnarkosningar skulu fara fram.
 
  Kjörtímabil sveitarstjórnar er fjögur ár.
+   
+1)L. 62/2023, 7. gr. 
 
 
 
@@ -456,15 +499,20 @@ Miðlæg vinnsla kjörskrár.
  Þegar boðað hefur verið til almennra alþingiskosninga, sveitarstjórnarkosninga, forsetakjörs eða þjóðaratkvæðagreiðslu skal Þjóðskrá Íslands gera kjörskrár samkvæmt skráningu lögheimilis hvers kjósanda í þjóðskrá, sbr. 28. gr.
 
  Viðmiðunardagur kjörskrár skal vera kl. 12 á hádegi [38]
-1) dögum fyrir kjördag.
+1) dögum fyrir kjördag. [Þegar alþingiskosningar fara fram eftir tilkynningu um þingrof skal viðmiðunardagur kjörskrár vera kl. 12 á hádegi 32 dögum fyrir kjördag.]
+2)
 
  Við atkvæðagreiðslu á kjörfundi skulu kjörstjórnir notast við rafræna kjörskrá. Í undantekningartilfellum er heimilt að nota prentaða kjörskrá, sbr. 35. gr.
 
- Í kjörskrá skal skrá nöfn kjósenda, kennitölu, lögheimili, kyn og ríkisfang.
+ Í kjörskrá skal skrá nöfn kjósenda, kennitölu, lögheimili, kyn og ríkisfang. [Sé nafni eða lögheimili kjósanda ekki miðlað úr þjóðskrá samkvæmt lögum um skráningu einstaklinga skal nafn eða lögheimili hans ekki birt í kjörskrá.]
+2)
+
+ [Þjóðskrá Íslands skal tryggja að fyrir hendi sé rafræn uppfletting í kjörskrá þannig að kjósandi geti með innslætti á kennitölu sinni fengið upplýsingar um hvar hann er á kjörskrá.]
+2)
 
  Þjóðskrá Íslands er heimil vinnsla persónuupplýsinga við gerð kjörskrár og skal hún vera í samræmi við lög um persónuvernd og vinnslu persónuupplýsinga.
    
-1)L. 18/2022, 3. gr. 
+1)L. 18/2022, 3. gr. 2)L. 62/2023, 8. gr. 
 
 
 
@@ -497,14 +545,15 @@ Kjörskrá í sveitarstjórnarkosningum.
 Gerð kjörskrár auglýst.
 
  Þjóðskrá Íslands auglýsir í Stjórnartíðindum og fjölmiðlum að gerðar hafi verið kjörskrár, sbr. 27. gr., jafnskjótt og gerð þeirra er lokið og eigi síðar en [36]
-1) dögum fyrir kjördag. Í auglýsingunni skal koma fram að Þjóðskrá Íslands veiti aðgang að upplýsingum úr rafrænni kjörskrá, með innslætti kennitölu, á vef sínum og vef landskjörstjórnar.
+1) dögum fyrir kjördag. [Fari alþingiskosningar fram eftir tilkynningu um þingrof skal auglýsingin birt eigi síðar en 30 dögum fyrir kjördag.]
+2)
 
  Að lokinni birtingu auglýsingar skv. 1. mgr. sendir Þjóðskrá Íslands sveitarstjórnum kjörskrár með rafrænum hætti, án endurgjalds. Þjóðskrá Íslands getur gefið út leiðbeiningar um afhendingu kjörskrár til sveitarfélaga og rafrænan aðgang þeirra að kjörskrá. Kjörskrár skulu aðgengilegar almenningi til skoðunar á skrifstofum sveitarstjórna eða öðrum hentugum stað eigi síðar en 21 degi fyrir kjördag.
 
  Að fengnum tillögum landskjörstjórnar skal ráðherra í reglugerð
-2) kveða nánar á um þær upplýsingar sem birta skal úr kjörskrá á vef landskjörstjórnar, hvort birting skuli enn fremur heimil á öðrum vef en greinir í 1. mgr. og um framlagningu kjörskrár.
+3) kveða nánar á um þær upplýsingar sem birta skal úr kjörskrá á vef landskjörstjórnar, hvort birting skuli enn fremur heimil á öðrum vef en greinir í 1. mgr. og um framlagningu kjörskrár.
    
-1)L. 18/2022, 4. gr. 2)Rg. 387/2022. 
+1)L. 18/2022, 4. gr. 2)L. 62/2023, 9. gr. 3)Rg. 387/2022. 
 
 
 
@@ -539,11 +588,19 @@ lögum um réttindi danskra ríkisborgara á Íslandi, nr. 18/1944, sbr.
    
 e. íslenskur ríkisborgari, sem aldrei hefur átt lögheimili hér á landi eða sem misst hefur kosningarrétt skv. 2. mgr. 3. gr., flyst til landsins og skráir aftur lögheimili sitt hér á landi eftir viðmiðunardag kjörskrár,
    
-f. Þjóðskrá Íslands verður þess að öðru leyti áskynja að villa hafi verið gerð við skráningu kjósanda við kjörskrárgerðina.
+[f. danskur, finnskur, norskur eða sænskur ríkisborgari skráir lögheimili sitt hér á landi eftir viðmiðunardag kjörskrár,
+   
+g. Þjóðskrá Íslands hefur leiðrétt lögheimilisskráningu kjósanda aftur í tímann á grundvelli laga um lögheimili og aðsetur,]
+1)
+   
+[h.]
+1) Þjóðskrá Íslands verður þess að öðru leyti áskynja að villa hafi verið gerð við skráningu kjósanda við kjörskrárgerðina.
 
  Þjóðskrá Íslands sendir hlutaðeigandi sveitarstjórnum og viðkomandi kjósanda, ef við á, tilkynningu um leiðréttingar sem hún gerir á rafrænni kjörskrá. Þá sendir stofnunin hlutaðeigandi kjörstjórn tilkynningar um leiðréttingar á rafrænni kjörskrá svo að færa megi þær á prentuð kjörskráreintök kjörstjórna ef ákvæði 2. mgr. 35. gr. eiga við.
 
  Þjóðskrá Íslands gefur út leiðbeiningar um hvernig leiðréttingar skuli færðar á prentuð kjörskráreintök sveitarstjórna. Sveitarstjórnum er óheimilt að færa á prentuð kjörskráreintök aðrar leiðréttingar en þær sem Þjóðskrá Íslands heimilar.
+   
+1)L. 62/2023, 10. gr. 
 
 
 
@@ -572,9 +629,12 @@ Notkun rafrænnar kjörskrár.
 35. gr.
 Undanþága til notkunar prentaðrar kjörskrár.
 
- Sveitarstjórn er heimilt að fara þess á leit við landskjörstjórn, eigi síðar en 47 dögum fyrir kjördag, að á kjördag verði notast við prentaða kjörskrá í sveitarfélaginu. Í beiðninni skal sveitarstjórnin rökstyðja hvers vegna hún telji að ekki skuli notast við rafræna kjörskrá. Landskjörstjórn skal svara sveitarstjórn eigi síðar en 40 dögum fyrir kjördag. Að liðnum fresti til umsóknar er landskjörstjórn þó heimilt að taka til meðferðar beiðni sveitarstjórnar ef veigamiklar ástæður mæla með því. Í þeim tilvikum skal landskjörstjórn svara erindinu eins fljótt og verða má.
+ Sveitarstjórn er heimilt að fara þess á leit við landskjörstjórn, eigi síðar en 47 dögum fyrir kjördag, að á kjördag verði notast við prentaða kjörskrá í sveitarfélaginu. Í beiðninni skal sveitarstjórnin rökstyðja hvers vegna hún telji að ekki skuli notast við rafræna kjörskrá. Landskjörstjórn skal svara sveitarstjórn eigi síðar en 40 dögum fyrir kjördag. Að liðnum fresti til umsóknar er landskjörstjórn þó heimilt að taka til meðferðar beiðni sveitarstjórnar ef veigamiklar ástæður mæla með því. Í þeim tilvikum skal landskjörstjórn svara erindinu eins fljótt og verða má. [Fari alþingiskosningar fram eftir tilkynningu um þingrof skal beiðni sveitarstjórnar borin fram svo fljótt sem verða má. Svar landskjörstjórnar við beiðninni skal jafnframt liggja fyrir svo fljótt sem auðið er.]
+1)
 
  Heimili landskjörstjórn notkun prentaðrar kjörskrár í sveitarfélagi á kjördag er einungis kjósendum sem þar standa á kjörskrá heimilt að greiða atkvæði í viðeigandi kjördeild. Þeir kjósendur geta ekki greitt atkvæði í kjördeild þar sem rafræn kjörskrá er notuð. Sveitarfélag skal prenta kjörskrá til að nota við atkvæðagreiðslu á kjörfundi.
+   
+1)L. 62/2023, 11. gr. 
 
 
 VII. kafli.
@@ -585,9 +645,12 @@ Framboð til Alþingis og sveitarstjórna.
 36. gr.
 Framboðsfrestur og móttaka framboða.
 
- Þegar kosningar eiga að fara fram skulu öll framboð tilkynnt eigi síðar en kl. 12 á hádegi 36 dögum fyrir kjördag. Tilkynningin getur verið undirrituð eigin hendi eða með fullgildri rafrænni undirskrift.
+ Þegar kosningar eiga að fara fram skulu öll framboð tilkynnt eigi síðar en kl. 12 á hádegi 36 dögum fyrir kjördag. [Þegar alþingiskosningar fara fram eftir tilkynningu um þingrof skulu öll framboð tilkynnt eigi síðar en kl. 12 á hádegi 30 dögum fyrir kjördag.]
+1) Tilkynningin getur verið undirrituð eigin hendi eða með fullgildri rafrænni undirskrift.
 
  Við alþingiskosningar tekur landskjörstjórn á móti framboðum en yfirkjörstjórn sveitarfélags við sveitarstjórnarkosningar.
+   
+1)L. 62/2023, 12. gr. 
 
 
 
@@ -614,21 +677,21 @@ Einn listi í kjöri við alþingiskosningar.
 39. gr.
 Framboðslistar.
 
- Hverjum framboðslista skal fylgja: 
+ [Hverjum framboðslista við alþingiskosningar skal fylgja: 
    
-a. staðfesting á skráðu heiti og listabókstaf nýrra stjórnmálasamtaka,
+a. yfirlýsing allra þeirra sem eru á listanum um að þeir hafi leyft að setja nöfn sín á listann, undirrituð eigin hendi eða með fullgildri rafrænni undirskrift,
    
-b. yfirlýsing allra þeirra sem eru á listanum um að þeir hafi leyft að setja nöfn sín á listann, undirrituð eigin hendi eða með fullgildri rafrænni undirskrift,
+b. upplýsingar um heiti stjórnmálasamtakanna og listabókstaf þeirra, samkvæmt skrá ráðuneytisins, sbr. lög um starfsemi stjórnmálasamtaka,
    
-c. tilkynning frá þeim stjórnmálasamtökum sem boðið hafa fram listann um það hverjir tveir menn séu umboðsmenn listans sem taki við athugasemdum um ágalla sem kunna að vera á framboðinu.
+c. tilkynning frá þeim stjórnmálasamtökum sem boðið hafa fram listann um það hverjir tveir menn séu umboðsmenn listans sem taki við athugasemdum um ágalla sem kunna að vera á framboðinu,
+   
+d. yfirlýsing um stuðning við listann frá kjósendum í hlutaðeigandi kjördæmi; tilgreina skal nafn meðmælanda, lögheimili hans og kennitölu; fjöldi meðmælenda skal vera margfeldi af þingsætatölu kjördæmisins og talnanna 30 að lágmarki og 40 að hámarki,
+   
+e. yfirlýsing meðmælenda um fyrir hvaða stjórnmálasamtök hann sé boðinn fram; allir listar sem bornir eru fram fyrir sömu stjórnmálasamtök eiga saman þegar jöfnunarsætum er úthlutað skv. 110. gr.; ef yfirlýsinguna vantar telst listi vera sérstakt framboð.]
+1)
 
- Auk gagna skv. 1. mgr. skal fylgja framboðslista fyrir alþingiskosningar: 
-   
-a. yfirlýsing um stuðning við listann frá kjósendum í hlutaðeigandi kjördæmi; tilgreina skal nafn meðmælanda, lögheimili hans og kennitölu; fjöldi meðmælenda skal vera margfeldi af þingsætatölu kjördæmisins og talnanna 30 að lágmarki og 40 að hámarki,
-   
-b. yfirlýsing meðmælenda um fyrir hvaða stjórnmálasamtök hann sé boðinn fram; allir listar sem bornir eru fram fyrir sömu stjórnmálasamtök eiga saman þegar jöfnunarsætum er úthlutað skv. 110. gr.; ef yfirlýsinguna vantar telst listi vera sérstakt framboð.
-
- Auk gagna skv. 1. mgr. skal fylgja framboðslista fyrir sveitarstjórnarkosningar yfirlýsing um stuðning við listann frá kjósendum í hlutaðeigandi sveitarfélagi. Tilgreina skal nafn meðmælanda, lögheimili hans og kennitölu. Ekki er gerð krafa um meðmælendur í sveitarfélögum með 100 íbúa eða færri. Hámarkstala meðmælenda skal vera tvöföld tilskilin lágmarkstala. Lágmarksfjöldi meðmælenda skal vera sem hér segir: 
+ [Hverjum framboðslista við sveitarstjórnarkosningar skal fylgja yfirlýsing, upplýsingar og tilkynning skv. a-, b- og c-lið 1. mgr. og yfirlýsing um stuðning við listann frá kjósendum í hlutaðeigandi sveitarfélagi.]
+1) Tilgreina skal nafn meðmælanda, lögheimili hans og kennitölu. Ekki er gerð krafa um meðmælendur í sveitarfélögum með 100 íbúa eða færri. Hámarkstala meðmælenda skal vera tvöföld tilskilin lágmarkstala. Lágmarksfjöldi meðmælenda skal vera sem hér segir: 
    
 a. í sveitarfélagi með 101–500 íbúa 10 meðmælendur,
    
@@ -642,9 +705,12 @@ e. í sveitarfélagi með 50.001 og fleiri íbúa 160 meðmælendur.
 
  Ef sá sem ákveður framboðslista eða staðfestir hann endanlega, samkvæmt reglum stjórnmálasamtaka, ber fram mótmæli gegn því að listi sé boðinn fram fyrir þau samtök telst slíkur framboðslisti ekki vera boðinn fram á vegum þeirra.
 
- Við sömu kosningar má enginn bjóða sig fram á fleiri framboðslistum en einum. Þá má sami kjósandi ekki mæla með fleiri en einum lista við sömu kosningar. Frambjóðendur á lista geta ekki verið meðmælendur hans. Kjörstjórnarfulltrúar geta ekki verið meðmælendur framboðslista.
+ Við sömu kosningar má enginn bjóða sig fram á fleiri framboðslistum en einum. Þá má sami kjósandi ekki mæla með fleiri en einum lista við sömu kosningar. Frambjóðendur á lista geta ekki verið meðmælendur hans. [Kjörstjórnarmenn í landskjörstjórn, yfirkjörstjórnum og umdæmiskjörstjórnum]
+1) geta ekki verið meðmælendur framboðslista.
 
  Þjóðskrá Íslands er heimilt, að beiðni landskjörstjórnar eða yfirkjörstjórnar sveitarfélags, að samkeyra upplýsingar úr meðmælendalistum við þjóðskrá að fullnægðum skilyrðum laga um persónuvernd og vinnslu persónuupplýsinga og kanna hvort viðkomandi sé kosningarbær. Jafnframt skal Þjóðskrá Íslands veita landskjörstjórn og yfirkjörstjórnum sveitarfélaga rafrænan aðgang að listunum.
+   
+1)L. 62/2023, 13. gr. 
 
 
 
@@ -674,11 +740,13 @@ b. tegund rafrænnar auðkenningar meðmælenda,
    
 c. aðgang að upplýsingum hjá Þjóðskrá Íslands til athugunar á því hvort kjósandi sé kosningarbær, sbr. 1. mgr.,
    
-d. meðferð þeirra upplýsinga sem aflað er frá Þjóðskrá Íslands um kosningarrétt meðmælenda með framboðslistum, sbr. a-lið 2. mgr. og 3. mgr. 39. gr.,
+d. meðferð þeirra upplýsinga sem aflað er frá Þjóðskrá Íslands um kosningarrétt meðmælenda með framboðslistum, [sbr. d-lið 1. mgr. og 2. mgr. 39. gr.],
+2)
    
-e. varðveislu og eyðingu upplýsinga skv. a-lið 2. mgr. og 3. mgr. 39. gr.
+e. varðveislu og eyðingu upplýsinga, [sbr. d-lið 1. mgr. og 2. mgr. 39. gr.]
+2)
    
-1)Rg. 330/2022. 
+1)Rg. 330/2022. 2)L. 62/2023, 14. gr. 
 
 
 
@@ -726,11 +794,14 @@ b. ákveða, ef þörf krefur, hverjum stjórnmálasamtökum skuli telja þá fr
    
 c. merkja lista stjórnmálasamtaka með hliðsjón af auglýsingu um listabókstafi þeirra; hafi stjórnmálasamtök fleiri lista en einn í sama kjördæmi skal merkja þá A, AA …, B, BB … o.s.frv. eftir því sem við á,
    
-d. gæta þess að listar sem saman eiga, sbr. b-lið 2. mgr. 39. gr., séu merktir sama bókstaf í öllum kjördæmum,
+d. gæta þess að listar sem saman eiga, [sbr. e-lið 1. mgr. 39. gr.],
+1) séu merktir sama bókstaf í öllum kjördæmum,
    
 e. kanna hvort samræmis gæti um framsetningu og frágang framboðslista, þar á meðal um ritun nafna frambjóðenda, sbr. 2. og 3. mgr. 37. gr.
 
  Á fundi sem landskjörstjórn boðar umboðsmenn framboðslista til, sbr. 1. mgr. 39. gr., eigi síðar en þremur sólarhringum og fjórum stundum eftir að framboðsfrestur rennur út, skal hún greina frá meðferð sinni á einstökum framboðslistum og tilkynna um ákvarðanir sínar, sbr. 1. mgr. Ákvörðun landskjörstjórnar má umboðsmaður skjóta til úrskurðarnefndar kosningamála, sbr. 22. gr., innan 20 stunda frá því að hún var afhent honum. Úrskurður nefndarinnar skal liggja fyrir innan tveggja sólarhringa eftir að kærufrestur rennur út.
+   
+1)L. 62/2023, 15. gr. 
 
 
 
@@ -743,25 +814,32 @@ a. skera úr um hvort stjórnmálasamtök hafi bætt úr göllum á framboðslis
    
 b. ákveða, ef þörf krefur, hverjum stjórnmálasamtökum skuli telja þá framboðslista sem í kjöri verða við kosningarnar,
    
-c. merkja lista stjórnmálasamtaka með hliðsjón af auglýsingu um listabókstafi stjórnmálasamtaka sem buðu fram lista við síðustu alþingiskosningar, en ef framboðslistar eru ekki bornir fram af stjórnmálasamtökum merkir yfirkjörstjórn sveitarfélags þá í stafrófsröð eftir því sem þeir hafa borist henni eða eftir samkomulagi við umboðsmenn listanna,
+c. [merkja lista stjórnmálasamtaka með hliðsjón af auglýsingu um listabókstafi stjórnmálasamtaka sem buðu fram lista við síðustu alþingiskosningar ef við á, en ef stjórnmálasamtök eru ekki á skrá ráðuneytisins, sbr. lög um starfsemi stjórnmálasamtaka, skal merkja listana í samræmi við ákvörðun yfirkjörstjórnar, sbr. lög um starfsemi stjórnmálasamtaka],
+1)
    
 d. kanna hvort samræmis gæti um framsetningu og frágang framboðslista, þar á meðal um ritun nafna frambjóðenda, sbr. 2. og 3. mgr. 37. gr.
 
  Á fundi sem yfirkjörstjórn sveitarfélags boðar umboðsmenn framboðslista til, sbr. 1. mgr. 39. gr., eigi síðar en þremur sólarhringum og fjórum stundum eftir að framboðsfrestur rennur út, skal hún greina frá meðferð sinni á einstökum framboðslistum og tilkynna um ákvarðanir sínar, sbr. 1. mgr. Ákvörðun yfirkjörstjórnar sveitarfélags má umboðsmaður skjóta til úrskurðarnefndar kosningamála, sbr. 22. gr., innan 20 stunda frá því að hún var afhent honum. Úrskurður nefndarinnar skal liggja fyrir innan tveggja sólarhringa eftir að kærufrestur rennur út.
 
  Nú kemur aðeins fram einn framboðslisti við sveitarstjórnarkosningar og skal þá yfirkjörstjórn sveitarfélags framlengja framboðsfrest um tvo sólarhringa. Komi fram nýr framboðslisti innan þess frests er heimilt að veita honum fjögurra daga frest til að uppfylla skilyrði skv. 39. gr. Komi ekki fram nýr framboðslisti áður en sá frestur er úti verður framkominn framboðslisti sjálfkjörinn.
+   
+1)L. 62/2023, 16. gr. 
 
 
 
 47. gr.
 Auglýsing framboðslista.
 
- Þegar niðurstaða liggur fyrir um gildi framboðslista við alþingiskosningar skal landskjörstjórn auglýsa þá í Stjórnartíðindum, á vef og í fjölmiðlum eigi síðar en 30 dögum fyrir kjördag. Yfirkjörstjórn sveitarfélags auglýsir framboðslista innan sama frests fyrir sveitarstjórnarkosningar. Að fengnum tillögum landskjörstjórnar skal ráðherra setja frekari ákvæði í reglugerð
-1) um efni auglýsinga, birtingarhátt o.fl. Má í reglugerð kveða m.a. á um birtingu lögheimilis og kennitölu frambjóðenda.
+ Þegar niðurstaða liggur fyrir um gildi framboðslista við alþingiskosningar skal landskjörstjórn auglýsa þá í [Lögbirtingablaði],
+1) á vef og í fjölmiðlum eigi síðar en 30 dögum fyrir kjördag. [Fari alþingiskosningar fram eftir tilkynningu um þingrof skal auglýst eigi síðar en 24 dögum fyrir kjördag.]
+1) [Yfirkjörstjórn sveitarfélags auglýsir framboðslista fyrir sveitarstjórnarkosningar eigi síðar en 30 dögum fyrir kjördag.]
+1) [Auglýsingu skal birta á vef sveitarfélagsins og víðar ef yfirkjörstjórn ákveður.]
+1) Að fengnum tillögum landskjörstjórnar skal ráðherra setja frekari ákvæði í reglugerð
+2) um efni auglýsinga, birtingarhátt o.fl. Má í reglugerð kveða m.a. á um birtingu lögheimilis og kennitölu frambjóðenda.
 
  Nú fer óbundin kosning fram til sveitarstjórnar, framboðsfrestur framlengist samkvæmt ákvæðum 3. mgr. 46. gr. eða maður skorast undan endurkjöri skv. 5. mgr. 49. gr. og skal þá yfirkjörstjórn sveitarfélags auglýsa það með sama hætti og framboð.
    
-1)Rg. 330/2022. 
+1)L. 62/2023, 17. gr. 2)Rg. 330/2022. 
 
 
 
@@ -803,9 +881,13 @@ Tilkynning framboðs.
  Framboðum til forsetakjörs skal skila í hendur landskjörstjórnar ásamt samþykki forsetaefnis og nægilegri tölu kosningarbærra meðmælenda, sbr. 
 5. gr. stjórnarskrárinnar, eigi síðar en kl. 12 á hádegi 36 dögum fyrir kjördag. Um söfnun, form og meðferð meðmæla gilda sömu reglur og við alþingis- og sveitarstjórnarkosningar, sbr. 2. mgr. 41. gr.
 
- Landskjörstjórn úrskurðar um gildi framboðs til forsetakjörs. Ákvörðunum landskjörstjórnar má skjóta til úrskurðarnefndar kosningamála.
+ Landskjörstjórn úrskurðar um gildi framboðs til forsetakjörs. [Ákvörðun landskjörstjórnar má umboðsmaður skjóta til úrskurðarnefndar kosningamála, sbr. 22. gr., innan 20 klukkustunda frá því að hún var afhent honum.]
+1)
 
- Landskjörstjórn auglýsir 30 dögum fyrir kjördag hverjir séu í kjöri.
+ [Þegar niðurstaða liggur fyrir um gildi framboða skal landskjörstjórn auglýsa þau í Lögbirtingablaði, á vef sínum og í fjölmiðlum eigi síðar en 30 dögum fyrir kjördag.]
+1)
+   
+1)L. 62/2023, 18. gr. 
 
 
 
@@ -858,14 +940,20 @@ Réttindi umboðsmanna við ákvörðun um gildi framboðslista.
 
  Auk umboðsmanna lista eiga stjórnmálasamtök sem bjóða fram lista við alþingiskosningar rétt á að hafa tvo umboðsmenn viðstadda fundi landskjörstjórnar sem haldnir eru skv. 45. gr.
 
- Umboðsmenn lista og umboðsmenn stjórnmálasamtaka mega skjóta ákvörðunum landskjörstjórnar og yfirkjörstjórna sveitarfélaga til úrskurðarnefndar kosningamála innan 20 stunda frá uppkvaðningu, sbr. 2. mgr. 45. gr. og 2. mgr. 46. gr.
+ Umboðsmenn lista og umboðsmenn stjórnmálasamtaka mega skjóta ákvörðunum landskjörstjórnar og yfirkjörstjórna sveitarfélaga til úrskurðarnefndar kosningamála innan 20 stunda frá uppkvaðningu, sbr. 2. mgr. 45. gr., [2. mgr. 46. gr. og 2. mgr. 50. gr.]
+1)
+   
+1)L. 62/2023, 19. gr. 
 
 
 
 55. gr.
 Réttindi umboðsmanna við atkvæðagreiðslu á kjörfundi og utan kjörfundar.
 
- Umboðsmenn lista eiga rétt á að vera viðstaddir atkvæðagreiðslu á kjörfundi og að sitja við borð í kjörfundarstofunni og fá afhentar kosningaleiðbeiningar. Umboðsmenn lista eiga enn fremur rétt á að vera viðstaddir atkvæðagreiðslu utan kjörfundar, þó ekki ef atkvæðagreiðsla fer fram í heimahúsi. Umboðsmenn skulu hafa aðgang að kjörskrám í kjörfundarstofu og að skrám kjörstjóra sem þeir halda vegna atkvæðagreiðslu utan kjörfunda, sbr. 5. mgr. 77. gr. Umboðsmönnum er óheimilt að bera í kjörfundarstofu eða hafa á brott með sér gögn er varða kosninguna og óheimilt er að taka upp, mynda eða miðla með öðrum hætti upplýsingum um það sem fram fer í kjörfundarstofu. Sama gildir um kosningarathöfn utan kjörfundar.
+ Umboðsmenn lista eiga rétt á að vera viðstaddir atkvæðagreiðslu á kjörfundi og að sitja við borð í kjörfundarstofunni og fá afhentar kosningaleiðbeiningar. Umboðsmenn lista eiga enn fremur rétt á að vera viðstaddir atkvæðagreiðslu utan kjörfundar, þó ekki ef atkvæðagreiðsla fer fram í heimahúsi. Umboðsmenn skulu hafa aðgang að kjörskrám í kjörfundarstofu og að skrám kjörstjóra sem þeir halda vegna atkvæðagreiðslu utan kjörfunda, [sbr. 6. mgr. 77. gr.]
+1) Umboðsmönnum er óheimilt að bera í kjörfundarstofu eða hafa á brott með sér gögn er varða kosninguna og óheimilt er að taka upp, mynda eða miðla með öðrum hætti upplýsingum um það sem fram fer í kjörfundarstofu. Sama gildir um kosningarathöfn utan kjörfundar.
+   
+1)L. 62/2023, 20. gr. 
 
 
 
@@ -898,6 +986,16 @@ Staða umboðsmanna við úthlutun þingsæta og staðfestingu kosningaúrslita.
  Sérhver stjórnmálasamtök sem boðið hafa fram eiga rétt á að hafa tvo umboðsmenn viðstadda við öll störf landskjörstjórnar við úthlutun þingsæta skv. XVI. kafla.
 
  Sérhver stjórnmálasamtök sem boðið hafa fram eiga rétt á að hafa tvo umboðsmenn viðstadda við öll störf yfirkjörstjórnar sveitarfélags við staðfestingu kosningaúrslita sveitarstjórnarkosninga skv. XVII. kafla.
+
+
+
+[59. gr. a.
+Reglugerðarheimild.
+
+ Að fengnum tillögum landskjörstjórnar skal ráðherra setja reglugerð um umboðsmenn, þ.m.t. réttindi þeirra og skyldur við framlagningu framboðslista og framboða og við ákvarðanatöku um gildi framboðslista og framboða, til að innsigla atkvæðakassa, við framkvæmd atkvæðagreiðslu á kjörfundi og utan kjörfundar, við upphaf og lok kjörfundar, við talningu atkvæða, við úthlutun þingsæta og við staðfestingu kosningaúrslita, auk almennra ákvæða um eftirlitsstörf þeirra.]
+1)
+   
+1)L. 62/2023, 21. gr. 
 
 
 
@@ -995,11 +1093,15 @@ Heimild til atkvæðagreiðslu utan kjörfundar.
 68. gr.
 Upphaf og lok atkvæðagreiðslu utan kjörfundar.
 
- Kosningu utan kjörfundar skal hefja svo fljótt sem kostur er eftir að framboðslistar hafa verið auglýstir, sbr. 47. gr., þó eigi síðar en 29 dögum fyrir kjördag.
+ [Við alþingis- og sveitarstjórnarkosningar skal hefja kosningu utan kjörfundar 29 dögum fyrir kjördag og 23 dögum fyrir kjördag fari kosningar til Alþingis fram eftir tilkynningu um þingrof. Við forsetakjör skal hefja kosningu utan kjörfundar þegar landskjörstjórn hefur auglýst hverjir séu í kjöri, sbr. 50. gr. Við þjóðaratkvæðagreiðslu skal hefja kosningu utan kjörfundar svo fljótt sem kostur er eftir að kjördagur hefur verið auglýstur.]
+1)
 
- Kosning utan kjörfundar skal a.m.k. standa fram til kl. 17 á kjördag en erlendis skal þó ljúka kosningunni daginn fyrir kjördag.
+ [Sýslumaður skal tryggja að í umdæmi hans sé unnt að greiða atkvæði utan kjörfundar á a.m.k. einum kjörstað í að lágmarki fjórar klukkustundir]
+1) á kjördag en erlendis skal þó ljúka kosningunni daginn fyrir kjördag.
 
  Atkvæðið telst greitt þann dag sem fylgibréfið er dagsett.
+   
+1)L. 62/2023, 22. gr. 
 
 
 
@@ -1020,17 +1122,18 @@ Atkvæðagreiðsla utan kjörfundar hér á landi.
 
  Kjörstjóri auglýsir hvar og hvenær atkvæðagreiðsla getur farið fram og á þann hátt á hverjum stað sem venja er þar að birta opinberar auglýsingar. Skal haga framkvæmd og afgreiðslutíma þannig að kosning geti gengið sem greiðast fyrir sig. Atkvæðagreiðsla skv. 3. tölul. 2. mgr. skal fara fram sem næst kjördegi í samráði við fyrirsvarsmann viðkomandi stofnunar eða heimilis. Atkvæðagreiðsla skv. 4. tölul. 2. mgr. skal fara fram á þeim tíma sem kjörstjóri ákveður.
 
- Kjörstjóri skal sjá til þess að á kjörstað og í næsta nágrenni hans fari hvorki fram óleyfilegur kosningaáróður eða kosningaspjöll né önnur starfsemi sem truflar eða hindrar framkvæmd kosninga.
+ Kjörstjóri skal sjá til þess að á kjörstað og í næsta nágrenni hans fari hvorki fram óleyfilegur kosningaáróður eða kosningaspjöll né önnur starfsemi sem truflar eða hindrar framkvæmd kosninga. [Að fengnum tillögum landskjörstjórnar skal ráðherra setja reglugerð um óleyfilegan kosningaáróður í nágrenni kjörstaða, kosningaspjöll og aðra starfsemi sem truflar eða hindrar framkvæmd kosninga.]
+1)
 
  Þjóðskrá Íslands ber að veita kjörstjórum aðgang að upplýsingum úr skrám og kerfum stofnunarinnar án endurgjalds svo að þeir geti sinnt hlutverki sínu.
 
  Sé kjósandi haldinn alvarlegum smitsjúkdómi skal kjörstjóri skipuleggja atkvæðagreiðslu utan kjörfundar í samráði við sóttvarnayfirvöld. Synja má um atkvæðagreiðslu telji sóttvarnayfirvöld að henni verði ekki komið við án þess að tefla heilsu kjörstjóra eða almennings í hættu.
 
  Ráðherra setur, að fengnum tillögum landskjörstjórnar, reglugerð
-1) um framkvæmd atkvæðagreiðslu skv. 3. og 4. tölul. 2. mgr. [og 6. mgr.]
-2) Slík atkvæðagreiðsla má þó ekki fara fram fyrr en 21 degi fyrir kjördag. Tilkynna skal umboðsmönnum lista, sbr. 55. gr., um hvenær atkvæðagreiðsla skv. 3. tölul. 2. mgr. fer fram.
+2) um framkvæmd atkvæðagreiðslu skv. 3. og 4. tölul. 2. mgr. [og 6. mgr.]
+3) Slík atkvæðagreiðsla má þó ekki fara fram fyrr en 21 degi fyrir kjördag. Tilkynna skal umboðsmönnum lista, sbr. 55. gr., um hvenær atkvæðagreiðsla skv. 3. tölul. 2. mgr. fer fram.
    
-1)Rg. 430/2022. 2)L. 18/2022, 5. gr. 
+1)L. 62/2023, 23. gr. 2)Rg. 430/2022. 3)L. 18/2022, 5. gr. 
 
 
 
@@ -1055,15 +1158,14 @@ Kjörstjórar erlendis.
 72. gr.
 Hæfi kjörstjóra.
 
- Kjörstjóri eða aðrir sem gegna störfum hans, sbr. 1. mgr. 69. gr. og 1. mgr. 71. gr., mega ekki vera í framboði.
+ [Ef kjörstjóri er í framboði skal hann víkja sæti og annar þar til bær gegna störfum hans, og fer um málsmeðferð við skipun nýs kjörstjóra skv. 2. mgr.
 
- Kjörstjóri skal víkja sæti ef í kjöri er maki hans, fyrrverandi maki, sambúðarmaki, fyrrverandi sambúðarmaki eða einstaklingur skyldur eða mægður honum í beinan legg eða að öðrum lið til hliðar eða tengdur honum með sama hætti vegna ættleiðingar. Sama á við um einstakling sem gegnir störfum kjörstjóra í umboði hans.
+ Nú víkur kjörstjóri sæti og skipar þá ráðherra að fengnum tillögum landskjörstjórnar annan kjörstjóra. Hafi kjörstjóri starfað í umboði sýslumanns skal hann skipa annan kjörstjóra. Nú víkur kjörstjóri skv. 1. mgr. 71. gr. sæti og skipar þá ráðherra sem fer með utanríkismál annan kjörstjóra.
 
- Kjörstjóri sker úr um hæfi sitt og þeirra sem starfa í umboði hans. Ágreiningi um hæfi kjörstjóra eða annarra sem gegna störfum hans má skjóta til úrskurðarnefndar kosningamála skv. 22. gr.
-
- Nú er kjörstjóri vanhæfur skv. 1. eða 2. mgr. og skipar þá ráðherra að fengnum tillögum landskjörstjórnar annan kjörstjóra. Hafi kjörstjóri starfað í umboði sýslumanns skal hann skipa annan kjörstjóra. Nú er kjörstjóri skv. 1. mgr. 71. gr. vanhæfur og skipar þá ráðherra sem fer með utanríkismál annan kjörstjóra.
-
- Atkvæðagreiðsla utan kjörfundar má ekki fara fram á heimili frambjóðanda.
+ Ekki má atkvæðagreiðsla utan kjörfundar fara fram á heimili frambjóðanda.]
+1)
+   
+1)L. 62/2023, 24. gr. 
 
 
 
@@ -1091,7 +1193,13 @@ Kosningarathöfn utan kjörfundar.
 
  Við atkvæðagreiðslu skv. 3. mgr. eiga ákvæði 73.–77. gr. við um aðstoðarmann kjósanda.
 
- Að lokum skal kjörseðilsumslagið ásamt fylgibréfinu lagt í sendiumslagið og því lokað vandlega. Umslagið skal síðan áritað til kjörstjórnarinnar í því sveitarfélagi þar sem kjósandinn telur sig vera á kjörskrá. Aftan á sendiumslagið skal rita kennitölu kjósandans. Í stað kennitölu má setja sérstakt merki sem geymir kennitölu kjósandans. Landskjörstjórn setur nánari reglur um útlit og notkun slíks merkis.
+ Að lokum skal kjörseðilsumslagið ásamt fylgibréfinu lagt í sendiumslagið og því lokað vandlega. Umslagið skal síðan áritað til kjörstjórnarinnar í því sveitarfélagi þar sem kjósandinn telur sig vera á kjörskrá. [Aftan á sendiumslagið skal rita nafn og heimilisfang kjósandans. Auk þess er heimilt að rita númer kjörstaðar og kjördeildar aftan á sendiumslagið og/eða setja þar sérstakt merki sem getur innihaldið upplýsingar um kjörstað, kjördeild og kennitölu kjósandans.]
+1) Landskjörstjórn setur nánari reglur um útlit og notkun slíks merkis.
+
+ [Í reglugerð sem ráðherra setur að fenginni tillögu landskjörstjórnar má mæla fyrir um móttöku, skráningu og meðferð atkvæðisbréfa í vörslu kjörstjóra og kjörstjórnar sveitarfélags.]
+1)
+   
+1)L. 62/2023, 25. gr. 
 
 
 
@@ -1105,11 +1213,18 @@ Kjörseðill ónýtist.
 76. gr.
 Utankjörfundaratkvæði komið til skila.
 
- Kjósandi, sem greiðir atkvæði hjá kjörstjóra í umdæmi þar sem hann er á kjörskrá og skilur þar eftir bréf með atkvæði sínu, skal sjálfur láta bréfið í venjulegan atkvæðakassa. Atkvæðakassinn skal innsiglaður af kjörstjóra ásamt hlutaðeigandi kjörstjórn og er umboðsmönnum lista heimilt að setja á hann innsigli sín.
+ [Kjósandi, sem fram að kjördegi]
+1) greiðir atkvæði hjá kjörstjóra í umdæmi þar sem hann er á kjörskrá og skilur þar eftir bréf með atkvæði sínu, skal sjálfur láta bréfið í venjulegan atkvæðakassa. [Atkvæðakassinn skal innsiglaður af kjörstjóra og er umboðsmönnum lista í umdæmi heimilt að setja á hann innsigli sín.]
+1) [Kjörstjóri getur ákveðið að atkvæðakassa skuli samnýta fyrir tvö eða fleiri sveitarfélög innan umdæmis hans eftir því sem við á.]
+1)
 
- Aðrir kjósendur skulu sjálfir annast sendingu atkvæðisbréfs síns til þess sveitarfélags þar sem þeir eru á kjörskrá. Kjörstjóra er þó skylt, ef kjósandi óskar þess, að koma bréfinu í póst og greiða almennt póstburðargjald undir sendinguna. Kjósandi ber að öðru leyti sjálfur kostnað af sendingu atkvæðisbréfsins.
+ Aðrir kjósendur skulu sjálfir annast sendingu atkvæðisbréfs síns til þess sveitarfélags þar sem þeir eru á kjörskrá. [Fram að kjördegi er kjörstjóra]
+1) þó skylt, ef kjósandi óskar þess, að koma bréfinu í póst og greiða almennt póstburðargjald undir sendinguna. Kjósandi ber að öðru leyti sjálfur kostnað af sendingu atkvæðisbréfsins.
 
- Nægjanlegt er að koma bréfi með utankjörfundaratkvæði í einhverja kjördeild þess sveitarfélags þar sem kjósandinn er á kjörskrá.
+ [Fyrir alþingiskosningar, forsetakjör og þjóðaratkvæðagreiðslu er nægjanlegt að koma bréfi með utankjörfundaratkvæði í einhverja kjördeild þess kjördæmis þar sem kjósandinn er á kjörskrá. Við sveitarstjórnarkosningar er nægjanlegt að koma bréfi með utankjörfundaratkvæði í einhverja kjördeild þess sveitarfélags þar sem kjósandinn er á kjörskrá.]
+1)
+   
+1)L. 62/2023, 26. gr. 
 
 
 
@@ -1118,15 +1233,24 @@ Skráning utankjörfundaratkvæða.
 
  Kjörstjóri skal merkja í kjörskrá við nöfn þeirra kjósenda sem greiða atkvæði hjá honum, sbr. 1. mgr. 74. gr. Kjörstjóri sem ekki hefur aðgang að rafrænni kjörskrá skal færa á sérstaka skrá nöfn þeirra kjósenda sem greiða atkvæði hjá honum, lögheimili kjósanda og kennitölu og hvern dag kosningarathöfnin fór fram.
 
- Atkvæðisbréf, sem kjósandi skilur eftir hjá kjörstjóra, sbr. 1. mgr. 76. gr., skal kjörstjóri tölusetja og skrá í kjörskrána í áframhaldandi töluröð. Atkvæðisbréf, sem kjörstjóri veitir móttöku, skal hann skrá í kjörskrána og tölusetja með sama hætti og skal þess getið frá hvaða kjósanda það sé og hvenær og af hverjum það hafi verið afhent. Skulu bréf þessi varðveitt í atkvæðakassanum.
+ Atkvæðisbréf, sem kjósandi skilur eftir hjá kjörstjóra, sbr. 1. mgr. 76. gr., skal kjörstjóri tölusetja og skrá í kjörskrána í áframhaldandi töluröð. …
+1) [Atkvæðisbréf skal varðveitt í atkvæðakassa.]
+1)
+
+ [Atkvæðisbréf sem berst kjörstjórn sveitarfélags, sbr. 5. mgr. 74. gr., skal kjörstjórn tölusetja og skrá samkvæmt nánari fyrirmælum í reglugerð, sbr. 6. mgr. 74. gr.]
+1)
 
  Kjósandi getur jafnan krafist þess af hverjum þeim er varðveitir bréf með atkvæði hans, sé það ekki varðveitt í innsigluðum atkvæðakassa, að hann afhendi sér það, allt þar til kjörstjórn hefur tekið það til meðferðar, sbr. 1. mgr. 93. gr.
 
- Atkvæðakassa ásamt útprentun úr kjörskrá og eftir atvikum skrá skv. 2. málsl. 1. mgr. sendir kjörstjóri síðan hlutaðeigandi kjörstjórn svo tímanlega að kassinn sé kominn henni í hendur eigi síðar en kjörfundi er slitið.
+ [Atkvæðakassa ásamt viðeigandi skrá skv. 1. mgr. afhendir kjörstjóri síðan hlutaðeigandi kjörstjórn eftir nánara samkomulagi, en þó svo tímanlega að kassinn sé kominn henni í hendur eigi síðar en þegar kjörfundi er slitið. Sé um að ræða samnýttan kassa, sbr. 1. mgr. 76. gr., er kjörstjóra heimilt að rjúfa innsigli hans og afhenda atkvæðin flokkuð. Kjörstjóri skal bjóða fulltrúum viðkomandi kjörstjórna og viðkomandi umboðsmönnum að vera viðstaddir.]
+1)
 
  Umboðsmönnum lista er heimilt að kynna sér skrár og merkingar kjörstjóra í kjörskrá sem um getur í 1. og 2. mgr. hjá kjörstjóra. Óheimilt er að taka afrit og myndir og miðla upplýsingum úr skrám kjörstjóra.
 
- Í reglugerð sem ráðherra setur að fengnum tillögum landskjörstjórnar má kveða nánar á um fyrirkomulag við skráningu kjörstjóra og um miðlun hennar til kjörstjórnar skv. 4. mgr.
+ Í reglugerð sem ráðherra setur að fengnum tillögum landskjörstjórnar má kveða nánar á um fyrirkomulag við skráningu kjörstjóra og um miðlun hennar til kjörstjórnar skv. [5. mgr.]
+1)
+   
+1)L. 62/2023, 27. gr. 
 
 
 XIII. kafli.
@@ -1175,14 +1299,15 @@ Upphaf kjörfundar.
 81. gr.
 Hlutverk kjörstjórna.
 
- Kjörstjórn skal sjá til þess að á kjörstað og í næsta nágrenni hans fari hvorki fram óleyfilegur kosningaáróður eða kosningaspjöll né önnur starfsemi sem truflar eða hindrar framkvæmd kosninga.
+ Kjörstjórn skal sjá til þess að á kjörstað og í næsta nágrenni hans fari hvorki fram óleyfilegur kosningaáróður eða kosningaspjöll né önnur starfsemi sem truflar eða hindrar framkvæmd kosninga. [Að fengnum tillögum landskjörstjórnar skal ráðherra setja reglugerð um óleyfilegan kosningaáróður í nágrenni kjörstaða, kosningaspjöll og aðra starfsemi sem truflar eða hindrar framkvæmd kosninga.]
+1)
 
  Meðan á kosningarathöfninni stendur skal kjörstjórnin sitja við borð í kjörfundarstofunni. Aldrei má nema einn úr kjörstjórn ganga út í senn og felur hann öðrum úr kjörstjórninni verk sitt á meðan nema varamaður sé tiltækur.
 
  Ráðherra skal, að fenginni tillögu landskjörstjórnar, setja reglugerð
-1) um móttöku og meðferð kjörstjórna á atkvæðum greiddum utan kjörfundar, atkvæðakassa, aðföng sem eiga að vera til staðar á kjörstað og í kjörklefa, verklag kjörstjórna við afstemmingu atkvæða og önnur atriði um atkvæðagreiðslu á kjörfundi.
+2) um móttöku og meðferð kjörstjórna á atkvæðum greiddum utan kjörfundar, atkvæðakassa, aðföng sem eiga að vera til staðar á kjörstað og í kjörklefa, verklag kjörstjórna við afstemmingu atkvæða og önnur atriði um atkvæðagreiðslu á kjörfundi.
    
-1)Rg. 388/2022. Rg. 431/2022. 
+1)L. 62/2023, 28. gr. 2)Rg. 388/2022. Rg. 431/2022. 
 
 
 
@@ -1250,9 +1375,12 @@ Frágangur kjörseðils.
 88. gr.
 Truflun á notkun rafrænnar kjörskrár.
 
- Valdi bilun eða truflun því að ekki er unnt að nota rafræna kjörskrá skal kjósandi fá afhentan kjörseðil og sérstakt kjörseðilsumslag. Því næst skal hann rita atkvæði sitt aðstoðarlaust á kjörseðilinn í kjörklefa án þess að nokkur annar sjái. Kjósandi setur svo kjörseðilinn í kjörseðilsumslagið. Áritar og undirritar kjósandi síðan sérstakt ytra umslag í viðurvist kjörstjórnar sem vottar atkvæðagreiðsluna. Á ytra umslagi skal koma fram að atkvæðið hafi verið greitt án aðgangs kjörstjórnar að rafrænni kjörskrá auk tímasetningar atkvæðagreiðslu og nafns og kennitölu kjósanda. Kjörseðilsumslag skal látið í ytra umslag sem kjósandi setur síðan í atkvæðakassa.
+ Valdi bilun eða truflun því að ekki er unnt að nota rafræna kjörskrá skal kjósandi fá afhentan kjörseðil og sérstakt kjörseðilsumslag. Því næst skal hann rita atkvæði sitt aðstoðarlaust á kjörseðilinn í kjörklefa án þess að nokkur annar sjái. [Þurfi kjósandi aðstoð skv. 89. gr. skal tryggt að hann geti neytt kosningarréttar síns.]
+1) Kjósandi setur svo kjörseðilinn í kjörseðilsumslagið. Áritar og undirritar kjósandi síðan sérstakt ytra umslag í viðurvist kjörstjórnar sem vottar atkvæðagreiðsluna. Á ytra umslagi skal koma fram að atkvæðið hafi verið greitt án aðgangs kjörstjórnar að rafrænni kjörskrá auk tímasetningar atkvæðagreiðslu og nafns og kennitölu kjósanda. Kjörseðilsumslag skal látið í ytra umslag sem kjósandi setur síðan í atkvæðakassa.
 
  Landskjörstjórn skal sjá til þess að á hverjum kjörstað séu nauðsynleg kjörgögn til að unnt sé að efna til atkvæðagreiðslu samkvæmt þessu ákvæði.
+   
+1)L. 62/2023, 29. gr. 
 
 
 
@@ -1387,14 +1515,17 @@ Atkvæðatalning.
 
  Talning hefst svo fljótt sem verða má að loknum kjörfundi.
 
- Heimilt er að hefja flokkun atkvæða og undirbúa talningu þeirra áður en kjörfundi lýkur. Flokkun atkvæða og undirbúningur talningar þeirra skal fara fram fyrir luktum dyrum þar sem talið er. Skal rýmið lokað og vaktað af hálfu yfirkjörstjórnar þar til kjörfundi er lokið.
+ Heimilt er að hefja flokkun atkvæða og undirbúa talningu þeirra áður en kjörfundi lýkur. [Fari flokkun atkvæða og undirbúningur talningar þeirra fram áður en kjörfundi lýkur skal það gert fyrir luktum dyrum þar sem talið er.]
+1) Skal rýmið lokað, [innsiglað]
+1) og vaktað af hálfu yfirkjörstjórnar þar til kjörfundi er lokið.
 
  Verði ágreiningur milli yfirkjörstjórnar og einhvers umboðsmanna um það hvort kjörseðill sé gildur eða ógildur sker yfirkjörstjórn úr. Við kosningar til Alþingis skulu ágreiningsseðlar sendir landskjörstjórn sem leggur þá fyrir Alþingi sem úrskurðar um gildi þeirra, sbr. 132. gr. Við þjóðaratkvæðagreiðslu og forsetakjör skulu ágreiningsseðlar sendir landskjörstjórn sem úrskurðar um gildi þeirra, sbr. 120. gr. Ágreiningsseðlum skal haldið aðgreindum frá gildum og ógildum kjörseðlum.
 
- Ráðherra setur reglugerð,
-1) að fenginni tillögu landskjörstjórnar, m.a. um framkvæmd talningar við almennar kosningar, meðferð ágreiningsseðla, meðhöndlun kjörgagna og kjörskráa og um frágang að lokinni talningu, þ.m.t. um eyðingu kjörseðla og annarra gagna.
+ [Ráðherra setur reglugerð,
+2) að fenginni tillögu landskjörstjórnar, m.a. um viðmið um húsnæði þar sem talning fer fram, framkvæmd talningar við almennar kosningar, meðferð ágreiningsseðla, meðhöndlun kjörgagna og kjörskráa, gerð og skil talningar- og kosningaskýrslna, um geymslu og frágang kjörgagna á milli talninga og um frágang að lokinni talningu, þ.m.t. um eyðingu kjörseðla og annarra gagna.]
+1)
    
-1)Rg. 431/2022, sbr. 523/2022. 
+1)L. 62/2023, 30. gr. 2)Rg. 431/2022, sbr. 523/2022. 
 
 
 
@@ -1403,7 +1534,10 @@ Talning fyrir opnum dyrum.
 
  Talning atkvæða skal fara fram fyrir opnum dyrum svo að almenningi gefist kostur á að vera viðstaddur eftir því sem húsrúm leyfir.
 
- Umboðsmenn skv. X. kafla eiga rétt á að vera viðstaddir talningu atkvæða og fylgjast með framkvæmd hennar og uppgjöri. Nú eru umboðsmenn ekki viðstaddir talningu og skal yfirkjörstjórn þá boða fólk úr sama framboði, ef unnt er, til að gæta réttar fyrir hönd framboðsins.
+ [Yfirkjörstjórn skal boða umboðsmenn skv. X. kafla til að vera viðstaddir talningu atkvæða og fylgjast með framkvæmd hennar og uppgjöri.]
+1) Nú eru umboðsmenn ekki viðstaddir talningu og skal yfirkjörstjórn þá boða fólk úr sama framboði, ef unnt er, til að gæta réttar fyrir hönd framboðsins.
+   
+1)L. 62/2023, 31. gr. 
 
 
 
@@ -1486,23 +1620,35 @@ Gallar á atkvæði.
 
  Lista telst greitt atkvæði þó að láðst hafi að merkja við listabókstaf ef nafn eða nöfn á honum eru tölusett eða X eða hak er sett við nafn, enda séu ekki aðrir gallar á.
 
- Atkvæði greitt utan kjörfundar telst greitt lista þótt kjósandi hafi merkt við frambjóðanda sem er látinn, sbr. 43. gr.
+ [Atkvæði greitt utan kjörfundar telst greitt lista þótt kjósandi hafi ritað nafn frambjóðanda sem er látinn eða eftir atvikum strikað yfir það, sbr. 43. gr. og 2. mgr. 73. gr.]
+1)
 
  Við óbundnar kosningar til sveitarstjórnar skal ekki meta atkvæði ógilt þótt sleppt sé fornafni, eftirnafni eða heimilisfangi ef greinilegt er eftir sem áður við hvern er átt.
 
  Yfirkjörstjórn skráir í gerðabók sína fjölda atkvæðaseðla sem hún hefur úrskurðað ógilda og ástæður ógildingar.
 
  Að fengnum tillögum landskjörstjórnar setur ráðherra reglugerð
-1) um mat á gildi atkvæðaseðla.
+2) um mat á gildi atkvæðaseðla.
    
-1)Rg. 431/2022. 
+1)L. 62/2023, 32. gr. 2)Rg. 431/2022. 
 
 
 
 106. gr.
-Lok talningar við alþingiskosningar.
+[Talning við alþingiskosningar.
 
- Strax að lokinni talningu við kosningar til Alþingis senda yfirkjörstjórnir kjördæma landskjörstjórn skýrslu um niðurstöður talningarinnar. Landskjörstjórn tekur saman fjölda atkvæða sem hver framboðslisti hefur hlotið í hverju kjördæmi og reiknar atkvæðatölur lista og frambjóðenda, sbr. 112. gr.
+ Landskjörstjórn úthlutar þingsætum skv. 108.–112. gr. og útbýr kosningaskýrslu um niðurstöður kosninganna, úthlutun þingsæta við alþingiskosningarnar og yfirlit yfir þingmenn og varaþingmenn eftir kjördæmum. Landskjörstjórn skal einnig útbúa kosningaskýrslu um úrslit kosninganna í hverju kjördæmi fyrir sig þegar tekið hefur verið tillit til breytinga kjósenda á röð frambjóðenda. Skýrslurnar skulu birtar á vef landskjörstjórnar.
+
+ Þegar yfirkjörstjórn hefur lokið talningu atkvæða hvers framboðslista, fjölda greiddra atkvæða og fjölda ógildra og auðra seðla skal hún skila landskjörstjórn fyrri hluta talningarskýrslu þar sem þessar upplýsingar koma fram.
+
+ Á grundvelli talningarskýrslna skv. 2. mgr. skal landskjörstjórn reikna skiptingu kjördæmissæta og jöfnunarsæta til framboðslista skv. 109. og 110. gr.
+
+ Þegar útreikningi skv. 3. mgr. er lokið skal yfirkjörstjórn skila landskjörstjórn seinni hluta talningarskýrslu þar sem fram koma atkvæðatölur frambjóðanda í einstök sæti eftir að tekið hefur verið tillit til breytinga kjósenda á röð frambjóðenda, sbr. 112. gr.
+
+ Landskjörstjórn ákveður form talningarskýrslna og lætur yfirkjörstjórnum í té.]
+1)
+   
+1)L. 62/2023, 33. gr. 
 
 
 
@@ -1520,7 +1666,10 @@ XVI. kafli.
 108. gr.
 Úthlutunarfundur landskjörstjórnar.
 
- Þegar landskjörstjórn hafa borist allar skýrslur um kosningaúrslit eftir almennar alþingiskosningar, sbr. 106. gr., úthlutar hún þingsætum, kjördæmissætum og jöfnunarsætum. Landskjörstjórn auglýsir með hæfilegum fyrirvara hvar og hvenær fundur er haldinn í þessu skyni svo að umboðsmönnum þeirra stjórnmálasamtaka sem boðið hafa fram, sbr. 59. gr., gefist kostur á að vera þar viðstaddir.
+ [Þegar landskjörstjórn hafa borist allar talningarskýrslur eftir almennar alþingiskosningar, sbr. 106. gr., úthlutar landskjörstjórn þingsætum, kjördæmissætum og jöfnunarsætum.]
+1) Landskjörstjórn auglýsir með hæfilegum fyrirvara hvar og hvenær fundur er haldinn í þessu skyni svo að umboðsmönnum þeirra stjórnmálasamtaka sem boðið hafa fram, sbr. 59. gr., gefist kostur á að vera þar viðstaddir.
+   
+1)L. 62/2023, 34. gr. 
 
 
 
@@ -1585,9 +1734,16 @@ Atkvæðatala frambjóðenda.
 113. gr.
 Tilkynning úrslita og birting þeirra.
 
- Þegar landskjörstjórn hefur úthlutað þingsætum skv. 109.–112. gr. skal hún tafarlaust tilkynna hinum kjörnu þingmönnum og varaþingmönnum úrslitin og að þeir hafi hlotið kosningu til setu á Alþingi.
+ [Landskjörstjórn úthlutar þingsætum skv. 109.–112. gr. og útbýr kosningaskýrslu um niðurstöður kosninganna, úthlutun þingsæta við alþingiskosningarnar og yfirlit yfir þingmenn og varaþingmenn eftir kjördæmum. Landskjörstjórn skal einnig útbúa kosningaskýrslu um úrslit kosninganna í hverju kjördæmi fyrir sig þegar tekið hefur verið tillit til breytinga kjósenda á röð frambjóðenda. Skýrslurnar skulu birtar á vef landskjörstjórnar.]
+1)
 
- Jafnskjótt og tilkynning skv. 1. mgr. hefur verið send skal landskjörstjórn tilkynna ráðuneytinu um úrslit kosninganna og senda nöfn hinna kjörnu þingmanna ásamt nöfnum varaþingmanna til birtingar í Stjórnartíðindum.
+ Þegar landskjörstjórn hefur úthlutað þingsætum skv. 109.–112. gr. skal hún tafarlaust tilkynna hinum kjörnu þingmönnum og varaþingmönnum úrslitin og að þeir hafi hlotið kosningu til setu á Alþingi. [Tilkynninguna má senda í stafrænt pósthólf á vegum stjórnvalda, sbr. lög um stafrænt pósthólf í miðlægri þjónustugátt stjórnvalda.]
+1)
+
+ Jafnskjótt og tilkynning skv. [2. mgr.]
+1) hefur verið send skal landskjörstjórn tilkynna ráðuneytinu um úrslit kosninganna og senda nöfn hinna kjörnu þingmanna ásamt nöfnum varaþingmanna til birtingar í Stjórnartíðindum.
+   
+1)L. 62/2023, 35. gr. 
 
 
 
@@ -1647,7 +1803,22 @@ Atkvæðatala frambjóðenda.
 119. gr.
 Tilkynning til nýrra sveitarstjórnarfulltrúa.
 
- Yfirkjörstjórn sveitarfélags skal tilkynna hinum kjörnu aðalfulltrúum og varamönnum um úrslit kosninganna og að þeir hafi hlotið kosningu til setu í sveitarstjórn. Jafnframt skal yfirkjörstjórn senda nýkjörinni sveitarstjórn greinargerð um úrslit kosninganna.
+ Yfirkjörstjórn sveitarfélags skal tilkynna hinum kjörnu aðalfulltrúum og varamönnum um úrslit kosninganna og að þeir hafi hlotið kosningu til setu í sveitarstjórn. [Tilkynninguna má senda í stafrænt pósthólf á vegum stjórnvalda, sbr. lög um stafrænt pósthólf í miðlægri þjónustugátt stjórnvalda.]
+1) Jafnframt skal yfirkjörstjórn senda nýkjörinni sveitarstjórn greinargerð um úrslit kosninganna.
+   
+1)L. 62/2023, 36. gr. 
+
+
+
+[119. gr. a.
+Yfirlýsing um kosningaúrslit og skil á kosningaskýrslum.
+
+ Jafnskjótt og tilkynning, sbr. 119. gr., hefur verið send skal yfirkjörstjórn sveitarfélags lýsa úrslitum kosninganna með því að birta á vef sveitarfélagsins upplýsingar um úrslitin og hverjir náðu kosningu sem aðalmenn og hverjir eru varamenn.
+
+ Yfirkjörstjórn sveitarfélags skal innan þriggja daga frá því að úrslitum er lýst skila landskjörstjórn kosningaskýrslu, á eyðublaði sem landskjörstjórn lætur í té, þar sem gerð er grein fyrir úrslitum kosninganna, sbr. 116.–118. gr., heildarfjölda greiddra atkvæða og fjölda ógildra og auðra seðla. Landskjörstjórn skal birta kosningaskýrslurnar á vef sínum.]
+1)
+   
+1)L. 62/2023, 37. gr. 
 
 
 XVIII. kafli.
@@ -1662,7 +1833,10 @@ Kosningaúrslitum lýst.
 
  Þegar landskjörstjórn hefur fengið í hendur gögn yfirkjörstjórna auglýsir hún með 14 daga fyrirvara hvar og hvenær hún kemur saman til fundar til að úrskurða um gildi ágreiningsseðla og lýsa úrslitum kosningarinnar til að forsetaefnum og umboðsmönnum, eftir því sem við á, gefist færi á að vera viðstaddir.
 
- Að því loknu tilkynnir landskjörstjórn um niðurstöður forsetakjörs eða þjóðaratkvæðagreiðslu og auglýsir úrslit.
+ [Á fundi, sbr. 2. mgr., tilkynnir landskjörstjórn um niðurstöður forsetakjörs eða þjóðaratkvæðagreiðslu. Í kjölfarið auglýsir landskjörstjórn úrslitin og gefur út kosningaskýrslu um niðurstöðuna og birtir hana á vef sínum.]
+1)
+   
+1)L. 62/2023, 38. gr. 
 
 
 
@@ -1710,11 +1884,17 @@ Frestun kosninga.
 125. gr.
 Uppkosning.
 
- Nú er kosning úrskurðuð ógild, og skal þá boðað til nýrra kosninga og ákveða kjördag svo fljótt sem því verður við komið og eigi síðar en innan mánaðar.
+ [Uppkosning er endurtekning á fyrri kosningu. Nota skal sömu kjörskrá og notast var við á þeim kjördegi sem fyrri kosningin fór fram. Framboðslistar eru þeir sömu og í fyrri kosningu. Fari uppkosning fram vegna þess að kosning heils lista í kjördæmi eða sveitarfélagi hefur verið úrskurðuð ógild skal sá listi ekki vera á meðal framboðslista við uppkosninguna.]
+1)
+
+ Nú er kosning úrskurðuð ógild, og skal þá boðað til nýrra kosninga og ákveða kjördag svo fljótt sem því verður við komið og eigi síðar en innan mánaðar. [Landskjörstjórn ákveður og auglýsir kjördag í samráði við yfirkjörstjórnir.]
+1)
 
  Hafi þjóðaratkvæðagreiðsla skv. 2. mgr. 2. gr. verið ógilt skal Alþingi ákveða hvort hún verði endurtekin.
 
  Að öðru leyti fer hin nýja kosning fram samkvæmt fyrirmælum laga þessara.
+   
+1)L. 62/2023, 39. gr. 
 
 
 XX. kafli.
@@ -1886,7 +2066,13 @@ a. ef maður falsar stuðningsyfirlýsingu við framboðslista eða forsetaefni,
    
 b. ef maður beitir þvingunarráðstöfunum eða ofbeldi eða hótunum um ofbeldi til að raska kosningafrelsi manns, með því að neyða hann til að greiða atkvæði, með því að meina honum að greiða atkvæði eða neyða hann til að greiða atkvæði á annan veg en hann vill,
    
-c. ef maður vísvitandi rangfærir atkvæðagreiðslu, annaðhvort með því að glata atkvæði, breyta atkvæði, skemma eða glata atkvæðasendingu, búa til kjörseðla, er líkjast mjög þeim sem notaðir eru við kosningu, og hagnýtir þá sjálfur eða lætur þá frá sér til þess að aðrir geti hagnýtt þá, rugla úrslit talningar atkvæða eða á annan hátt.
+[c. ef maður beitir þvingunarráðstöfunum eða ofbeldi eða hótunum um ofbeldi til þess að koma í veg fyrir að maður bjóði sig fram eða til þess að neyða hann til að bjóða sig fram],
+1)
+   
+[d.]
+1) ef maður vísvitandi rangfærir atkvæðagreiðslu, annaðhvort með því að glata atkvæði, breyta atkvæði, skemma eða glata atkvæðasendingu, búa til kjörseðla, er líkjast mjög þeim sem notaðir eru við kosningu, og hagnýtir þá sjálfur eða lætur þá frá sér til þess að aðrir geti hagnýtt þá, rugla úrslit talningar atkvæða eða á annan hátt.
+   
+1)L. 62/2023, 40. gr. 
 
 
 XXV. kafli.
@@ -1908,9 +2094,14 @@ Eftirlit með framkvæmd kosninga.
 139. gr.
 Kostnaður.
 
- Kostnaður við sveitarstjórnarkosningar, þ.m.t. kostnaður við kjörgögn og áhöld er landskjörstjórn lætur í té og vegna þeirra verkefna sem Þjóðskrá Íslands fer með, greiðist af sveitarfélögum nema annað sé tekið fram í lögum þessum.
+ [Kostnaður við sveitarstjórnarkosningar greiðist af sveitarfélögum nema annað sé tekið fram í lögum þessum. Kostnaður landskjörstjórnar, svo sem vegna kjörgagna og áhalda er hún lætur kjörstjórnum í té vegna sveitarstjórnarkosninga, greiðist úr ríkissjóði.
 
- Annar kostnaður við framkvæmd laga þessara greiðist úr ríkissjóði, þ.m.t. kostnaður vegna þeirra verkefna sem Þjóðskrá Íslands fer með við kosningar.
+ Kostnaður við aðrar kosningar samkvæmt lögum þessum og annar kostnaður við framkvæmd laga þessara, svo sem kostnaður vegna úrskurðarnefndar kosningamála og landskjörstjórnar, greiðist úr ríkissjóði. Kostnaður vegna atkvæðagreiðslu utan kjörfundar skal greiddur úr ríkissjóði en fari atkvæðagreiðsla fram á grundvelli 2. tölul. 2. mgr. 69. gr. ber viðkomandi sveitarfélag kostnaðinn.
+
+ Ráðherra skal í reglugerð, að fengnum tillögum landskjörstjórnar og að höfðu samráði við Samband íslenskra sveitarfélaga, kveða á um fjárframlög ríkisins til sveitarfélaga vegna hlutverks þeirra við framkvæmd annarra kosninga en sveitarstjórnarkosninga. Jafnframt skal þar eftir samráð við Þjóðskrá Íslands og Samband íslenskra sveitarfélaga kveðið á um skiptingu kostnaðar milli ríkis og sveitarfélaga vegna þeirra verkefna sem Þjóðskrá Íslands fer með og nauðsynleg eru við framkvæmd kosninga.]
+1)
+   
+1)L. 62/2023, 41. gr. 
 
 
 
@@ -1994,7 +2185,10 @@ II.
    
 2. Hann undirritar beiðni á sérstakt eyðublað um að afsala sér kosningarrétti í þeirri kjördeild þar sem nafn hans er á kjörskrá og kjörstjórn á þeim kjörstað þar sem kjósandi óskar að neyta atkvæðisréttar staðfestir slíkt afsal með undirritun oddvita eða tveggja kjörstjórnarmanna.
 
- Kjörstjórn er óheimilt að staðfesta vottorð eða beiðni um afsal kosningarréttar nema sannað verði, með þeim hætti sem kjörstjórn metur gilt, að nafn kjósanda standi á kjörskrá í annarri kjördeild í sama kjördæmi og hann hafi ekki kosið þar. Skrá skal athugasemd á kjörskrá, þar sem nafn kjósanda er, um hvar hann neytir kosningarréttar og geta þess í gerðabók. Afsalið skal færa í gerðabók undirkjörstjórnar þar sem kjósandinn neytir kosningarréttar og vottorðið skal fylgja í frumriti til yfirkjörstjórnar með gerðabók þeirrar kjördeildar þar sem það er lagt fram og notað.
+ Kjörstjórn er óheimilt að staðfesta vottorð eða beiðni um afsal kosningarréttar nema sannað verði, með þeim hætti sem kjörstjórn metur gilt, að nafn kjósanda standi á kjörskrá í annarri kjördeild í sama kjördæmi [eða í sama sveitarfélagi]
+1) og hann hafi ekki kosið þar. Skrá skal athugasemd á kjörskrá, þar sem nafn kjósanda er, um hvar hann neytir kosningarréttar og geta þess í gerðabók. Afsalið skal færa í gerðabók undirkjörstjórnar þar sem kjósandinn neytir kosningarréttar og vottorðið skal fylgja í frumriti til yfirkjörstjórnar með gerðabók þeirrar kjördeildar þar sem það er lagt fram og notað.
+   
+1)L. 62/2023, 42. gr. 
 
 
 III.
@@ -2091,4 +2285,20 @@ lögum um kosningar til Alþingis, nr. 24/2000, eftir því sem við getur átt.
  Landskjörstjórn skal gefa út tilkynningar skv. 1. mgr. 113. gr. til þeirra varaþingmanna sem ekki fengu útgefin kjörbréf eftir alþingiskosningar 25. september 2021 og senda nöfn hinna kjörnu þingmanna ásamt nöfnum varaþingmanna til birtingar í Stjórnartíðindum skv. 2. mgr. 113. gr.]
 1)
    
-1)L. 18/2022, 9. gr.
+1)L. 18/2022, 9. gr. 
+
+
+[XII.
+
+ Þrátt fyrir ákvæði laganna um notkun rafrænnar kjörskrár skal notast við prentaða kjörskrá í kosningum sem fram fara á grundvelli laga þessara þar til landskjörstjórn í samráði við ráðuneytið og Þjóðskrá Íslands hefur tekið ákvörðun um innleiðingu hennar.]
+1)
+   
+1)L. 62/2023, 43. gr. 
+
+
+[XIII.
+
+ Ráðherra skal skipa starfshóp sem falið verður að vinna að nánari útfærslu næmisgreiningar. Í þeim starfshópi eigi sæti fulltrúar landskjörstjórnar, yfirkjörstjórna kjördæma og annarra hagaðila. Við skipun í starfshópinn skal gætt að jafnræði milli fulltrúa landsbyggðar og höfuðborgarsvæðis.]
+1)
+   
+1)L. 62/2023, 43. gr.

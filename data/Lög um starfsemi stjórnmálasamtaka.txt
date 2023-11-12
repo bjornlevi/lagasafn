@@ -7,7 +7,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2007 en ákvæði laganna um prófkjör tóku gildi 1. júní 2007. Breytt með:  L. 99/2009 (tóku gildi 8. sept. 2009). L. 119/2010 (tóku gildi 1. okt. 2010). L. 162/2010 (tóku gildi 1. jan. 2011). L. 126/2011 (tóku gildi 30. sept. 2011). L. 139/2018 (tóku gildi 1. jan. 2019; komu til framkvæmda skv. fyrirmælum í 15. gr.). L. 109/2021 (tóku gildi 15. júlí 2021 nema e–k-liður 3. gr. sem tóku gildi 1. jan. 2022). L. 117/2021 (tóku gildi 16. júlí 2021). L. 18/2022 (tóku gildi 18. mars 2022). 
+Tóku gildi 1. janúar 2007 en ákvæði laganna um prófkjör tóku gildi 1. júní 2007. Breytt með:  L. 99/2009 (tóku gildi 8. sept. 2009). L. 119/2010 (tóku gildi 1. okt. 2010). L. 162/2010 (tóku gildi 1. jan. 2011). L. 126/2011 (tóku gildi 30. sept. 2011). L. 139/2018 (tóku gildi 1. jan. 2019; komu til framkvæmda skv. fyrirmælum í 15. gr.). L. 109/2021 (tóku gildi 15. júlí 2021 nema e–k-liður 3. gr. sem tóku gildi 1. jan. 2022). L. 117/2021 (tóku gildi 16. júlí 2021). L. 18/2022 (tóku gildi 18. mars 2022). L. 62/2023 (tóku gildi 8. júlí 2023 nema III. kafli sem tók gildi 1. sept. 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 dómsmálaráðherra eða 
 dómsmálaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -158,10 +158,12 @@ Skráning stjórnmálasamtaka.
 
  Ríkisskattstjóri skráir stjórnmálasamtök samkvæmt lögum þessum og starfrækir stjórnmálasamtakaskrá í því skyni.
 
- Stjórnmálasamtakaskrá skal birt almenningi á vef Stjórnarráðs Íslands ásamt upplýsingum sem fylgja umsókn um skráningu skv. 1. mgr. 2. gr. g. Við birtingu á vef er heimilt að undanskilja birtingu kennitalna, sbr. 4. tölul. 1. mgr. 2. gr. g.]
-1)
+ Stjórnmálasamtakaskrá skal birt almenningi á vef [ríkisskattstjóra]
+1) ásamt upplýsingum sem fylgja umsókn um skráningu skv. 1. mgr. 2. gr. g. [og upplýsingum um breytingar á skráningu skv. 1. mgr. 2. gr. i].
+1) Við birtingu á vef er heimilt að undanskilja birtingu kennitalna, sbr. 4. tölul. 1. mgr. 2. gr. g.]
+2)
    
-1)L. 109/2021, 3. gr. 
+2)L. 62/2023, 44. gr. 2)L. 109/2021, 3. gr. 
 
 
 
@@ -252,11 +254,13 @@ Eftirlitsúrræði.
 
 [I. kafli D.
 Framboð stjórnmálasamtaka.]1)
+   
+1)L. 109/2021, 3. gr. 
 
 
 
 [2. gr. k.
-Listabókstafur og heiti stjórnmálasamtaka.
+[Listabókstafur og heiti stjórnmálasamtaka í kosningum til Alþingis.]1)
 
  Að afloknum kosningum til Alþingis skal ráðuneytið taka saman skrá um listabókstafi og heiti stjórnmálasamtaka sem buðu fram lista við kosningarnar. Skal skráin birt í B-deild Stjórnartíðinda eigi síðar en átta vikum eftir hverjar almennar alþingiskosningar.
 
@@ -265,9 +269,21 @@ Listabókstafur og heiti stjórnmálasamtaka.
  Yfirlýsingum kjósenda skv. 2. mgr. skal safna rafrænt eða á pappír. Ráðherra skal í reglugerð m.a. mæla fyrir um form og viðmót við söfnun yfirlýsinga, tegund rafrænnar auðkenningar meðmælenda, meðferð persónuupplýsinga og varðveislu og eyðingu upplýsinga. Þjóðskrá Íslands er heimilt að kanna hvort meðmælandi sé kosningarbær og samkeyra í því skyni meðmælendayfirlýsinguna við þjóðskrá að fullnægðum skilyrðum laga um persónuvernd og vinnslu persónuupplýsinga.
 
  Ráðuneytið staðfestir heiti nýrra stjórnmálasamtaka og ákveður bókstaf þeirra að fengnum óskum og með hliðsjón af listabókstöfum annarra stjórnmálasamtaka, sbr. skrá skv. 1. mgr. Heiti nýrra stjórnmálasamtaka skal ekki vera þannig að ætla megi að villst verði á því og heiti samtaka sem þegar eru á skrá um listabókstafi skv. 1. mgr. Telji ráðuneytið að svo sé skal það tilkynnt samtökunum og þeim gefinn hæfilegur frestur til að bæta úr. Sama á við óski samtök sem þegar eru á skrá um listabókstafi að breyta heiti sínu. Þegar ákvörðun ráðuneytisins um heiti og listabókstaf liggur fyrir skal nýi listabókstafurinn og heiti stjórnmálasamtaka fært í skrá ráðuneytisins skv. 1. mgr. og uppfærð skrá birt í B-deild Stjórnartíðinda. Tilkynna skal landskjörstjórn og yfirkjörstjórnum um skráð heiti stjórnmálasamtaka og nýja listabókstafi.]
+2)
+   
+1)L. 62/2023, 45. gr. 2)L. 109/2021, 3. gr. 
+
+
+
+[2. gr. l.
+Listabókstafur og heiti stjórnmálasamtaka í kosningum til sveitarstjórna.
+
+ Hyggist stjórnmálasamtök sem ekki hafa skráðan listabókstaf skv. 1. mgr. 2. gr. k bjóða fram lista í kosningum til sveitarstjórna skulu þau um leið og framboðslista er skilað til yfirkjörstjórnar leggja þar fram beiðni um úthlutun listabókstafs og staðfestingu á heiti framboðs.
+
+ Yfirkjörstjórn skal við ákvörðun listabókstafs hafa hliðsjón af listabókstöfum annarra stjórnmálasamtaka, sbr. skrá skv. 1. mgr. 2. gr. k. Heiti nýrra stjórnmálasamtaka skal ekki vera þannig að ætla megi að villst verði á því og heiti samtaka sem þegar eru á skrá um listabókstafi skv. 1. mgr. 2. gr. k. Telji yfirkjörstjórn að svo sé skal það tilkynnt samtökunum og þeim gefinn hæfilegur frestur til að bæta úr. Óski tvö eða fleiri framboð eftir úthlutun sama listabókstafs skal það framboð hafa forgang sem fyrr skilaði inn framboði sínu. Þeim lista sem ekki hlýtur umbeðinn listabókstaf skal þegar í stað gert kleift að óska eftir nýjum bókstaf. Komi ekki fram ný beiðni skal yfirkjörstjórn merkja þá í stafrófsröð eftir því sem þeir hafa borist henni og við á.]
 1)
    
-1)L. 109/2021, 3. gr. 
+1)L. 62/2023, 46. gr. 
 
 
 II. kafli.

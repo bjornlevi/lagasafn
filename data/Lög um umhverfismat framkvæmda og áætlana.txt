@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. september 2021; komu til framkvæmda skv. fyrirmælum í 37. gr.; EES-samningurinn: XX. viðauki tilskipun 2001/42/EB, 2011/92/ESB, 2014/52/ESB. Breytt með:  L. 67/2022 (tóku gildi 13. júlí 2022). 
+Tóku gildi 1. september 2021; komu til framkvæmda skv. fyrirmælum í 37. gr.; EES-samningurinn: XX. viðauki tilskipun 2001/42/EB, 2011/92/ESB, 2014/52/ESB. Breytt með:  L. 67/2022 (tóku gildi 13. júlí 2022). L. 28/2023 (tóku gildi 1. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 umhverfis-, orku- og loftslagsráðherra eða 
 umhverfis-, orku- og loftslagsráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -168,14 +168,20 @@ Forsamráð.
 9. gr.
 Sameining skýrslugerðar og kynningar samkvæmt skipulagslöggjöf.
 
- Þegar framkvæmd sem fellur undir málsmeðferð skv. 19. gr. eða IV. kafla kallar jafnframt á skipulagsgerð á grundvelli skipulagslaga er heimilt að sameina skýrslugerð um umhverfismat framkvæmdarinnar samkvæmt lögum þessum og skýrslugerð um umhverfismat skipulagstillögunnar samkvæmt lögum þessum og skipulagslögum. Sama gildir um kynningu fyrir almenningi og umsagnaraðilum samkvæmt lögum þessum og skipulagslöggjöfinni.
+ Þegar framkvæmd sem fellur undir málsmeðferð skv. …
+1) IV. kafla kallar jafnframt á skipulagsgerð á grundvelli skipulagslaga er heimilt að sameina skýrslugerð um umhverfismat framkvæmdarinnar samkvæmt lögum þessum og skýrslugerð um umhverfismat skipulagstillögunnar samkvæmt lögum þessum og skipulagslögum. Sama gildir um kynningu fyrir almenningi og umsagnaraðilum samkvæmt lögum þessum og skipulagslöggjöfinni.
+   
+1)L. 28/2023, 10. gr. 
 
 
 
 10. gr.
 Sameining skýrslugerðar og kynningar samkvæmt öðrum lögum.
 
- Ef skylt er að meta umhverfisáhrif samkvæmt öðrum lögum vegna leyfisveitinga til einstakra framkvæmda, sem jafnframt eru háðar umhverfismati skv. IV. kafla eða ákvörðun um matsskyldu skv. 19. gr., er heimilt að sameina það mat umhverfismati samkvæmt lögum þessum. Sama gildir um kynningu fyrir almenningi og umsagnaraðilum. Hafa skal samráð við viðkomandi leyfisveitendur um slíka ákvörðun.
+ Ef skylt er að meta umhverfisáhrif samkvæmt öðrum lögum vegna leyfisveitinga til einstakra framkvæmda, sem jafnframt [falla undir málsmeðferð skv. IV. kafla],
+1) er heimilt að sameina það mat umhverfismati samkvæmt lögum þessum. Sama gildir um kynningu fyrir almenningi og umsagnaraðilum. Hafa skal samráð við viðkomandi leyfisveitendur um slíka ákvörðun.
+   
+1)L. 28/2023, 11. gr. 
 
 
 
@@ -206,9 +212,12 @@ c. afgreiðslu áætlunarinnar að teknu tilliti til niðurstöðu umhverfismats
 13. gr.
 Ábyrgð á umhverfismati áætlunar og tímasetning.
 
- Sá sem ber ábyrgð á áætlanagerð sem fellur undir lög þessi ber ábyrgð á umhverfismati hennar og kostnaði af gerð þess. Hann skal vinna umhverfismatsskýrslu þar sem gerð er grein fyrir umhverfismati áætlunarinnar og annast kynningu og samráð í því skyni.
+ Sá sem ber ábyrgð á áætlanagerð sem fellur undir lög þessi ber ábyrgð á umhverfismati [áætlunarinnar]
+1) og kostnaði af gerð þess. Hann skal vinna umhverfismatsskýrslu þar sem gerð er grein fyrir umhverfismati áætlunarinnar og annast kynningu og samráð í því skyni.
 
  Umhverfismat áætlunarinnar skal vinna samhliða áætlanagerðinni og liggja fyrir áður en áætlunin er samþykkt af viðkomandi stjórnvaldi eða lögð fyrir Alþingi.
+   
+1)L. 28/2023, 12. gr. 
 
 
 
@@ -269,29 +278,42 @@ b. gerð umhverfismatsskýrslu framkvæmdaraðila,
    
 c. kynningu og samráði um umhverfismatsskýrslu við umsagnaraðila og almenning og eftir því sem við á yfir landamæri,
    
-d. athugun Skipulagsstofnunar á umhverfismatsskýrslu framkvæmdaraðila, eftir atvikum viðbótarupplýsingum skv. 2. mgr. 21. gr., ásamt umsögnum umsagnaraðila og almennings, og álit stofnunarinnar um umhverfismat framkvæmdarinnar,
+d. athugun Skipulagsstofnunar á umhverfismatsskýrslu framkvæmdaraðila, eftir atvikum viðbótarupplýsingum skv. 2. mgr. [23. gr.],
+1) ásamt umsögnum umsagnaraðila og almennings, og álit stofnunarinnar um umhverfismat framkvæmdarinnar,
    
 e. að álit Skipulagsstofnunar um umhverfismat framkvæmdarinnar sé lagt til grundvallar við afgreiðslu umsókna um leyfi til framkvæmda.
+   
+1)L. 28/2023, 13. gr. 
 
 
 
 18. gr.
-Ábyrgð á umhverfismati framkvæmdar.
+[Matsskyldar framkvæmdir.]1)
+
+ [Þær framkvæmdir sem tilgreindar eru í flokki A í 1. viðauka við lög þessi skulu ávallt háðar umhverfismati. Framkvæmdir sem tilgreindar eru í flokki B í 1. viðauka við lög þessi skulu háðar umhverfismati þegar þær eru taldar líklegar til að hafa í för með sér umtalsverð umhverfisáhrif vegna umfangs, eðlis eða staðsetningar skv. 2. viðauka. Sama á við um framkvæmdir sem eru að umfangi undir viðmiðunarmörkum í flokki B í 1. viðauka ef þær eru fyrirhugaðar á verndarsvæði, sbr. iii. lið 2. tölul. 2. viðauka.]
+1)
 
  Framkvæmdaraðili sem hyggst hefja framkvæmd sem er matsskyld samkvæmt lögum þessum ber ábyrgð á umhverfismati framkvæmdarinnar og kostnaði af gerð þess, þ.m.t. kostnaði af málsmeðferð Skipulagsstofnunar. Hann skal vinna matsáætlun og umhverfismatsskýrslu þar sem gerð er grein fyrir umhverfismati framkvæmdarinnar.
 
- Framkvæmdaraðili sem hyggst hefja framkvæmd sem er tilkynningarskyld samkvæmt lögum þessum ber ábyrgð á tilkynningu framkvæmdarinnar til Skipulagsstofnunar til ákvörðunar um hvort hún skuli háð umhverfismati.
+ …
+1)
+   
+1)L. 28/2023, 14. gr. 
 
 
 
 19. gr.
-Framkvæmdir sem kunna að vera háðar umhverfismati.
+[Tilkynning framkvæmda í flokki B.]1)
 
- Tilkynningarskyldar framkvæmdir sem tilgreindar eru í flokki B í 1. viðauka við lög þessi skulu háðar umhverfismati þegar þær eru taldar líklegar til að hafa í för með sér umtalsverð umhverfisáhrif vegna umfangs, eðlis eða staðsetningar skv. 2. viðauka. Sama á við um framkvæmdir sem eru að umfangi undir viðmiðunarmörkum í flokki B í 1. viðauka ef þær eru fyrirhugaðar á verndarsvæði, sbr. iii. lið 2. tölul. 2. viðauka.
+ …
+1)
 
- Framkvæmdaraðili skal tilkynna Skipulagsstofnun um fyrirhugaða framkvæmd skv. 1. mgr. Í tilkynningu skal framkvæmdaraðili leggja fram upplýsingar um framkvæmdina og líkleg umtalsverð umhverfisáhrif hennar. Hann skal, þar sem við á, taka tillit til fyrirliggjandi niðurstaðna um umhverfisáhrif framkvæmdarinnar og leggja fram, þar sem við á, upplýsingar um fyrirhugaðar mótvægisaðgerðir.
+ Framkvæmdaraðili skal tilkynna Skipulagsstofnun um fyrirhugaða framkvæmd [í flokki B í 1. viðauka við lög þessi].
+1) Í tilkynningu skal framkvæmdaraðili leggja fram upplýsingar um framkvæmdina og líkleg umtalsverð umhverfisáhrif hennar. Hann skal, þar sem við á, taka tillit til fyrirliggjandi niðurstaðna um umhverfisáhrif framkvæmdarinnar og leggja fram, þar sem við á, upplýsingar um fyrirhugaðar mótvægisaðgerðir.
 
  Telji framkvæmdaraðili með hliðsjón af viðmiðum þeim sem fram koma í 2. viðauka laga þessara að framkvæmd í flokki B í 1. viðauka skuli undirgangast umhverfismat skal hann tilkynna Skipulagsstofnun um það og rökstyðja afstöðu sína. Fer þá um málsmeðferð framkvæmdarinnar skv. 21.–24. gr.
+   
+1)L. 28/2023, 15. gr. 
 
 
 
@@ -365,16 +387,29 @@ Leyfi til framkvæmda.
 
  Óheimilt er að gefa út leyfi til framkvæmdar sem fellur undir lög þessi fyrr en álit Skipulagsstofnunar um umhverfismat framkvæmdar skv. 24. gr. liggur fyrir eða ákvörðun Skipulagsstofnunar skv. 19. gr. um að framkvæmdin skuli ekki háð umhverfismati.
 
+ [Hafi leyfi til framkvæmdar verið fellt úr gildi sökum annmarka á umhverfismati og viðkomandi sérlöggjöf heimilar af því tilefni veitingu tímabundinnar heimildar fyrir framkvæmdinni skal slík tímabundin heimild eingöngu veitt í sérstökum undantekningartilvikum og að uppfylltum eftirfarandi skilyrðum: 
+   
+a. unnið verði að því að bæta úr annmörkum á umhverfismatinu á gildistíma tímabundinnar heimildar fyrir framkvæmdinni,
+   
+b. umhverfisáhrifin verði metin frá upphafi framkvæmdar.]
+1)
+   
+1)L. 28/2023, 16. gr. 
+
 
 
 26. gr.
 Afgreiðsla leyfis til tilkynningarskyldra framkvæmda.
 
- Með umsókn um leyfi til framkvæmdar sem fellur í flokk B í 1. viðauka við lög þessi, þar sem liggur fyrir ákvörðun um að framkvæmdin skuli ekki háð umhverfismati, skal fylgja greining framkvæmdaraðila á því hvort forsendur matsskylduákvörðunar hafi breyst verulega frá því að ákvörðun um matsskyldu skv. 18. gr. var tekin, svo sem vegna breytinga á náttúrufari eða landnotkun á áhrifasvæði framkvæmdarinnar, breytinga á löggjöf um umhverfismál eða vegna tækniþróunar varðandi framkvæmdina.
+ Með umsókn um leyfi til framkvæmdar sem fellur í flokk B í 1. viðauka við lög þessi, þar sem liggur fyrir ákvörðun um að framkvæmdin skuli ekki háð umhverfismati, skal fylgja greining framkvæmdaraðila á því hvort forsendur matsskylduákvörðunar hafi breyst verulega frá því að ákvörðun um matsskyldu skv. [20. gr.]
+1) var tekin, svo sem vegna breytinga á náttúrufari eða landnotkun á áhrifasvæði framkvæmdarinnar, breytinga á löggjöf um umhverfismál eða vegna tækniþróunar varðandi framkvæmdina.
 
- Við ákvörðun um leyfi til framkvæmdar skv. 1. mgr. skal leyfisveitandi kynna sér tilkynningu framkvæmdaraðila og ákvörðun skv. 19. gr. og kanna hvort framkvæmdin sé í samræmi við tilkynnta framkvæmd.
+ Við ákvörðun um leyfi til framkvæmdar skv. 1. mgr. skal leyfisveitandi kynna sér tilkynningu framkvæmdaraðila og ákvörðun skv. [20. gr.]
+1) og kanna hvort framkvæmdin sé í samræmi við tilkynnta framkvæmd.
 
  Leyfisveitandi skal tilkynna Skipulagsstofnun um útgáfu leyfis og birta opinberlega með auglýsingu ákvörðun sína um útgáfu leyfis innan tveggja vikna frá afgreiðslu þess. Í auglýsingunni skal tilgreina um kæruheimild og kærufrest. Þá skal leyfisveitandi gera leyfið aðgengilegt almenningi á netinu.
+   
+1)L. 28/2023, 17. gr. 
 
 
 
@@ -504,7 +539,7 @@ g. leyfi til framkvæmda sem falla undir lög þessi.
 
  Ráðherra setur, að fenginni tillögu Skipulagsstofnunar, gjaldskrá vegna kostnaðar stofnunarinnar við framkvæmd laganna varðandi umhverfismat einstakra framkvæmda.
    
-1)Rg. 1381/2021. 
+1)Rg. 1381/2021, sbr. 773/2023. 
 
 
 
@@ -513,7 +548,10 @@ Undanþága frá frestum.
 
  Þrátt fyrir tímafresti sem kveðið er á um í 19.–24. gr. getur Skipulagsstofnun, í undantekningartilvikum og í samráði við framkvæmdaraðila, framlengt þá fresti sem þar er kveðið á um. Á það við í viðamiklum málum, svo sem vegna eðlis, staðsetningar eða stærðar framkvæmdar. Skal þá framkvæmdaraðila tilkynnt skriflega um ástæðu framlengingar og fyrirhugaða tímasetningu ákvörðunar.
 
- Skipulagsstofnun er heimilt, í samráði við framkvæmdaraðila, að lengja kynningartíma matsáætlunar og umhverfismatsskýrslu skv. 1. mgr. 23. gr. í viðamiklum málum.
+ Skipulagsstofnun er heimilt, í samráði við framkvæmdaraðila, að lengja kynningartíma matsáætlunar [skv. 2. mgr. 21. gr.]
+1) og umhverfismatsskýrslu skv. 1. mgr. 23. gr. í viðamiklum málum.
+   
+1)L. 28/2023, 18. gr. 
 
 
 
@@ -655,7 +693,7 @@ X
 
 
 1.09
-Þauleldi á fiski, annað en það sem tilgreint er í tölul. 1.09, þar sem hámarkslífmassi er 200 tonn eða meiri og fráveita til sjávar eða þar sem hámarkslífmassi er 20 tonn eða meiri og fráveita er í ferskvatn.
+Þauleldi á fiski, annað en það sem tilgreint er í tölul. [1.08],1) þar sem hámarkslífmassi er 200 tonn eða meiri og fráveita til sjávar eða þar sem hámarkslífmassi er 20 tonn eða meiri og fráveita er í ferskvatn.
 
 X
 
@@ -787,13 +825,13 @@ X
 
 
 3.09
-Leiðslur sem eru 10 km eða lengri og 50 cm í þvermál eða meira til flutnings á koltvísýringi (CO2) til …1) geymslu í jörðu, ásamt þrýstiaukadælu.
+Leiðslur sem eru 10 km eða lengri og 50 cm í þvermál eða meira til flutnings á koltvísýringi (CO2) til …2) geymslu í jörðu, ásamt þrýstiaukadælu.
 X
 
 
 
 3.10
-Leiðslur til flutnings á olíu og gasi og til flutnings á koltvísýringi (CO2) til …1) geymslu í jörðu utan þess sem tilgreint er í tölul. 3.08 og 3.09.
+Leiðslur til flutnings á olíu og gasi og til flutnings á koltvísýringi (CO2) til …2) geymslu í jörðu utan þess sem tilgreint er í tölul. 3.08 og 3.09.
 
 X
 
@@ -841,7 +879,7 @@ X
 
 
 3.18
-[Geymslusvæði]1) fyrir koltvísýring (CO2) í jörðu.
+[Geymslusvæði]2) fyrir koltvísýring (CO2) í jörðu.
 X
 
 
@@ -853,7 +891,7 @@ X
 
 
 3.20
-Mannvirki sem hafa þann tilgang að fanga koltvísýring (CO2) til …1) geymslu í jörðu úr andrúmslofti eða frá verksmiðjum eða iðjuverum utan þess sem fellur undir tölul. 3.19.
+Mannvirki sem hafa þann tilgang að fanga koltvísýring (CO2) til …2) geymslu í jörðu úr andrúmslofti eða frá verksmiðjum eða iðjuverum utan þess sem fellur undir tölul. 3.19.
 
 X
 
@@ -1483,7 +1521,7 @@ X
 
 
    
-1)L. 67/2022, 16. gr. 
+1)L. 28/2023, 19. gr. 2)L. 67/2022, 16. gr. 
 
 
 2. viðauki.

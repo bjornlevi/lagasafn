@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. september 2020; komu til framkvæmda skv. fyrirmælum í 102. gr. Breytt með:  L. 38/2021 (tóku gildi 21. maí 2021; EES-samningurinn: XXII. viðauki tilskipun 2014/59/ESB, IX. viðauki tilskipun 2017/2399). L. 116/2021 (tóku gildi 1. sept. 2021; um lagaskil sjá 136. gr.; EES-samningurinn: IX. viðauki tilskipun 2007/16/EB, 2009/65/EB, 2013/14/ESB, 2014/91/ESB, 2010/78/ESB). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). L. 48/2022 (tóku gildi 8. júlí 2022 nema a-liður 6. gr. sem tók gildi 1. jan. 2023; EES-samningurinn: IX. viðauki reglugerð 2015/63, 2016/1434). 
+Tóku gildi 1. september 2020; komu til framkvæmda skv. fyrirmælum í 102. gr. Breytt með:  L. 38/2021 (tóku gildi 21. maí 2021; EES-samningurinn: XXII. viðauki tilskipun 2014/59/ESB, IX. viðauki tilskipun 2017/2399). L. 116/2021 (tóku gildi 1. sept. 2021; um lagaskil sjá 136. gr.; EES-samningurinn: IX. viðauki tilskipun 2007/16/EB, 2009/65/EB, 2013/14/ESB, 2014/91/ESB, 2010/78/ESB). L. 38/2022 (tóku gildi 1. júlí 2022 nema 76. gr., a-liður 82. gr., d-liður 177. gr., d-liður 206. gr. og 65. gr. sem taka gildi skv. fyrirmælum í 215. gr. EES-samningurinn: IX. viðauki reglugerð 575/2013, 2015/62, 2016/1014, 2017/2188, 2017/2395, 2019/630, 2019/876, 2020/873). L. 48/2022 (tóku gildi 8. júlí 2022 nema a-liður 6. gr. sem tók gildi 1. jan. 2023; EES-samningurinn: IX. viðauki reglugerð 2015/63, 2016/1434). L. 63/2023 (tóku gildi 8. júlí 2023; EES-samningurinn: IX. viðauki tilskipun 2019/879). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 fjármála- og efnahagsráðherra eða 
 fjármála- og efnahagsráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -21,9 +21,12 @@ Markmið, gildissvið og skilgreiningar.
 
 
 1. gr.
-Markmið.
+[Markmið.
 
- Markmið laga þessara er að varðveita fjármálastöðugleika og lágmarka neikvæðar afleiðingar fjármálaáfalla með því að vernda tryggðar innstæður og fjárfesta, eignir viðskiptavina og nauðsynlega starfsemi fyrirtækja og lágmarka hættu á að veita þurfi fjárframlög úr ríkissjóði.
+ Markmið laga þessara er að varðveita fjármálastöðugleika, þ.m.t. að tryggja áframhald nauðsynlegrar starfsemi fyrirtækja og forðast veruleg neikvæð áhrif á fjármálakerfið. Jafnframt er það markmið laganna að lágmarka hættu á að veita þurfi sérstakan opinberan fjárstuðning til fyrirtækja, auk þess að vernda innstæðueigendur, fjárfesta og eignir viðskiptavina fyrirtækja.]
+1)
+   
+1)L. 63/2023, 1. gr. 
 
 
 
@@ -151,8 +154,9 @@ Hæf skuldbinding: Eftirgefanleg skuldbinding sem uppfyllir skilyrði 2. mgr. 17
 2)
    
 [20.]
-2)
-Kjarnastarfsemi: Sú starfsemi lánastofnunar, verðbréfafyrirtækis eða samstæðu sem stendur undir verulegum hluta rekstrartekna, hagnaðar eða vörumerkjatekna þess.
+2) [
+Kjarnastarfssvið: Sú starfsemi lánastofnunar, verðbréfafyrirtækis eða samstæðu sem stendur undir verulegum hluta rekstrartekna, hagnaðar eða virði rekstrar.]
+3)
    
 [21.]
 2) [
@@ -199,7 +203,8 @@ Móðurfélag í efsta þrepi samstæðu á Evrópska efnahagssvæðinu: Móður
    
 [28.]
 2)
-Nauðsynleg starfsemi: Starfsemi, þjónusta eða rekstur sem er svo mikilvæg fyrir raunhagkerfið eða fjármálastöðugleika að veruleg hætta yrði á röskun efnahagsstarfsemi eða stöðugleika ef henni yrði hætt vegna þess hversu umfangsmikil hún er, vegna markaðshlutdeildar hennar, tengsla við aðra starfsemi, flækjustigs eða starfsemi yfir landamæri enda sé sambærileg starfsemi, þjónusta eða rekstur ekki í boði.
+Nauðsynleg starfsemi: Starfsemi, þjónusta eða rekstur sem er svo mikilvæg fyrir raunhagkerfið eða fjármálastöðugleika að veruleg hætta yrði á röskun efnahagsstarfsemi eða stöðugleika ef henni yrði hætt vegna þess hversu umfangsmikil hún er, vegna markaðshlutdeildar hennar, [innri og ytri víxltengsla],
+3) flækjustigs eða starfsemi yfir landamæri enda sé sambærileg starfsemi, þjónusta eða rekstur ekki í boði.
    
 [29.]
 2)
@@ -213,16 +218,32 @@ Sérstakur opinber fjárstuðningur: Hvers kyns aðstoð skv. 2. kafla IV. hluta
 2)
 Skilaaðgerð: Ákvörðun um að setja fyrirtæki eða einingu í skilameðferð, beita einu eða fleiri skilaúrræðum skv. X. kafla eða skilaheimildum skv. IX., XI. eða XII. kafla.
    
-[32.]
-2)
-Skilaheimild: Sérhver heimild skv. IX., XI. eða XII. kafla.
+[32.
+Skilaaðili: Eftirtaldir aðilar teljast til skilaaðila:
+   
+a. Fyrirtæki sem skilaáætlun skv. 9. gr. hefur verið útbúin fyrir enda er það ekki hluti af samstæðu sem fellur undir samstæðueftirlit samkvæmt lögum um fjármálafyrirtæki, eða
+   
+b. lögaðili með staðfestu á Evrópska efnahagssvæðinu enda hafi hann verið tilgreindur af skilavaldinu sem skilaaðili í skilaáætlun samstæðu skv. 10. gr.]
+3)
    
 [33.]
-2)
+3)
+Skilaheimild: Sérhver heimild skv. IX., XI. eða XII. kafla.
+   
+[34.
+Skilasamstæða: Eftirfarandi aðilar teljast til skilasamstæðu:
+   
+a. Skilaaðili og dótturfélög hans enda séu þau ekki skilaaðilar sjálf, dótturfélög annarra skilaaðila og aðilar með staðfestu í ríkjum utan Evrópska efnahagssvæðisins sem eru ekki hluti af skilasamstæðu samkvæmt skilaáætlun og dótturfélög þeirra, eða
+   
+b. lánastofnanir og dótturfélög þeirra sem eru varanlega tengd miðlægri stofnun og miðlæga stofnunin sjálf og dótturfélög hennar enda telst a.m.k. ein þessara lánastofnana eða miðlæga stofnunin skilaaðili.]
+3)
+   
+[35.]
+3)
 Skilastjórnvald: Stjórnvald sem fer með undirbúning og framkvæmd skilameðferðar.
    
-[34.]
-2)
+[36.]
+3)
 Skilaúrræði: Úrræði skilavalds skv. X. kafla. Skilaúrræðin eru eftirfarandi:
    
 a. Eftirgjöf: Niðurfærsla eða umbreyting skuldbindinga fyrirtækis eða einingar í skilameðferð, sbr. E-hluta X. kafla.
@@ -233,35 +254,40 @@ c. Framsal til brúarstofnunar: Framsal eignarhluta sem útgefnir eru af fyrirt�
    
 d. Uppskipting eigna: Framsal á eignum, réttindum eða skuldbindingum fyrirtækis eða einingar í skilameðferð til eignaumsýslufélags, sbr. D-hluta X. kafla.
    
-[[35.]
-2)
-Skuldagerningar: Skuldabréf og aðrar framseljanlegar skuldir, gerningar sem stofna til skuldar eða viðurkenna skuld og gerningar sem veita rétt til að eignast skuldagerninga.]
+[[37.]
 3)
-   
-[36.]
-2)
-Tryggð innstæða: Tryggð innstæða í skilningi laga um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
-   
-[37.]
-2)
-Tryggingarhæf innstæða: Tryggingarhæf innstæða í skilningi laga um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
+Skuldagerningar: Skuldabréf og aðrar framseljanlegar skuldir, gerningar sem stofna til skuldar eða viðurkenna skuld og gerningar sem veita rétt til að eignast skuldagerninga.]
+4)
    
 [38.]
-2)
-Verðbréfafyrirtæki: Verðbréfafyrirtæki í skilningi laga um fjármálafyrirtæki með stofnframlag skv. 2. mgr. 14. gr. a sömu laga.
+3)
+Tryggð innstæða: Tryggð innstæða í skilningi laga um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
    
 [39.]
-2)
-Viðeigandi fjármagnsgerningur: Fjármagnsgerningur sem telst til viðbótar eigin fé þáttar 1 eða þáttar 2 samkvæmt lögum um fjármálafyrirtæki.
+3)
+Tryggingarhæf innstæða: Tryggingarhæf innstæða í skilningi laga um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
    
 [40.]
-2)
+3)
+Verðbréfafyrirtæki: Verðbréfafyrirtæki í skilningi laga um fjármálafyrirtæki með stofnframlag skv. 2. mgr. 14. gr. a sömu laga.
+   
+[41.]
+3)
+Viðeigandi fjármagnsgerningur: Fjármagnsgerningur sem telst til viðbótar eigin fé þáttar 1 eða þáttar 2 samkvæmt lögum um fjármálafyrirtæki.
+   
+[42.
+Víkjandi hæfur gerningur: Gerningur sem uppfyllir skilyrði 72. gr. a reglugerðar (ESB) nr. 575/2013, þó ekki skilyrði 3.–5. mgr. 72. gr. b sömu reglugerðar.]
+3)
+   
+[43.]
+3)
 Örfélög, lítil og meðalstór félög: Félög þar sem árleg velta fer ekki umfram jafnvirði 50 milljóna evra (EUR) í íslenskum krónum.
 
  Ráðherra er heimilt í reglugerð
-2) að setja nánari ákvæði um skilgreiningu hugtakanna nauðsynleg starfsemi og kjarnastarfsemi.
+5) að setja nánari ákvæði um skilgreiningu hugtakanna nauðsynleg starfsemi og [kjarnastarfssvið].
+3)
    
-1)L. 116/2021, 137. gr. 2)L. 38/2022, 183. gr. 3)L. 38/2021, 1. gr. 4)Rg. 95/2021, sbr. 867/2022. 
+1)L. 116/2021, 137. gr. 2)L. 38/2022, 183. gr. 3)L. 63/2023, 2. gr. 4)L. 38/2021, 1. gr. 5)Rg. 95/2021, sbr. 867/2022. 
 
 
 II. kafli.
@@ -360,14 +386,18 @@ Skilaáætlun lánastofnunar og verðbréfafyrirtækis.
    
 4. Mismunandi leiðir við beitingu á skilaúrræðum og skilaheimildum gagnvart fyrirtæki.
 
+ [Í skilaáætlun skal tilgreina þá lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar sem gerð er til fyrirtækis skv. IV. kafla og þann lokafrest sem veittur er til að uppfylla kröfuna. Inntak skilaáætlunar ræðst að öðru leyti af stjórnvaldsfyrirmælum settum á grundvelli lokamálsgreinar 10. gr.]
+2)
+
  Við gerð skilaáætlunar skal skilavaldið, ef við á, hafa samráð við skilastjórnvöld í aðildarríkjum þar sem viðkomandi fyrirtæki er með mikilvæg útibú. Fjármálaeftirlitið skal hafa aðgang að samþykktum skilaáætlunum fyrirtækja.
 
- Skilaáætlun skal yfirfarin að lágmarki árlega og uppfærð ef tilefni er til, þ.m.t. ef breytingar verða á rekstri fyrirtækjanna eða ef annað í starfsemi þeirra veldur verulegum breytingum á áætluninni. Fyrirtæki skulu tilkynna skilavaldinu tímanlega um allar breytingar sem gefa tilefni til uppfærslu.
+ Skilaáætlun skal yfirfarin að lágmarki árlega og uppfærð ef tilefni er til, þ.m.t. ef breytingar verða á rekstri fyrirtækjanna eða ef annað í starfsemi þeirra veldur verulegum breytingum á áætluninni. [Skilaáætlun skal þó uppfærð þegar í stað ef skilaaðgerðum eða niðurfærslu og umbreytingu fjármagnsgerninga skv. VI. kafla hefur verið beitt.]
+2) Fyrirtæki skulu tilkynna skilavaldinu tímanlega um allar breytingar sem gefa tilefni til uppfærslu.
 
  Seðlabanki Íslands skal setja reglur
-2) sem kveða nánar á um efni skilaáætlana skv. 1. mgr.
+3) sem kveða nánar á um efni skilaáætlana skv. 1. mgr.
    
-1)L. 48/2022, 3. gr. 2)
+1)L. 48/2022, 3. gr. 2)L. 63/2023, 3. gr. 3)
 Rgl. 666/2021. 
 
 
@@ -375,11 +405,14 @@ Rgl. 666/2021.
 10. gr.
 Skilaáætlun samstæðu.
 
- Ef skilavaldið fer með samstæðuskilavald skal það útbúa og uppfæra skilaáætlun fyrir samstæðu á grundvelli upplýsinga skv. 12. gr. Samþykkt skilaáætlunar samstæðu skal eiga sér stað að undangengnu samstarfi við skilastjórnvöld dótturfélaga og ef við á í samráði við skilastjórnvöld þar sem mikilvæg útibú eru með starfsemi. Skilaáætlun samstæðu, þ.m.t. allar breytingar sem verða á áætluninni, skal senda til viðeigandi eftirlitsstjórnvalda.
+ Ef skilavaldið fer með samstæðuskilavald skal það útbúa og uppfæra skilaáætlun fyrir samstæðu á grundvelli upplýsinga skv. 12. gr. [Skilaáætlunin skal tilgreina skilaaðila og, ef við á, skilasamstæður innan sérhverrar samstæðu.]
+1) Samþykkt skilaáætlunar samstæðu skal eiga sér stað að undangengnu samstarfi við skilastjórnvöld dótturfélaga og ef við á í samráði við skilastjórnvöld þar sem mikilvæg útibú eru með starfsemi. Skilaáætlun samstæðu, þ.m.t. allar breytingar sem verða á áætluninni, skal senda til viðeigandi eftirlitsstjórnvalda.
 
- Þegar skilavaldið fer ekki með samstæðuskilavald skv. 1. mgr. getur það þó ákveðið að gera sjálfstæða skilaáætlun skv. 9. gr. fyrir dótturfélög sem eru lánastofnanir eða verðbréfafyrirtæki. Um málsmeðferð vegna skilaáætlunar dótturfélags fer skv. 6. og 7. mgr.
+ Þegar skilavaldið fer ekki með samstæðuskilavald skv. 1. mgr. getur það þó ákveðið að gera sjálfstæða skilaáætlun skv. 9. gr. fyrir dótturfélög sem eru lánastofnanir eða verðbréfafyrirtæki. [Skilavaldið getur tilgreint skilaaðila og útbúið og uppfært skilaáætlun fyrir skilasamstæðu sem samsett er af aðilum innan lögsögu þess.]
+1) Um málsmeðferð vegna skilaáætlunar dótturfélags fer skv. 6. og 7. mgr.
 
- Í skilaáætlun samstæðu skulu koma fram aðgerðir vegna skilameðferðar samstæðu í heild sem og aðgerðir sem taka til einstakra fyrirtækja eða eininga innan samstæðu og skilameðferðar þeirra. Skilaáætlun samstæðu skal taka mið af þeim efnisatriðum sem fram koma í 9. gr., þ.m.t. uppfærslu skilaáætlunar.
+ [Í skilaáætlun samstæðu skal tilgreina þær skilaaðgerðir sem ætlunin er að grípa til gagnvart skilaaðilum og þau áhrif sem aðgerðirnar geta haft á aðrar einingar innan samstæðu, móðurfélag og dótturfélög.]
+1) Skilaáætlun samstæðu skal taka mið af þeim efnisatriðum sem fram koma í 9. gr., þ.m.t. uppfærslu skilaáætlunar.
 
  Skilaáætlun samstæðu skal, eftir því sem við á, tilgreina aðgerðir fyrir alla eftirfarandi aðila: 
    
@@ -406,9 +439,9 @@ Skilaáætlun samstæðu.
  Fresta skal ákvörðun skv. 6. mgr. hafi eitthvert þeirra lögbæru stjórnvalda skv. 2.–5. tölul. 5. mgr. vísað ákvörðun bankans til Evrópsku bankaeftirlitsstofnunarinnar eða Eftirlitsstofnunar EFTA í samræmi við lög um evrópskt eftirlitskerfi á fjármálamarkaði, fyrir lok tímafrests skv. 6. mgr., og skal skilavaldið í þeim tilvikum bíða ákvörðunar sem Eftirlitsstofnun EFTA kann að taka. Ákvörðun skal vera í samræmi við niðurstöðu Eftirlitsstofnunar EFTA.
 
  Seðlabanki Íslands skal setja reglur
-1) sem kveða nánar á um efni skilaáætlunar samstæðu skv. 3. mgr.
+2) sem kveða nánar á um efni skilaáætlunar samstæðu skv. 3. mgr.
    
-1)
+1)L. 63/2023, 4. gr. 2)
 Rgl. 666/2021. 
 
 
@@ -416,14 +449,15 @@ Rgl. 666/2021.
 11. gr.
 Einföld skilaáætlun.
 
- Skilavaldið ákveður hvort gera skuli einfalda skilaáætlun fyrir fyrirtæki eða samstæðu. Skilyrði fyrir einfaldri skilaáætlun eru að rekstrarerfiðleikar fyrirtækis eða samstæðu og eftir atvikum slitameðferð hafi ekki í för með sér verulega neikvæð áhrif á fjármálakerfið, önnur fyrirtæki, miðlun fjármagns í fjármálakerfinu eða hagkerfið.
+ Skilavaldið ákveður hvort gera skuli einfalda skilaáætlun fyrir fyrirtæki eða samstæðu. Skilyrði fyrir einfaldri skilaáætlun eru að rekstrarerfiðleikar fyrirtækis eða samstæðu og eftir atvikum slitameðferð hafi ekki í för með sér verulega neikvæð áhrif á fjármálakerfið, önnur fyrirtæki, [aðstæður til fjármögnunar]
+1) eða hagkerfið.
 
  Heimilt er að falla frá ákvörðun um einfalda skilaáætlun skv. 1. mgr. hvenær sem er.
 
  Seðlabanki Íslands skal setja reglur
-1) um viðmið vegna ákvarðana um einfaldar skilaáætlanir skv. 1. mgr.
+2) um viðmið vegna ákvarðana um einfaldar skilaáætlanir skv. 1. mgr.
    
-1)
+1)L. 63/2023, 5. gr. 2)
 Rgl. 666/2021. 
 
 
@@ -463,27 +497,30 @@ Rgl. 666/2021. 2)Rg. 780/2021.
 14. gr.
 Mat á skilabærni samstæðu.
 
- Ef skilavaldið fer með samstæðuskilavald skal það leggja mat á skilabærni samstæðu. Mat á skilabærni skal fara fram samhliða gerð skilaáætlunar samstæðu skv. 10. gr. og taka mið af þeim efnisatriðum sem fram koma í 13. gr.
+ Ef skilavaldið fer með samstæðuskilavald skal það leggja mat á skilabærni samstæðu. [Mat á skilabærni skal fara fram samhliða gerð skilaáætlunar samstæðu skv. 10. gr. Matið skal byggjast á því hvort raunhæft og hagkvæmt sé að taka einstaka aðila innan samstæðu til slitameðferðar eða leysa samstæðuna upp í heild með skilaaðgerðum gagnvart einstökum skilaaðilum innan samstæðunnar. Að öðru leyti tekur mat á skilabærni mið af þeim efnisatriðum sem fram koma í 13. gr.]
+1)
 
  Mat á skilabærni samstæðu skal framkvæmt í samstarfi við skilastjórnvöld dótturfélaga og að höfðu samráði við eftirlitsstjórnvöld dótturfélaga og skilastjórnvöld þar sem mikilvæg útibú eru með starfsemi. Fjalla skal um mat á skilabærni samstæðu innan skilaráðs skv. 89. gr.
 
  Seðlabanki Íslands skal setja reglur
-1) um viðfangsefni og viðmið við mat á skilabærni samstæðu skv. 1. mgr.
+2) um viðfangsefni og viðmið við mat á skilabærni samstæðu skv. 1. mgr.
 
- Ráðherra skal setja
-2) reglugerð um viðfangsefni við mat á skilabærni samstæðu skv. 1. mgr.
+ Ráðherra skal setja reglugerð
+3) um viðfangsefni við mat á skilabærni samstæðu skv. 1. mgr.
    
-1)
-Rgl. 666/2021. 2)Rg. 780/2021. 
+1)L. 63/2023, 6. gr. 2)
+Rgl. 666/2021. 3)Rg. 780/2021. 
 
 
 
 15. gr.
 Annmarkar á skilabærni.
 
- Komi í ljós verulegir annmarkar á skilabærni fyrirtækis við mat skv. 13. gr. skal tilkynna það skriflega til fyrirtækisins og skilastjórnvalda þar sem mikilvæg útibú eru með starfsemi. Tilkynning skv. 1. málsl. skal fresta gerð skilaáætlunar uns skilavaldið samþykkir aðgerðir sem ætlað er að ráða bót á þeim annmörkum sem um ræðir.
+ Komi í ljós verulegir annmarkar á skilabærni fyrirtækis við mat skv. [13. og 14. gr.]
+1) skal tilkynna það skriflega til fyrirtækisins og skilastjórnvalda þar sem mikilvæg útibú eru með starfsemi. Tilkynning skv. 1. málsl. skal fresta gerð skilaáætlunar uns skilavaldið samþykkir aðgerðir sem ætlað er að ráða bót á þeim annmörkum sem um ræðir.
 
- Fyrirtæki skal innan fjögurra mánaða frá móttöku tilkynningar skv. 1. mgr. senda skilavaldinu tillögur um aðgerðir til að ráða bót á þeim annmörkum sem taldir eru vera fyrir hendi. Skilavaldið leggur mat á aðgerðir fyrirtækisins og hvort úrbætur séu mögulegar.
+ Fyrirtæki skal innan fjögurra mánaða frá móttöku tilkynningar skv. 1. mgr. senda skilavaldinu tillögur um aðgerðir til að ráða bót á þeim annmörkum sem taldir eru vera fyrir hendi. [Ef annmarkar á skilabærni varða það að skilaaðili uppfyllir ekki samanlagða kröfu um eiginfjárauka auk lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar skal skilaaðili innan tveggja vikna frá móttöku tilkynningar skv. 1. mgr. leggja til við skilavaldið mögulegar aðgerðir og tímafrest til að uppfylla kröfurnar.]
+1) Skilavaldið leggur mat á aðgerðir fyrirtækisins og hvort úrbætur séu mögulegar.
 
  Teljist aðgerðir fyrirtækisins ekki nægjanlegar til þess að ráða bót á annmörkum á skilabærni skal þess krafist með skriflegri tilkynningu að gripið verði til einhverra eftirfarandi aðgerða: 
    
@@ -505,15 +542,24 @@ Annmarkar á skilabærni.
    
 9. Að fyrirtækið eða móðurfélag þess stofni eignarhaldsfélag á fjármálasviði annaðhvort hér á landi eða í öðru aðildarríki.
    
-10. Að fyrirtækið eða eining gefi út hæfar skuldbindingar til þess að mæta lágmarkskröfum um eigið fé og hæfar skuldbindingar skv. IV. kafla.
+10. Að fyrirtækið eða eining gefi út hæfar skuldbindingar til þess að mæta lágmarkskröfum [um eiginfjárgrunn]
+1) og hæfar skuldbindingar skv. IV. kafla.
    
-11. Að fyrirtækið eða eining grípi til annarra aðgerða til þess að mæta lágmarkskröfum um eigið fé og hæfar skuldbindingar skv. IV. kafla, svo sem endursemji um skilmála hæfra skuldbindinga, viðbótar eigið fé þáttar 1 eða þáttar 2 sem það hefur gefið út, til þess að ákvörðun um niðurfærslu eða umbreytingu slíkra skuldbindinga eða fjármagnsgerninga nái fram að ganga.
+11. Að fyrirtækið eða eining grípi til annarra aðgerða til þess að mæta lágmarkskröfum [um eiginfjárgrunn]
+1) og hæfar skuldbindingar skv. IV. kafla, svo sem endursemji um skilmála hæfra skuldbindinga, viðbótar eigið fé þáttar 1 eða þáttar 2 sem það hefur gefið út, til þess að ákvörðun um niðurfærslu eða umbreytingu slíkra skuldbindinga eða fjármagnsgerninga nái fram að ganga.
    
-12. Að blandað eignarhaldsfélag, sé það móðurfélag fyrirtækisins, stofni aðskilið eignarhaldsfélag á fjármálasviði sem taki við stjórn fyrirtækisins til að auðvelda skilameðferð og koma í veg fyrir að skilaaðgerðir hafi neikvæð áhrif á ófjárhagslegan hluta samstæðu.
+12. Að blandað eignarhaldsfélag, sé það móðurfélag fyrirtækisins, stofni aðskilið eignarhaldsfélag á fjármálasviði sem taki við stjórn fyrirtækisins til að auðvelda skilameðferð og koma í veg fyrir að skilaaðgerðir hafi neikvæð áhrif á [þann hluta samstæðu sem ekki tengist fjármálaþjónustu].
+1)
+   
+[13. Að fyrirtækið eða eining leggi fram áætlun um hvernig það hyggst uppfylla aftur samanlagða kröfu um eiginfjárauka auk lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar.]
+1)
 
- Fyrirtæki skal innan mánaðar frá móttöku tilkynningar skv. 3. mgr. senda skilavaldinu áætlun um hvernig það hyggst framfylgja þeim aðgerðum sem það krefst.
+ Fyrirtæki skal innan mánaðar frá móttöku tilkynningar skv. 3. mgr. senda skilavaldinu áætlun um hvernig það hyggst framfylgja þeim aðgerðum sem [skilavaldið]
+1) krefst.
 
  Ákvæði þessarar greinar gilda einnig við mat á skilabærni samstæðu skv. 14. gr. og, ef við á, fer um málsmeðferð skv. 16. gr.
+   
+1)L. 63/2023, 7. gr. 
 
 
 
@@ -530,7 +576,8 @@ Málsmeðferð vegna annmarka á skilabærni samstæðu.
 
  Í skýrslu skv. 1. mgr. skal eftirfarandi koma fram: 
    
-1. Greining á þeim verulegu annmörkum sem koma í veg fyrir skilvirkni skilaúrræða og skilaheimilda.
+1. Greining á þeim verulegu annmörkum sem koma í veg fyrir skilvirkni skilaúrræða og skilaheimilda [hjá samstæðu í heild og, ef við á, skilasamstæðum innan sérhverrar samstæðu].
+1)
    
 2. Umfjöllun og mat á áhrifum annmarkanna á viðskiptaáætlun viðkomandi fyrirtækis eða einingar.
    
@@ -538,13 +585,24 @@ Málsmeðferð vegna annmarka á skilabærni samstæðu.
 
  Móðurfélag í efsta þrepi samstæðu á Evrópska efnahagssvæðinu skal innan fjögurra mánaða frá móttöku skýrslu skv. 1. mgr. gera athugasemdir og koma með tillögur um aðrar aðgerðir til að ráða bót á þeim annmörkum sem koma fram í skýrslunni. Skilavaldið tilkynnir athugasemdir og tillögur móðurfélagsins til Evrópsku bankaeftirlitsstofnunarinnar og skilastjórnvalda skv. 2. og 3. tölul. 1. mgr.
 
- Skilavaldið skal innan fjögurra mánaða frá tilkynningu skv. 2. málsl. 3. mgr. leitast við að taka sameiginlega ákvörðun með skilastjórnvöldum skv. 2. og 3. tölul. 1. mgr. um aðgerðir á grundvelli 3. mgr. og 3. mgr. 15. gr. til að ráða bót á annmörkum á skilabærni samstæðu. Ef engar athugasemdir eða tillögur berast frá móðurfélagi í efsta þrepi samstæðu skv. 1. málsl. 3. mgr. skal skilavaldið leitast við að taka sameiginlega ákvörðun með skilastjórnvöldum skv. 2. og 3. tölul. 1. mgr. innan fjögurra mánaða frá því að frestur til athugasemda skv. 1. málsl. 3. mgr. er liðinn.
+ [Ef annmarkar á skilabærni samstæðu varða samanlagða kröfu um eiginfjárauka auk lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar, sbr. 2. málsl. 2. mgr. 15. gr., skal skilavaldið, að undangengnu samráði við skilastjórnvöld skilaaðila og dótturfélaga, tilkynna móðurfélagi í efsta þrepi samstæðu um mat sitt á annmörkunum. Ef annmarkar í skýrslu skv. 1. mgr. eru vegna sama efnisatriðis skal móðurfélagið, innan tveggja vikna frá móttöku tilkynningar skv. 1. málsl., koma með tillögur um tímasettar aðgerðir til að uppfylla kröfurnar skv. 2. málsl. 2. mgr. 15. gr.]
+1)
 
- Ef sameiginleg ákvörðun liggur ekki fyrir innan tímamarka skv. 4. mgr. skal skilavaldið taka sjálfstæða ákvörðun um aðgerðir skv. 3. mgr. 15. gr. og tilkynna ákvörðunina til móðurfélags og skilastjórnvalda skv. 2. og 3. tölul. 1. mgr. Ákvörðunin skal rökstudd og skal tekið tillit til mats skilastjórnvalda að því marki sem unnt er. Ákvörðuninni skal frestað hafi skilastjórnvald skv. 2. eða 3. tölul. 1. mgr. vísað málinu til Eftirlitsstofnunar EFTA eða Evrópsku bankaeftirlitsstofnunarinnar í samræmi við lög um evrópskt eftirlitskerfi á fjármálamarkaði fyrir lok tímafrests skv. 4. mgr. og skal skilavaldið bíða ákvörðunar sem Eftirlitsstofnun EFTA kann að taka. Ákvörðun skilavaldsins skal vera í samræmi við niðurstöðu Eftirlitsstofnunar EFTA.
+ Skilavaldið skal innan fjögurra mánaða frá tilkynningu skv. 2. málsl. 3. mgr. leitast við að taka sameiginlega ákvörðun með skilastjórnvöldum skv. 2. og 3. tölul. 1. mgr. um aðgerðir á grundvelli 3. mgr. og 3. mgr. 15. gr. til að ráða bót á annmörkum á skilabærni samstæðu. Ef engar athugasemdir eða tillögur berast frá móðurfélagi í efsta þrepi samstæðu skv. 1. málsl. 3. mgr. skal skilavaldið leitast við að taka sameiginlega ákvörðun með skilastjórnvöldum skv. 2. og 3. tölul. 1. mgr. innan [eins mánaðar]
+1) frá því að frestur til athugasemda skv. 1. málsl. 3. mgr. er liðinn. [Ef annmarkar varða efnisatriði skv. 2. málsl. 2. mgr. 15. gr. skal sameiginleg ákvörðun tekin innan tveggja vikna frá móttöku skilavaldsins á tillögum móðurfélagsins um aðgerðir skv. 2. málsl. 4. mgr.]
+1)
 
- Ef skilavaldið fer ekki með samstæðuskilavald getur það, þrátt fyrir 5. mgr., krafist þess að dótturfélag grípi til aðgerða skv. 2. og 3. mgr. 15. gr.
+ Ef sameiginleg ákvörðun liggur ekki fyrir innan [viðeigandi tímamarka skv. 5. mgr.]
+1) skal skilavaldið taka sjálfstæða ákvörðun um aðgerðir skv. 3. mgr. 15. gr. og tilkynna ákvörðunina til móðurfélags og skilastjórnvalda skv. 2. og 3. tölul. 1. mgr. Ákvörðunin skal rökstudd og skal tekið tillit til mats skilastjórnvalda að því marki sem unnt er. Ákvörðuninni skal frestað hafi skilastjórnvald skv. 2. eða 3. tölul. 1. mgr. vísað málinu til Eftirlitsstofnunar EFTA eða Evrópsku bankaeftirlitsstofnunarinnar í samræmi við lög um evrópskt eftirlitskerfi á fjármálamarkaði fyrir lok [viðeigandi tímafrests skv. 5. mgr.]
+1) og skal skilavaldið bíða ákvörðunar sem Eftirlitsstofnun EFTA kann að taka. Ákvörðun skilavaldsins skal vera í samræmi við niðurstöðu Eftirlitsstofnunar EFTA.
 
- Móðurfélag skal innan mánaðar frá móttöku ákvörðunar skv. 4. eða 5. mgr. senda skilavaldinu áætlun um hvernig það hyggst framfylgja þeim aðgerðum sem það krefst.
+ Ef skilavaldið fer ekki með samstæðuskilavald getur það, þrátt fyrir [6. mgr.],
+1) krafist þess að dótturfélag grípi til aðgerða skv. 2. og 3. mgr. 15. gr.
+
+ Móðurfélag skal innan mánaðar frá móttöku ákvörðunar skv. [5. eða 6. mgr.]
+1) senda skilavaldinu áætlun um hvernig það hyggst framfylgja þeim aðgerðum sem það krefst.
+   
+1)L. 63/2023, 8. gr. 
 
 
 IV. kafli.
@@ -555,7 +613,8 @@ Lágmarkskrafa um eiginfjárgrunn og hæfar skuldbindingar.
 17. gr.
 Lágmarkskrafa um eiginfjárgrunn og hæfar skuldbindingar.
 
- Fyrirtæki skulu ávallt uppfylla lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar. Lágmarkskröfuna skal reikna sem fjárhæð eiginfjárgrunns og hæfra skuldbindinga í hlutfalli af samtölu heildarskuldbindinga og eiginfjárgrunns fyrirtækis. Skuldbindingar vegna afleiðusamninga skulu teljast með heildarskuldbindingum að því gefnu að tekið sé fullt tillit til greiðslujöfnunarréttar mótaðila.
+ Fyrirtæki skulu ávallt uppfylla lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar. Lágmarkskröfuna skal reikna sem fjárhæð eiginfjárgrunns og hæfra skuldbindinga í hlutfalli af [áhættugrunni og heildarmælistærð áhættuskuldbindinga].
+1) Skuldbindingar vegna afleiðusamninga skulu teljast með heildarskuldbindingum að því gefnu að tekið sé fullt tillit til greiðslujöfnunarréttar mótaðila.
 
  [Skuldbindingar skulu teljast til fjárhæðar lágmarkskröfu eiginfjárgrunns og hæfra skuldbindinga ef þær uppfylla öll skilyrði í eftirfarandi greinum reglugerðar (ESB) nr. 
 575/2013: 
@@ -565,7 +624,7 @@ Lágmarkskrafa um eiginfjárgrunn og hæfar skuldbindingar.
 2. 72. gr. b, að undanskildum d-lið 2. mgr.
    
 3. 72. gr. c.]
-1)
+2)
 
  Skilavaldið ákveður lágmarkskröfu skv. 1. mgr. og skal ákvörðunin að lágmarki grundvallast á eftirfarandi atriðum: 
    
@@ -578,19 +637,19 @@ Lágmarkskrafa um eiginfjárgrunn og hæfar skuldbindingar.
 4. Stærð, viðskiptalíkani, fjármögnunarlíkani og áhættusniði fyrirtækisins.
    
 5. …
-1)
+2)
    
 6. Áhrifum ógjaldfærs fyrirtækis á fjármálastöðugleika, þ.m.t. vegna innbyrðis tengsla þess við aðrar lánastofnanir eða verðbréfafyrirtæki eða aðra hluta fjármálakerfisins.
 
+ [Skilavaldið ákveður þann hluta af lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar sem er undirskipaður skuldbindingum sem óheimilt er að beita eftirgjöf gagnvart skv. 56. gr. Skilavaldið skal jafnframt ákveða að hve miklu leyti undirskipuðum hluta af lágmarkskröfunni skal mæta með víkjandi hæfum gerningum.]
+1)
+
  Þrátt fyrir 1. mgr. skal undanskilja lánastofnanir sem eingöngu veita lán með veði í fasteign og fjármögnuð eru með útgáfu sértryggðra skuldabréfa frá lágmarkskröfu skv. 1. mgr., enda fari slík fyrirtæki í slitameðferð eða skilaúrræðum skv. B-, C- eða D-hluta X. kafla verði beitt.
 
- Þegar löggjöf ríkis utan Evrópska efnahagssvæðisins gildir um skuldbindingu getur skilavaldið krafið fyrirtæki um að sýna fram á að ákvörðun þess um niðurfærslu eða umbreytingu á slíkri skuldbindingu geti náð fram að ganga samkvæmt löggjöf hlutaðeigandi ríkis. Í slíkum tilfellum skal tekið tillit til samningsskilmála skuldbindingarinnar, alþjóðlegra samninga um viðurkenningu á skilameðferð og annarra atriða sem máli skipta. Telji skilavaldið að ákvörðun um niðurfærslu eða umbreytingu skuldbindingar í ríki utan Evrópska efnahagssvæðisins nái ekki fram að ganga samkvæmt löggjöf hlutaðeigandi ríkis skal skuldbindingin undanskilin við útreikning á lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar.
-
- Seðlabanki Íslands skal setja reglur
-2) um aðferðafræði og viðmið vegna ákvörðunar um lágmarkskröfu eiginfjárgrunns og hæfra skuldbindinga skv. 3. mgr.
+ …
+1)
    
-1)L. 38/2022, 184. gr. 2)
-Rgl. 666/2021. 
+1)L. 63/2023, 9. gr. 2)L. 38/2022, 184. gr. 
 
 
 
@@ -651,10 +710,22 @@ Undanþágur á einingargrunni vegna samstæðu.
 
 
 
-21. gr. …
+21. gr.
+[Takmarkanir á úthlutun.
+
+ Fyrirtæki eða eining skv. b–d-lið 1. mgr. 2. gr. sem uppfyllir samanlagða kröfu um eiginfjárauka samkvæmt lögum um fjármálafyrirtæki en ekki samanlagða kröfu um eiginfjárauka til viðbótar við lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar skv. 17. gr. skal tilkynna það til skilavaldsins án tafar. Fyrirtæki eða einingu er óheimilt, áður en hámarksúthlutunarfjárhæð hefur verið reiknuð út, að grípa til eftirfarandi ráðstafana: 
+   
+1. Framkvæma úthlutun skv. 1. mgr. 
+86. gr. m laga um fjármálafyrirtæki, nr. 161/2002.
+   
+2. Stofna til skuldbindingar um að greiða kaupauka eða greiða kaupauka ef stofnað var til skuldbindingar til greiðslu á þeim tíma þegar fyrirtækið eða einingin uppfyllti ekki samanlagða kröfu um eiginfjárauka.
+   
+3. Greiða af gerningi sem telst til viðbótar eigin fjár þáttar 1.
+
+ Fyrirtæki eða eining sem uppfyllir ekki samanlagða kröfu um eiginfjárauka samkvæmt lögum um fjármálafyrirtæki auk lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar skv. 17. gr. er óheimilt að grípa til ráðstöfunar skv. 1–3. tölul. 1. mgr. ef slík ráðstöfun nemur fjárhæð umfram hámarksúthlutunarfjárhæð.]
 1)
    
-1)L. 38/2022, 185. gr. 
+1)L. 63/2023, 10. gr. 
 
 
 
@@ -662,15 +733,36 @@ Undanþágur á einingargrunni vegna samstæðu.
 Eftirlit skilavalds.
 
  Skilavaldið skal krefjast þess og sannreyna að fyrirtæki og einingar skv. b–d-lið 1. mgr. 2. gr. uppfylli skyldur skv. 17., 18. [og 20. gr.]
-1) Ákvarðanir skilavaldsins skulu teknar samhliða þróun og viðhaldi skilaáætlana.
+1) Ákvarðanir skilavaldsins skulu teknar samhliða þróun og viðhaldi skilaáætlana. [Fyrirtæki og einingar skulu afhenda skilavaldinu nauðsynlegar upplýsingar og gögn sem varða lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar. Þá skulu þau að lágmarki árlega gera viðeigandi upplýsingar opinberar.]
+2)
+
+ [Skilavaldinu er heimilt að veita fyrirtæki og einingu hæfilegan tímafrest til að aðlaga sig að ákvörðunum skv. 17.–20. gr. Ákvörðun um tímafrest vegna kröfu skv. 17. gr. skal tekin að teknu tilliti til eftirfarandi hjá fyrirtæki eða einingu: 
+   
+1. Hlutfalls innlána og skorts á skuldagerningum í fjármögnunarlíkani.
+   
+2. Aðgengis að fjármagnsmarkaði fyrir hæfar skuldbindingar.
+   
+3. Að hvaða marki skilaaðili reiðir sig á almennt eigið fé þáttar 1 til að uppfylla lágmarkskröfuna.]
+2)
 
  Evrópska bankaeftirlitsstofnunin skal upplýst um lágmarkskröfu eiginfjárgrunns og hæfra skuldbindinga vegna fyrirtækja eða eininga sem falla undir eftirlit samkvæmt þessari grein.
 
- Seðlabanki Íslands skal setja reglur
-2) um form og skilgreiningar vegna upplýsingaskipta skv. 2. mgr.
+ [Seðlabanki Íslands skal setja reglur
+3) um form og tíðni gagnaskila og upplýsingagjafar skv. 1. mgr. og form og skilgreiningar vegna upplýsingaskipta skv. 3. mgr.]
+2)
    
-1)L. 38/2022, 186. gr. 2)
+1)L. 38/2022, 186. gr. 2)L. 63/2023, 11. gr. 3)
 Rgl. 1262/2021. 
+
+
+
+[22. gr. a.
+Reglugerð.
+
+ Ráðherra setur reglugerð um lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar samkvæmt þessum kafla, þar á meðal um aðferðafræði og viðmið við útreikning á lágmarkskröfunni og hámarksúthlutunarfjárhæð.]
+1)
+   
+1)L. 63/2023, 12. gr. 
 
 
 V. kafli.
@@ -683,23 +775,46 @@ Samningsskilmálar vegna niðurfærslu eða umbreytingar, þ.m.t. við eftirgjö
 
  Fyrirtæki eða eining skv. b–d-lið 1. mgr. 2. gr. skal tryggja að samningar þess innihaldi samningsskilmála, sem gagnaðili viðurkennir, um að skuldbindingin sem samninginn varðar geti verið háð heimildum til niðurfærslu og umbreytingar fjármagnsgerninga skv. VI. kafla og eftirgjöf skv. 54. og 55. gr., sbr. E-hluta X. kafla. Einnig skulu samningarnir innihalda samningsskilmála þar sem gagnaðili viðurkennir að hann sé bundinn af hvers konar lækkun á höfuðstól eða útistandandi fjárhæð, umbreytingu eða niðurfærslu vegna áhrifa af framkvæmd þessara heimilda.
 
- Ákvæði 1. mgr. gildir ekki um skuldbindingu sem: 
+ [Ákvæði 1. mgr. gildir um skuldbindingu sem uppfyllir öll eftirfarandi skilyrði: 
    
-1. er undanþegin eftirgjöf skv. 2. mgr. 56. gr.,
+1. Er ekki undanþegin eftirgjöf skv. 2. mgr. 56. gr.
    
-2. er innstæða sem fellur undir [a-lið 1. tölul. 1. mgr. 85. gr. a],
+2. Er ekki innstæða sem fellur undir a-lið 1. tölul. 1. mgr. 85. gr. a.
+   
+3. Er útgefin á grundvelli löggjafar utan Evrópska efnahagssvæðisins.]
 1)
-   
-3. getur verið háð niðurfærslu eða umbreytingu á grundvelli heimildar samkvæmt lögum í ríki utan Evrópska efnahagssvæðisins eða á grundvelli heimildar samkvæmt bindandi samningi sem gerður hefur verið við viðkomandi ríki utan Evrópska efnahagssvæðisins.
+
+ [Ákvæði 1. mgr. gildir ekki um skuldbindingu sem getur verið háð niðurfærslu eða umbreytingu á grundvelli heimildar samkvæmt lögum í ríki utan Evrópska efnahagssvæðisins eða á grundvelli heimildar samkvæmt bindandi samningi sem gerður hefur verið við viðkomandi ríki utan Evrópska efnahagssvæðisins.
+
+ Fyrirtæki eða eining skal tilkynna skilavaldinu ef það telur óframkvæmanlegt að hafa skilmála skv. 1. mgr. í samningum þess. Í tilkynningunni skal tilgreina flokk þeirrar skuldbindingar sem skilmáli samningsins varðar og rökstuðning fyrir afstöðu fyrirtækisins eða einingarinnar. Móttaka skilavaldsins á tilkynningu frestar skyldu skv. 1. mgr. Skilavaldið getur, í því skyni að meta áhrif tilkynningarinnar á skilabærni, aflað allra nauðsynlegra upplýsinga frá fyrirtæki eða einingu, sbr. 7. gr.
+
+ Skilavaldið leggur mat á tilkynningu skv. 4. mgr. Það skal, innan hæfilegs tímafrests, krefjast þess að fyrirtæki eða eining framfylgi skyldu skv. 1. mgr. ef það fellst ekki á afstöðu fyrirtækis eða einingar um að skilmáli í samningi sé óframkvæmanlegur. Skilavaldið getur jafnframt krafist þess að fyrirtæki eða eining breyti starfsvenjum sínum varðandi samningsbundna viðurkenningu á eftirgjöf.
+
+ Ákvæði 4. mgr. gildir ekki um skuldbindingar sem teljast til gerninga viðbótar eigin fjár þáttar 1 og þáttar 2 og skuldagerninga enda teljist gerningarnir til ótryggðra skuldbindinga. Jafnframt skulu skuldbindingarnar vera rétthærri en kröfur skv. 3. tölul. 1. mgr. 85. gr. a.
+
+ Ef skilavaldið ákvarðar, við mat á skilabærni eða á öðrum tíma, að meira en 10% af flokki skuldbindinga sem inniheldur hæfar skuldbindingar innihaldi ekki skilmála skv. 1. mgr. skal það þegar í stað meta áhrif þess á skilabærni fyrirtækis eða einingar. Við mat á 10% viðmiðunarmarkinu skal taka tillit til skuldbindinga sem eru undanskildar eða heimilt er að undanskilja eftirgjöf skv. 1. og 2. mgr. 56. gr. Ef mat skilavaldsins samkvæmt þessari málsgrein leiðir til þess að annmarkar teljist á skilabærni fyrirtækis eða einingar skal það beita heimildum skv. 15. gr. til að bæta úr annmörkunum.]
+1)
 
  Skilavaldið getur krafið viðkomandi fyrirtæki eða einingu um lögfræðiálit á skuldbindingargildi samningsskilmála skv. 1. mgr. fyrir gagnaðila.
 
- Þrátt fyrir að fyrirtæki eða eining vanræki að setja samningsskilmála skv. 1. mgr. um skuldbindingu getur skilavaldið beitt heimildum sínum og niðurfært eða umbreytt viðkomandi skuldbindingu.
+ Þrátt fyrir að fyrirtæki eða eining vanræki að setja samningsskilmála skv. 1. mgr. um skuldbindingu getur skilavaldið beitt heimildum sínum og niðurfært eða umbreytt viðkomandi skuldbindingu. [Skuldbindingar sem fyrirtæki eða eining vanrækir að tilgreina í samningsskilmálum skv. 1. mgr. geta ekki nýst til að uppfylla kröfur um eiginfjárgrunn og hæfar skuldbindingar.]
+1)
 
- Seðlabanki Íslands skal setja nánari reglur
-2) um efni samningsskilmála skv. 1. mgr. og skrá yfir skuldbindingar sem undanþága skv. 2. mgr. gildir um.
+ [Seðlabanki Íslands setur nánari reglur
+2) um framkvæmd þessarar greinar, þar á meðal um eftirfarandi: 
    
-1)L. 38/2021, 3. gr. 2)
+a. efni samningsskilmála skv. 1. mgr.,
+   
+b. skrá yfir undanþegnar skuldbindingar skv. 2. og 3. mgr.,
+   
+c. skilyrði þess að óframkvæmanlegt geti talist að hafa skilmála í samningum, sbr. 4. mgr.,
+   
+d. skilyrði og hæfilegan tímafrest fyrir kröfu skilavalds um að skuldbinding innihaldi viðeigandi skilmála, sbr. 5. mgr.,
+   
+e. verklag og form fyrir veitingu upplýsinga til skilavaldsins skv. 4. mgr.]
+1)
+   
+1)L. 63/2023, 13. gr. 2)
 Rgl. 666/2021. 
 
 
@@ -724,11 +839,10 @@ Skrá yfir fjárhagslega samninga.
  [Skilavaldið getur krafist þess að fyrirtæki eða eining afhendi upplýsingar úr skrá yfir fjárhagslega samninga innan skamms tímafrests, allt að 24 klukkustunda, gerist þess þörf. Skilavaldið getur ákveðið að mislangir tímafrestir eigi við um afhendingu upplýsinga vegna ólíkra tegunda af fjárhagslegum samningum.]
 1) Fjármálaeftirlitið skal hafa aðgang að upplýsingum sem afhentar eru samkvæmt þessari grein.
 
- Seðlabanki Íslands setur reglur
+ [Ráðherra skal setja reglugerð]
 2) um skrá yfir fjárhagslega samninga, þ.m.t. um hvaða lágmarksupplýsingar skuli koma fram í slíkri skrá og hvaða samningar teljist fjárhagslegir samningar.
    
-1)L. 38/2021, 4. gr. 2)
-Rgl. 666/2021. 
+1)L. 38/2021, 4. gr. 2)L. 63/2023, 14. gr. 
 
 
 
@@ -741,26 +855,36 @@ Undirbúningur niðurfærslu og umbreytingar, þ.m.t. við eftirgjöf.
 
 
 VI. kafli.
-Niðurfærsla og umbreyting fjármagnsgerninga.
+[Niðurfærsla og umbreyting fjármagnsgerninga og hæfra skuldbindinga.]1)
+   
+1)L. 63/2023, 18. gr. 
 
 
 
 27. gr.
 Skilyrði fyrir niðurfærslu og umbreytingu.
 
- Skilavaldið skal án tafar, í samræmi við 28. gr., niðurfæra eða umbreyta fjármagnsgerningum fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. í eignarhluti ef einhver af eftirtöldum tilvikum eiga við: 
+ Skilavaldið skal án tafar, í samræmi við 28. gr., niðurfæra eða umbreyta fjármagnsgerningum [og hæfum skuldbindingum skv. 2. mgr. hjá fyrirtæki eða einingu]
+1) skv. b–d-lið 1. mgr. 2. gr. í eignarhluti ef einhver af eftirtöldum tilvikum eiga við: 
    
-1. Ákvörðun liggur fyrir um að skilyrði skilameðferðar skv. 1. mgr. 35. gr. séu uppfyllt, án þess þó að gripið hafi verið til skilaaðgerða.
+1. Ákvörðun liggur fyrir um að skilyrði skilameðferðar skv. [35. gr.]
+1) séu uppfyllt, án þess þó að gripið hafi verið til skilaaðgerða.
    
-2. Fjármálaeftirlitið hefur tekið ákvörðun um að fyrirtækið eða einingin sé ekki lengur rekstrarhæf nema gripið verði til niðurfærslu eða umbreytingar fjármagnsgerninga.
+2. Fjármálaeftirlitið hefur tekið ákvörðun um að fyrirtækið eða einingin sé ekki lengur rekstrarhæf nema gripið verði til niðurfærslu eða umbreytingar fjármagnsgerninga [og hæfra skuldbindinga skv. 2. mgr.]
+1)
    
-3. Fjármálaeftirlitið og lögbært stjórnvald dótturfélags eða samstæðu hafa tekið sameiginlega ákvörðun um að samstæða sé ekki lengur rekstrarhæf nema með niðurfærslu eða umbreytingu fjármagnsgerninga, enda sé um að ræða fjármagnsgerninga sem útgefnir eru af dótturfélagi í þeim tilgangi að uppfylla kröfur um eiginfjárgrunn þess og samstæðu.
+3. Fjármálaeftirlitið og lögbært stjórnvald dótturfélags eða samstæðu hafa tekið sameiginlega ákvörðun um að samstæða sé ekki lengur rekstrarhæf nema með niðurfærslu eða umbreytingu fjármagnsgerninga [og hæfra skuldbindinga skv. 2. mgr.],
+1) enda sé um að ræða fjármagnsgerninga sem útgefnir eru af dótturfélagi í þeim tilgangi að uppfylla kröfur um eiginfjárgrunn þess og samstæðu.
    
-4. Fjármálaeftirlitið, sem eftirlitsaðili á samstæðugrunni, hefur tekið ákvörðun um að samstæða sé ekki lengur rekstrarhæf nema með niðurfærslu eða umbreytingu fjármagnsgerninga, enda sé um að ræða fjármagnsgerninga sem útgefnir eru af móðurfélagi í þeim tilgangi að uppfylla kröfur um eiginfjárgrunn þess eða samstæðu.
+4. Fjármálaeftirlitið, sem eftirlitsaðili á samstæðugrunni, hefur tekið ákvörðun um að samstæða sé ekki lengur rekstrarhæf nema með niðurfærslu eða umbreytingu fjármagnsgerninga [og hæfra skuldbindinga skv. 2. mgr.],
+1) enda sé um að ræða fjármagnsgerninga sem útgefnir eru af móðurfélagi í þeim tilgangi að uppfylla kröfur um eiginfjárgrunn þess eða samstæðu.
    
 5. Fyrirtæki eða eining hefur óskað eftir sérstökum opinberum fjárstuðningi nema um sé að ræða aðstæður sem kveðið er á um í 2. tölul. c-liðar 2. tölul. 1. mgr. 3. gr.
 
- Niðurfærslu eða umbreytingu fjármagnsgerninga skv. 1. mgr. má ýmist beita án skilaaðgerða eða samhliða þeim enda séu þá skilyrði skilameðferðar skv. 1. mgr. 35. gr. uppfyllt.
+ Niðurfærslu eða umbreytingu fjármagnsgerninga [og hæfra skuldbindinga]
+1) skv. 1. mgr. má ýmist beita án skilaaðgerða eða samhliða þeim enda séu þá skilyrði skilameðferðar skv. [35. gr.]
+1) uppfyllt. [Heimilt er að niðurfæra eða umbreyta hæfum skuldbindingum án skilaaðgerða þrátt fyrir að þær uppfylli ekki skilyrði um eftirstöðvatíma skv. 1. mgr. 72. gr. c reglugerðar (ESB) nr. 575/2013. Þær skuldbindingar sem um ræðir í ákvæðinu skal tilgreina í reglugerð settri á grundvelli 22. gr. a.]
+1)
 
  Fyrirtæki, eining eða samstæða telst ekki rekstrarhæf skv. 2.–4. tölul. 1. mgr. ef bæði eftirfarandi skilyrði eru fyrir hendi: 
    
@@ -771,11 +895,11 @@ Skilyrði fyrir niðurfærslu og umbreytingu.
  Niðurfærsla eða umbreyting skv. 1. mgr. skal grundvallast á mati á eignum og skuldbindingum skv. VII. kafla.
 
  Viðeigandi fjármagnsgerning dótturfélags skv. 3. tölul. 1. mgr. má ekki niðurfæra meira eða umbreyta á verri kjörum en fjármagnsgerninga móðurfélags sem hafa verið niðurfærðir eða umbreytt og hafa sömu forgangsröð [skv. 85. gr. a].
-1)
+2)
 
  Ákvörðun skv. 1. mgr. skal þegar í stað tilkynnt viðeigandi skilastjórnvöldum.
    
-1)L. 38/2021, 5. gr. 
+1)L. 63/2023, 15. gr. 2)L. 38/2021, 5. gr. 
 
 
 
@@ -790,16 +914,24 @@ Framkvæmd niðurfærslu og umbreytingar.
 2. Höfuðstóll viðbótar eigin fjár þáttar 1 er því næst niðurfærður eða honum umbreytt í almennt eigið fé þáttar 1, eða hvort tveggja, að því marki sem nauðsynlegt er til að ná markmiðum skilameðferðar skv. 1. gr. eða að því marki sem unnt er miðað við umfang viðeigandi fjármagnsgerninga, hvort sem er lægra.
    
 3. Höfuðstóll gerninga sem teljast til þáttar 2 er að lokum niðurfærður eða honum umbreytt í almennt eigið fé þáttar 1, eða hvort tveggja, að því marki sem nauðsynlegt er til að ná markmiðum skilameðferðar skv. 1. gr. eða að því marki sem unnt er miðað við umfang viðeigandi fjármagnsgerninga, hvort sem er lægra.
+   
+[4. Höfuðstóll hæfra skuldbindinga skv. 2. mgr. 27. gr. er niðurfærður eða honum umbreytt í almennt eigið fé þáttar 1, eða hvort tveggja, að því marki sem nauðsynlegt er til að ná markmiðum skilameðferðar skv. 1. gr. eða að því marki sem unnt er miðað við umfang viðeigandi skuldbindinga, hvort sem er lægra.]
+2)
 
- Þegar höfuðstóll viðeigandi fjármagnsgernings er niðurfærður: 
+ Þegar höfuðstóll viðeigandi fjármagnsgernings [eða hæfrar skuldbindingar skv. 2. mgr. 27. gr.]
+2) er niðurfærður: 
    
 1. Skal niðurfærslan vera endanleg en þó með fyrirvara um mögulega uppfærslu skv. 3. mgr. 55. gr.
    
-2. Er hvorki til staðar skuldbinding gagnvart eiganda viðeigandi fjármagnsgernings vegna niðurfærðrar fjárhæðar gerningsins nema um sé að ræða skuldbindingu sem þegar var áfallin né skuldbinding vegna skaðabótakröfu sem kann að koma fram vegna ágreinings um lögmæti niðurfærslunnar.
+2. Er hvorki til staðar skuldbinding gagnvart eiganda viðeigandi fjármagnsgernings [eða hæfrar skuldbindingar skv. 2. mgr. 27. gr.]
+2) vegna niðurfærðrar fjárhæðar gerningsins nema um sé að ræða skuldbindingu sem þegar var áfallin né skuldbinding vegna skaðabótakröfu sem kann að koma fram vegna ágreinings um lögmæti niðurfærslunnar.
    
-3. Á eigandi viðeigandi fjármagnsgernings ekki rétt á öðrum skaðabótum en skv. 3. mgr.
+3. Á eigandi viðeigandi fjármagnsgernings [eða hæfrar skuldbindingar skv. 2. mgr. 27. gr.]
+2) ekki rétt á öðrum skaðabótum en skv. 3. mgr.
 
- Skilavaldið getur krafist þess að fyrirtæki eða eining gefi út fjármagnsgerninga sem teljast til almenns eigin fjár þáttar 1 til eigenda viðeigandi fjármagnsgerninga til að koma umbreytingu á viðeigandi fjármagnsgerningum í framkvæmd skv. 2. tölul. 1. mgr. Slík umbreyting er einungis heimil þegar eftirfarandi skilyrði eru fyrir hendi: 
+ Skilavaldið getur krafist þess að fyrirtæki eða eining gefi út fjármagnsgerninga sem teljast til almenns eigin fjár þáttar 1 til eigenda viðeigandi fjármagnsgerninga [og hæfra skuldbindinga skv. 2. mgr. 27. gr.]
+2) til að koma umbreytingu á viðeigandi fjármagnsgerningum [og hæfum skuldbindingum]
+2) í framkvæmd skv. 2. tölul. 1. mgr. Slík umbreyting er einungis heimil þegar eftirfarandi skilyrði eru fyrir hendi: 
    
 1. Fjármagnsgerningarnir eru gefnir út af fyrirtækinu eða móðurfélagi þess með samþykki skilavaldsins eða, ef við á, skilastjórnvaldi móðurfélagsins.
    
@@ -807,27 +939,31 @@ Framkvæmd niðurfærslu og umbreytingar.
    
 3. Fjármagnsgerningarnir eru gefnir út og framseldir án tafar eftir umbreytingu.
    
-4. Umreikningsgengi, sem ákvarðar fjölda útgefinna gerninga sem teljast til almenns eigin fjár þáttar 1, er í samræmi við 64. gr.
+4. [Umreikningsgengi, sem ákvarðar fjölda útgefinna fjármagnsgerninga sem teljast til almenns eigin fjár þáttar 1, eða hæfra skuldbindinga skv. 2. mgr. 27. gr., er í samræmi við 64. gr.]
+2)
 
  Skilavaldið getur krafist þess að í samþykktum fyrirtækis eða einingar sé ávallt heimild til útgáfu viðeigandi fjölda gerninga sem teljast til almenns eigin fjár þáttar 1 í þeim tilgangi að unnt sé að framfylgja ákvæði 3. mgr.
    
-1)L. 38/2021, 6. gr. 
+1)L. 38/2021, 6. gr. 2)L. 63/2023, 16. gr. 
 
 
 
 29. gr.
 Málsmeðferð við niðurfærslu og umbreytingu á samstæðugrunni.
 
- Áður en ákvörðun er tekin um niðurfærslu eða umbreytingu fjármagnsgerninga skv. 2.–5. tölul. 1. mgr. 27. gr., sem gefnir eru út af dótturfélagi til að uppfylla kröfur um eiginfjárgrunn þess og samstæðu, skal: 
+ [Áður en ákvörðun er tekin um niðurfærslu eða umbreytingu fjármagnsgerninga eða hæfra skuldbindinga skv. 2.–5. tölul. 1. mgr. 27. gr., sem gefin eru út af dótturfélagi til að uppfylla kröfur um eiginfjárgrunn þess og samstæðu, skal skilavaldið]:
+1)
    
-1. tilkynna án tafar viðeigandi lögbærum stjórnvöldum þegar til greina kemur að taka ákvörðun um niðurfærslu eða umbreytingu fjármagnsgerninga,
+1. tilkynna [innan 24 klukkustunda]
+1) viðeigandi lögbærum stjórnvöldum þegar til greina kemur að taka ákvörðun um niðurfærslu eða umbreytingu fjármagnsgerninga [eða hæfra skuldbindinga],
+1)
    
 2. tilkynna það án tafar lögbærum stjórnvöldum fyrirtækis eða einingar sem gaf út þá fjármagnsgerninga sem til greina kemur að taka ákvörðun um að niðurfæra eða umbreyta skv. 3. tölul. 1. mgr. 27. gr.
 
  Tilkynningu skv. 1. mgr. skal fylgja rökstuðningur fyrir því hvers vegna niðurfærsla eða umbreyting fjármagnsgerninga kemur til greina. Skilavaldið skal í kjölfar tilkynningar, að undangengnu samráði við viðkomandi lögbær stjórnvöld, leggja mat á eftirfarandi atriði: 
    
 1. Hvort tímanleg inngrip, aðgerðir sem kveðið er á um í [3. mgr. 107. gr. a]
-1) laga um fjármálafyrirtæki, eða yfirfærsla á fjármunum eða eigin fé frá móðurfélagi komi til greina.
+2) laga um fjármálafyrirtæki, eða yfirfærsla á fjármunum eða eigin fé frá móðurfélagi komi til greina.
    
 2. Ef aðgerðir skv. 1. tölul. koma til greina skal meta hvort raunhæfar líkur eru á því að þær geti innan hæfilegs tíma komið í stað niðurfærslu eða umbreytingar fjármagnsgerninga skv. 1. mgr. 27. gr.
 
@@ -835,7 +971,7 @@ Málsmeðferð við niðurfærslu og umbreytingu á samstæðugrunni.
 
  Ákvörðun um niðurfærslu eða umbreytingu fjármagnsgerninga skv. 3. tölul. 1. mgr. 27. gr. skal þegar í stað tilkynnt viðeigandi lögbærum stjórnvöldum í þeim aðildarríkjum þar sem þau dótturfélög sem í hlut eiga eru staðsett og skal ákvörðunin vera sameiginleg með stjórnvöldunum í samræmi við 3. mgr. 91. gr. Ef ekki næst sameiginleg ákvörðun skal skilavaldið ekki taka ákvörðun skv. 3. tölul. 1. mgr. 27. gr.
    
-1)L. 38/2022, 187. gr. 
+1)L. 63/2023, 17. gr. 2)L. 38/2022, 187. gr. 
 
 
 VII. kafli.
@@ -846,25 +982,29 @@ Mat á eignum og skuldbindingum.
 30. gr.
 Virðismat.
 
- Skilavaldið skal láta óháðan aðila framkvæma sanngjarnt, varfærið og raunhæft mat á virði eigna og skuldbindinga fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. áður en gripið er til skilaaðgerða eða niðurfærslu og umbreytingar fjármagnsgerninga skv. 27. gr.
+ Skilavaldið skal láta óháðan aðila framkvæma sanngjarnt, varfærið og raunhæft mat á virði eigna og skuldbindinga fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. áður en gripið er til skilaaðgerða eða niðurfærslu og umbreytingar fjármagnsgerninga [og hæfra skuldbindinga]
+1) skv. 27. gr.
 
- Virðismat skal upplýsa um hvort skilyrði skilameðferðar skv. 1. mgr. 35. gr. eða niðurfærslu og umbreytingar fjármagnsgerninga skv. 27. gr. eru fyrir hendi. Þá skal virðismatið leggja grunn að ákvörðun um eftirfarandi: 
+ Virðismat skal upplýsa um hvort skilyrði skilameðferðar skv. 1. mgr. 35. gr. eða niðurfærslu og umbreytingar fjármagnsgerninga [og hæfra skuldbindinga]
+1) skv. 27. gr. eru fyrir hendi. Þá skal virðismatið leggja grunn að ákvörðun um eftirfarandi: 
    
 1. hvaða skilaaðgerðir eru viðeigandi gagnvart fyrirtæki eða einingu,
    
-2. umfang niðurfærslu á hlutafé eða öðrum eignarhlutum og umfang niðurfærslu eða umbreytingar fjármagnsgerninga,
+2. umfang niðurfærslu á hlutafé eða öðrum eignarhlutum og umfang niðurfærslu eða umbreytingar fjármagnsgerninga [og hæfra skuldbindinga],
+1)
    
 3. umfang niðurfærslu eða umbreytingar á [eftirgefanlegum]
-1) skuldbindingum þegar skilaúrræðinu eftirgjöf er beitt,
+2) skuldbindingum þegar skilaúrræðinu eftirgjöf er beitt,
    
 4. hvaða eignir, réttindi, skuldbindingar eða eignarhluti skuli framselja þegar skilaúrræðum um framsal til brúarstofnunar eða uppskiptingar eigna er beitt og hvaða endurgjald skuli greiða til fyrirtækis eða einingar í skilameðferð eða ef við á félagsaðila,
    
 5. hvaða eignir, réttindi, skuldbindingar eða eignarhluti skuli selja þegar úrræði um sölu rekstrar er beitt og hvað telst til viðskiptalegra forsendna skv. B-hluta X. kafla,
    
-6. hvernig tryggja megi að tekið sé fullt tillit til rýrnunar eigna á þeim tíma þegar skilaúrræðum eða niðurfærslu og umbreytingu fjármagnsgerninga er beitt.
+6. hvernig tryggja megi að tekið sé fullt tillit til rýrnunar eigna á þeim tíma þegar skilaúrræðum eða niðurfærslu og umbreytingu fjármagnsgerninga [og hæfra skuldbindinga]
+1) er beitt.
 
  Virðismat skal innihalda mat á væntanlegri stöðu krafna í forgangsröð við [skila- og slitameðferð skv. 85. gr. a]
-2) sem og líklegri meðferð fjármuna félagsaðila og krafna lánardrottna ef fyrirtæki eða einingu verður slitið samkvæmt reglum um slitameðferð eða gjaldþrotaskipti.
+3) sem og líklegri meðferð fjármuna félagsaðila og krafna lánardrottna ef fyrirtæki eða einingu verður slitið samkvæmt reglum um slitameðferð eða gjaldþrotaskipti.
 
  Við virðismat skal ekki gera ráð fyrir hugsanlegri framtíðarlausafjárfyrirgreiðslu Seðlabanka Íslands, umfram þá sem fellur undir regluleg viðskipti, eða annars konar opinberum fjárstuðningi.
 
@@ -881,15 +1021,14 @@ Virðismat.
 2. Greining og mat á bókfærðu virði eigna.
    
 3. Skrá um útistandandi skuldbindingar innan sem utan efnahagsreiknings fyrirtækisins eða einingarinnar ásamt upplýsingum um forgangsröð þeirra við [skila- og slitameðferð skv. 85. gr. a].
-2)
+3)
 
  Þegar kröfur þessarar greinar eru uppfylltar telst virðismati lokið. Ef í ljós kemur við gerð virðismats að ekki verði unnt að uppfylla kröfur þessarar greinar skal það þá meðhöndlað sem bráðabirgðavirðismat skv. 31. gr. þar til virðismat sem uppfyllir kröfur þessarar greinar hefur farið fram, sbr. 3. mgr. 31. gr. Hraða skal vinnslu leiðrétts virðismats og er þá heimilt að sami aðilinn vinni það samhliða endanlegu virðismati skv. 32. gr., enda sé hvort um sig aðgreint frá öðru.
 
- Seðlabanki Íslands skal setja reglur
-3) um nánari framkvæmd þessarar greinar, þ.m.t. um aðferðafræði við mat á eignum og skuldbindingum fyrirtækis eða einingar, óhæði matsmanns gagnvart bæði skilavaldi og fyrirtæki eða einingu og aðgreiningu á virðismati, sbr. einnig 32. gr.
+ [Ráðherra skal setja reglugerð]
+4) um nánari framkvæmd þessarar greinar, þ.m.t. um aðferðafræði við mat á eignum og skuldbindingum fyrirtækis eða einingar, óhæði matsmanns gagnvart bæði skilavaldi og fyrirtæki eða einingu og aðgreiningu á virðismati, sbr. einnig 32. gr.
    
-1)L. 38/2022, 188. gr. 2)L. 38/2021, 7. gr. 3)
-Rgl. 666/2021. 
+1)L. 63/2023, 19. gr. 2)L. 38/2022, 188. gr. 3)L. 38/2021, 7. gr. 4)L. 63/2023, 14. gr. 
 
 
 
@@ -908,11 +1047,10 @@ Bráðabirgðavirðismat.
    
 2. gefa brúarstofnun eða eignaumsýslufélagi fyrirmæli um að greiða frekara endurgjald fyrir eignir, réttindi eða skuldbindingar til fyrirtækis eða einingar í skilameðferð, eða ef við á til félagsaðila.
 
- Seðlabanki Íslands skal setja reglur
+ [Ráðherra skal setja reglugerð]
 1) um aðferðafræði fyrir útreikning á varúðarfrádragi til að mæta viðbótartapi skv. 2. mgr.
    
-1)
-Rgl. 666/2021. 
+1)L. 63/2023, 14. gr. 
 
 
 
@@ -938,11 +1076,10 @@ Endanlegt virðismat.
    
 3. ekki taka tillit til sérstaks opinbers fjárstuðnings hafi hann verið veittur til fyrirtækis eða einingar í skilameðferð.
 
- Seðlabanki Íslands skal setja reglur
+ [Ráðherra skal setja reglugerð]
 2) um nánari framkvæmd þessarar greinar, svo sem um aðferðafræði við mat á eignum og skuldbindingum fyrirtækis eða einingar og um óhæði matsmanns gagnvart skilavaldinu og fyrirtæki eða einingu.
    
-1)L. 48/2022, 2. gr. 2)
-Rgl. 666/2021. 
+1)L. 48/2022, 2. gr. 2)L. 63/2023, 14. gr. 
 
 
 
@@ -970,7 +1107,14 @@ VIII. kafli.
 35. gr.
 Ákvörðun um skilameðferð.
 
- Skilavaldið ákveður að fenginni tilkynningu um að fyrirtæki eða eining sé á fallanda fæti skv. 34. gr. hvort nauðsynlegt sé að grípa til skilaaðgerðar gagnvart því til að ná markmiðum laga þessara.
+ [Skilavaldið ákveður hvort grípa skuli til skilaaðgerðar gagnvart fyrirtæki eða einingu að eftirfarandi skilyrðum uppfylltum: 
+   
+1. Það hefur móttekið tilkynningu um að fyrirtæki eða eining sé á fallanda fæti skv. 34. gr.
+   
+2. Ekki er unnt að koma í veg fyrir fall fyrirtækis eða einingar með öðru og vægara móti.
+   
+3. Skilaaðgerð er nauðsynleg vegna almannahagsmuna þannig að markmiðum laga þessara verði náð.]
+1)
 
  Áður en ákvörðun um skilaaðgerð skv. 1. mgr. er tekin, sem varðar starfsmenn fyrirtækis eða einingar, skal leitast við að upplýsa og hafa samráð við fulltrúa fyrirtækisins eða einingarinnar.
 
@@ -978,16 +1122,57 @@ VIII. kafli.
    
 1. Fjármálastofnun skv. b-lið 1. mgr. 2. gr. nema móðurfélag hennar sé einnig á fallanda fæti.
    
-2. Eignarhaldsfélagi skv. c- eða d-lið 1. mgr. 2. gr. nema dótturfélag þess, sem er lánastofnun eða verðbréfafyrirtæki, sé einnig á fallanda fæti eða ef dótturfélag þess, sem er lánastofnun eða verðbréfafyrirtæki, er á fallanda fæti og eignir og skuldir dótturfélagsins eru slíkar að fall þess stefni annarri lánastofnun eða verðbréfafyrirtæki í samstæðunni eða samstæðunni í heild í hættu. Ef dótturfélag er með staðfestu í ríki utan Evrópska efnahagssvæðisins telst það á fallanda fæti í skilningi þessa töluliðar ef það fullnægir að mati þarlendra yfirvalda skilyrðum fyrir skilameðferð samkvæmt lögum þess ríkis.
+2. …
+1)
    
-3. Blönduðu eignarhaldsfélagi ef dótturfélag þess, sem er lánastofnun eða verðbréfafyrirtæki, er beint eða óbeint í eigu eignarhaldsfélags á fjármálasviði, sem er milliliður, heldur gagnvart eignarhaldsfélaginu á fjármálasviði.
+3. Blönduðu eignarhaldsfélagi ef dótturfélag þess, sem er lánastofnun eða verðbréfafyrirtæki, er beint eða óbeint í eigu eignarhaldsfélags á fjármálasviði, sem er milliliður, heldur gagnvart eignarhaldsfélaginu á fjármálasviði. [Skilavaldið skal þá tilgreina eignarhaldsfélagið á fjármálasviði sem skilaaðila í skilaáætlun samstæðu.]
+1)
 
- Skilastjórnvald eignarhaldsfélags og skilastjórnvald fyrirtækis, sem er dótturfélag eignarhaldsfélagsins, geta að því er varðar 2. tölul. 3. mgr. sammælst um að líta fram hjá hvers konar hreyfingum á fjármagni innan samstæðunnar eða tapi milli fyrirtækisins og einingarinnar við mat á því hvort skilyrðum fyrir skilaaðgerð sé fullnægt vegna dótturfélagsins.
+ [Þrátt fyrir að skilyrði 1. mgr. séu ekki uppfyllt er skilavaldinu heimilt að grípa til skilaaðgerðar gagnvart eignarhaldsfélagi skv. c- eða d-lið 1. mgr. 2. gr. ef eftirtalin skilyrði eru uppfyllt: 
+   
+1. Eignarhaldsfélagið er skilaaðili.
+   
+2. Dótturfélag eignarhaldsfélagsins, eitt eða fleiri, sem er lánastofnun eða verðbréfafyrirtæki, en ekki skilaaðili, uppfyllir skilyrði skv. 1. mgr.
+   
+3. Eignir og skuldir dótturfélagsins eru slíkar að fall þess stefni annarri lánastofnun eða verðbréfafyrirtæki í samstæðunni, eða samstæðunni í heild, í hættu.]
+1)
 
  Viðeigandi aðilum skal send tímasett og rökstudd ákvörðun um skilaaðgerð sem gripið er til svo fljótt sem auðið er. Skilavaldið skal jafnframt tryggja að ákvörðunin eða samantekt á áhrifum hennar, einkum á almenna viðskiptavini fyrirtækisins eða einingarinnar, og skilmálar og tímafrestir takmarkana sem vísað er til í 70.–72. gr., ef við á, séu birtir svo fljótt sem auðið er á vefsíðu fyrirtækisins eða einingarinnar, Seðlabankans og Evrópsku bankaeftirlitsstofnunarinnar. Sama efni skal birt með sömu aðferð og notuð er við opinberar birtingar samkvæmt lögum um verðbréfaviðskipti hafi [eignarhlutar eða skuldagerningar]
-1) fyrirtækisins eða einingarinnar verið teknir til viðskipta á skipulögðum verðbréfamarkaði, en ella skal senda sama efni til félagsaðila og lánardrottna og skilavaldið hefur upplýsingar um í skrám fyrirtækisins.
+2) fyrirtækisins eða einingarinnar verið teknir til viðskipta á skipulögðum verðbréfamarkaði, en ella skal senda sama efni til félagsaðila og lánardrottna og skilavaldið hefur upplýsingar um í skrám fyrirtækisins.
    
-1)L. 38/2021, 8. gr. 
+1)L. 63/2023, 20. gr. 2)L. 38/2021, 8. gr. 
+
+
+
+[35. gr. a.
+Heimild til að fresta tilteknum skuldbindingum við ákvörðun um skilameðferð.
+
+ Skilavaldinu er heimilt að fresta greiðslu eða afhendingu samkvæmt samningum sem fyrirtæki eða eining hefur stofnað til að uppfylltum öllum eftirtöldum skilyrðum: 
+   
+1. Ákvörðun um að fyrirtæki eða eining sé á fallanda fæti hefur verið móttekin skv. 1. tölul. 1. mgr. 35. gr.
+   
+2. Ekki er unnt að koma í veg fyrir fall fyrirtækis eða einingar með aðgerðum einkaaðila, sbr. 2. tölul. 1. mgr. 35. gr.
+   
+3. Frestun á greiðslu eða afhendingu er talin nauðsynleg til að koma í veg fyrir hratt versnandi fjárhagsstöðu fyrirtækis eða einingar.
+   
+4. Beiting heimildarinnar er nauðsynleg til að:
+   
+a. taka ákvörðun skv. 3. tölul. 1. mgr. 35. gr., eða
+   
+b. taka ákvörðun um viðeigandi skilaaðgerð eða tryggja skilvirka beitingu skilaúrræða.
+
+ Ákvæði 2.–5. mgr. 70. gr. gilda ef heimild til frestunar skv. 1. mgr. er beitt.
+
+ Frestun á greiðslu eða afhendingu skv. 1. mgr. skal að hámarki gilda frá birtingu tilkynningar um frestun skv. 4. mgr. til miðnættis næsta virka dag.
+
+ Skilavaldið skal, án tafar, tilkynna fyrirtæki og einingu ásamt öðrum viðeigandi aðilum um beitingu heimildar skv. 1. mgr. Þá skal skilavaldið tryggja birtingu í samræmi við 5. mgr. 35. gr. á ákvörðun um frestun ásamt skilmálum og tímalengd frestunarinnar.
+
+ Þegar skilavaldið frestar greiðslu eða afhendingu skv. 1. mgr. er því heimilt á tímabili frestunar að beita ákvæðum 71. og 72. gr.
+
+ Hafi skilavaldið beitt heimildum þessarar greinar gegn fyrirtæki eða einingu og í framhaldi gripið til skilaaðgerðar gagnvart fyrirtækinu eða einingunni skal það ekki beita ákvæðum 70.–72. gr. gagnvart þeim.]
+1)
+   
+1)L. 63/2023, 21. gr. 
 
 
 
@@ -1035,7 +1220,10 @@ A. Sameiginleg ákvæði.
 39. gr.
 Áskilnaður um niðurfærslu eða umbreytingu.
 
- Skilaúrræði sem veldur lánardrottnum fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. tapi eða umbreytir kröfum þeirra skal ekki beita nema rétt áður eða samhliða hafi viðeigandi fjármagnsgerningar fyrirtækisins eða einingarinnar verið niðurfærðir eða þeim umbreytt skv. 27. gr.
+ Skilaúrræði sem veldur lánardrottnum fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. tapi eða umbreytir kröfum þeirra skal ekki beita nema rétt áður eða samhliða hafi viðeigandi fjármagnsgerningar [og hæfar skuldbindingar fyrirtækisins eða einingarinnar verið niðurfærð]
+1) eða þeim umbreytt skv. 27. gr.
+   
+1)L. 63/2023, 22. gr. 
 
 
 
@@ -1222,9 +1410,10 @@ Umfang eftirgjafar.
 
  Ef fjármagnsgerningar hafa verið niðurfærðir skv. VI. kafla og eftirgjöf skv. 54. gr. beitt er heimilt að beita uppfærslu til hagsbóta fyrir lánardrottna og síðan ef við á félagsaðila, ef niðurfærsla sem grundvallast hefur á bráðabirgðavirðismati skv. 31. gr. var meiri en ástæða var til miðað við endanlegt virðismat skv. 32. gr.
 
- Skilavaldið skal á hverjum tíma hafa aðgang að upplýsingum og ráða yfir kerfi til þess að geta lagt mat á virði eigna og skuldbindinga fyrirtækis eða einingar í skilameðferð.
+ Skilavaldið skal á hverjum tíma hafa aðgang að upplýsingum og [búa yfir ráðstöfunum]
+2) til þess að geta lagt mat á virði eigna og skuldbindinga fyrirtækis eða einingar í skilameðferð.
    
-1)L. 38/2022, 189. gr. 
+1)L. 38/2022, 189. gr. 2)L. 63/2023, 23. gr. 
 
 
 
@@ -1254,12 +1443,18 @@ Takmarkanir eftirgjafar.
    
 10. Ógreiddum iðgjöldum til Tryggingarsjóðs [vegna fjármálafyrirtækja],
 2) sbr. lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
+   
+[11. Skuldbindingum gagnvart miðlægum mótaðilum sem hlotið hafa starfsleyfi samkvæmt lögum um afleiðuviðskipti, miðlæga mótaðila og afleiðuviðskiptaskrár eða miðlægum mótaðilum með staðfestu í þriðja ríki enda séu þeir viðurkenndir af Evrópsku verðbréfamarkaðseftirlitsstofnuninni samkvæmt sömu lögum.
+   
+12. Skuldbindingum, gagnvart fyrirtæki eða einingu enda séu aðilarnir hluti af sömu skilasamstæðu án þess að vera sjálfir skilaaðilar, óháð gjalddaga skuldbindinganna nema þær séu neðar í forgangsröð skv. 85. gr. a en almennar ótryggðar kröfur.]
+3)
 
  Við sérstakar aðstæður er skilavaldinu heimilt við eftirgjöf að undanskilja í heild eða að hluta tilteknar skuldbindingar þegar: 
    
 1. ekki er unnt að beita eftirgjöf gagnvart skuldbindingu innan hæfilegra tímamarka,
    
-2. skuldbindingin er nauðsynleg til að halda áfram nauðsynlegri starfsemi og kjarnastarfsemi og viðheldur getu fyrirtækis í skilameðferð til að stunda viðskipti og veita þjónustu,
+2. skuldbindingin er nauðsynleg til að [halda uppi nauðsynlegri starfsemi og kjarnastarfssviðum]
+3) og viðheldur getu fyrirtækis í skilameðferð til að stunda viðskipti og veita þjónustu,
    
 3. skuldbindingin er nauðsynleg til að komast hjá smitáhrifum, sérstaklega hvað varðar tryggingarhæfar innstæður einstaklinga, örfélaga, lítilla og meðalstórra félaga, og henni er ætlað að stemma stigu við óstöðugleika á fjármálamörkuðum og innviðum þeirra sem gæti leitt til alvarlegra truflana í efnahagsstarfsemi hér á landi eða á Evrópska efnahagssvæðinu, eða
    
@@ -1268,36 +1463,70 @@ Takmarkanir eftirgjafar.
  Áður en tekin er endanleg ákvörðun um að undanþiggja skuldbindingu eftirgjöf skv. 2. mgr. skal fyrirhuguð ákvörðun tilkynnt Eftirlitsstofnun EFTA. Ef kröfur samkvæmt þessari grein og 57. gr. eru ekki uppfylltar og gert er ráð fyrir fjárframlagi úr skilasjóði fyrir undanþágunni eða annarri opinberri fjármögnun skv. 57. gr. getur Eftirlitsstofnun EFTA innan 24 klukkustunda frá slíkri tilkynningu bannað eða takmarkað slíka undanþágu. Frestinn má lengja í samráði við skilavaldið.
 
  Ráðherra skal setja reglugerð
-3) um aðstæður sem heimila undanþágu skv. 2. mgr.
+4) um aðstæður sem heimila undanþágu skv. 2. mgr.
    
-1)L. 38/2021, 10. gr. 2)L. 48/2022, 2. gr. 3)Rg. 95/2021. 
+1)L. 38/2021, 10. gr. 2)L. 48/2022, 2. gr. 3)L. 63/2023, 24. gr. 4)Rg. 95/2021. 
 
 
 
 57. gr.
-Heimild til að undanskilja hæfar skuldbindingar eftirgjöf.
+[Heimild til að undanskilja eftirgefanlegar skuldbindingar.]1)
 
- Þegar fyrir liggur ákvörðun um að undanskilja í heild eða að hluta hæfar skuldbindingar eða flokka þeirra skv. 2. mgr. 56. gr. er heimilt að auka hlutfallslega eftirgjöf annarra hæfra skuldbindinga til að mæta áhrifum undanþágunnar. Engin hæf skuldbinding skal þó sæta meiri niðurfærslu en orðið hefði ef fyrirtækið eða einingin hefði verið tekin til slitameðferðar eða gjaldþrotaskipta.
+ Þegar fyrir liggur ákvörðun um að undanskilja í heild eða að hluta [eftirgefanlegar]
+1) skuldbindingar eða flokka þeirra skv. 2. mgr. 56. gr. er heimilt að auka hlutfallslega eftirgjöf annarra [eftirgefanlegra]
+1) skuldbindinga til að mæta áhrifum undanþágunnar. Engin [eftirgefanleg]
+1) skuldbinding skal þó sæta meiri niðurfærslu en orðið hefði ef fyrirtækið eða einingin hefði verið tekin til slitameðferðar eða gjaldþrotaskipta.
 
- Þegar ákveðið er að undanskilja í heild eða að hluta hæfar skuldbindingar eða flokka þeirra eftirgjöf skv. 2. mgr. 56. gr. og fjárhæð eftirgjafar sem þessar skuldbindingar hefðu annars sætt er ekki jafnað yfir á aðrar hæfar skuldbindingar í samræmi við 1. mgr. er heimilt að leggja til fjárframlag til fyrirtækis eða einingar í skilameðferð úr skilasjóði til að ná öðru hvoru eða báðum eftirfarandi markmiðum: 
+ Þegar ákveðið er að undanskilja í heild eða að hluta [eftirgefanlegar]
+1) skuldbindingar eða flokka þeirra eftirgjöf skv. 2. mgr. 56. gr. og fjárhæð eftirgjafar sem þessar skuldbindingar hefðu annars sætt er ekki jafnað yfir á aðrar [eftirgefanlegar]
+1) skuldbindingar í samræmi við 1. mgr. er heimilt að leggja til fjárframlag til fyrirtækis eða einingar í skilameðferð úr skilasjóði til að ná öðru hvoru eða báðum eftirfarandi markmiðum: 
    
-1. Bæta þá fjárhæð sem ekki er jafnað yfir á aðrar hæfar skuldbindingar að því marki að eiginfjárstaða viðkomandi fyrirtækis eða einingar í skilameðferð standi á núlli, sbr. 1. tölul. 1. mgr. 55. gr.
+1. Bæta þá fjárhæð sem ekki er jafnað yfir á aðrar [eftirgefanlegar]
+1) skuldbindingar að því marki að eiginfjárstaða viðkomandi fyrirtækis eða einingar í skilameðferð standi á núlli, sbr. 1. tölul. 1. mgr. 55. gr.
    
 2. Kaupa eignarhluti eða fjármagnsgerninga útgefna af fyrirtæki eða einingu í skilameðferð í þeim tilgangi að endurfjármagna það, sbr. 2. tölul. 1. mgr. 55. gr.
 
  Einungis er heimilt að leggja til fjárframlag skv. 2. mgr. úr skilasjóði þegar: 
    
 1. félagsaðilar, eigendur fjármagnsgerninga og eigendur [eftirgefanlegra]
-1) skuldbindinga hafa með eftirgjöf eða öðrum hætti lagt fyrirtæki eða einingu í skilameðferð til a.m.k. 8% af heildarskuldbindingum þess, þ.m.t. eigið fé, eins og þær eru metnar skv. VII. kafla við beitingu skilaaðgerða, og
+2) skuldbindinga hafa með eftirgjöf eða öðrum hætti lagt fyrirtæki eða einingu í skilameðferð til a.m.k. 8% af heildarskuldbindingum þess, þ.m.t. eigið fé, eins og þær eru metnar skv. VII. kafla við beitingu skilaaðgerða, og
    
 2. fjárframlag skilasjóðs fer ekki umfram 5% af heildarskuldbindingum fyrirtækis eða einingar í skilameðferð, þ.m.t. eigið fé, eins og þær eru metnar skv. VII. kafla við beitingu skilaaðgerða.
 
  Skilavaldið getur við sérstakar aðstæður leitað frekari fjárframlaga þegar viðmiðunarmarkinu skv. 2. tölul. 3. mgr. er náð og allar ótryggðar og forgangslausar skuldbindingar, aðrar en tryggingarhæfar innstæður, hafa verið niðurfærðar eða þeim umbreytt að fullu.
 
  Þegar allar skuldbindingar fyrirtækis eða einingar sem heimilt er að beita eftirgjöf skv. 56. gr. hafa verið niðurfærðar eða þeim umbreytt, og Tryggingarsjóður [vegna fjármálafyrirtækja]
-2) hefur lagt til fjárframlag í samræmi við 82. gr., getur skilasjóður lagt til fjárframlag skv. 2. og 3. mgr.
+3) hefur lagt til fjárframlag í samræmi við 82. gr., getur skilasjóður lagt til fjárframlag skv. 2. og 3. mgr.
    
-1)L. 38/2022, 190. gr. 2)L. 48/2022, 2. gr. 
+1)L. 63/2023, 25. gr. 2)L. 38/2022, 190. gr. 3)L. 48/2022, 2. gr. 
+
+
+
+[57. gr. a.
+Sala á víkjandi hæfum skuldbindingum til almennra fjárfesta.
+
+ Seljanda hæfra skuldbindinga er heimilt að selja almennum fjárfesti skuldbindingar sem uppfylla skilyrði 72. gr. a að undanskildum b-lið 1. mgr. og skilyrði 3.–5. mgr. 72. gr. b reglugerðar (ESB) nr. 575/2013, ef eftirfarandi skilyrði eru öll uppfyllt: 
+   
+1. Seljandi hefur framkvæmt mat á hæfi almenns fjárfestis skv. 
+44. gr. laga um markaði fyrir fjármálagerninga, nr. 115/2021.
+   
+2. Seljandi telur á grundvelli mats skv. 1. tölul. að slíkar hæfar skuldbindingar henti viðkomandi almennum fjárfesti.
+   
+3. Seljandi uppfyllir skyldur skv. 
+46. gr. laga um markaði fyrir fjármálagerninga, nr. 115/2021.
+
+ Ef verðgildi fjármálagerninga nemur samanlagt ekki meira en jafnvirði 500.000 evra í íslenskum krónum þegar kaupin fara fram, á grundvelli upplýsinga sem fjárfestir veitir skv. 3. mgr., skal seljandi tryggja að eftirfarandi skilyrði séu bæði uppfyllt: 
+   
+1. Heildarfjárhæð fjárfestingar almenns fjárfestis í skuldbindingum skv. 1. mgr. fer ekki umfram 10% af verðgildi fjármálagerninga þess fjárfestis.
+   
+2. Upphafleg fjárhæð fjárfestingar í einni eða fleiri skuldbindingum skv. 1. mgr. nemur að lágmarki jafnvirði 10.000 evra í íslenskum krónum.
+
+ Almennur fjárfestir skal veita seljanda nákvæmar upplýsingar um verðgildi fjármálagerninga hans, þ.m.t. allar fjárfestingar í skuldbindingum skv. 1. mgr.
+
+ Verðgildi fjármálagerninga skv. 2. og 3. mgr. skal innihalda innstæður og fjármálagerninga, þó ekki fjármálagerninga sem trygging hefur verið sett fyrir.]
+1)
+   
+1)L. 63/2023, 26. gr. 
 
 
 
@@ -1530,7 +1759,10 @@ Gildissvið gagnvart öðrum lögum.
 
  Ákvæði 5., 7. og 8. gr. laga um fjárhagslegar tryggingarráðstafanir gilda ekki ef takmarkanir verða á fullnustu fjárhagslegra tryggingarráðstafana á áhrifum samninga um veðsetningu á fjárhagslegri tryggingarráðstöfun, greiðslujöfnun til uppgjörs eða skuldajöfnun við beitingu heimilda skv. VI., IX., þessum kafla eða XII. kafla.
 
- Ef skilaaðgerðum hefur verið beitt gilda ákvæði XII. kafla laga um fjármálafyrirtæki, þó ekki 106. gr. laganna, einnig ef við á um einingar skv. b–d-lið 1. mgr. 2. gr.
+ [Ákvæði B-hluta XII. kafla laga um fjármálafyrirtæki gilda einnig um einingar skv. b–d-lið 1. mgr. 2. gr. ef skilyrði 1.–2. tölul. 1. mgr. 35. gr. eru uppfyllt gagnvart einingunum.]
+1)
+   
+1)L. 63/2023, 27. gr. 
 
 
 
@@ -1555,7 +1787,8 @@ Heimild til að fella úr gildi eða breyta samningsskilmálum.
 69. gr.
 Samningsskilmálum vikið til hliðar.
 
- Ef gripið er til aðgerða skv. 15., 16., 27. gr. eða skilaaðgerða gagnvart fyrirtæki eða einingu skulu aðgerðirnar, þ.m.t. atburðir sem leiðir af þeim, hvorki samsvara vanefnd samkvæmt samningi um fjárhagslegar tryggingarráðstafanir né jafngilda úrskurði um heimild til greiðslustöðvunar, nauðasamningsumleitana eða gjaldþrotaskipta samkvæmt lögum um gjaldþrotaskipti o.fl. Ákvæði 1. málsl. er háð því skilyrði að fyrirtæki eða eining haldi áfram að efna meginskyldur samningssambands, m.a. um greiðslur, afhendingu og veitingu tryggingarréttinda.
+ Ef gripið er til aðgerða skv. 15., 16., 27. gr., [35. gr. a]
+1) eða skilaaðgerða gagnvart fyrirtæki eða einingu skulu aðgerðirnar, þ.m.t. atburðir sem leiðir af þeim, hvorki samsvara vanefnd samkvæmt samningi um fjárhagslegar tryggingarráðstafanir né jafngilda úrskurði um heimild til greiðslustöðvunar, nauðasamningsumleitana eða gjaldþrotaskipta samkvæmt lögum um gjaldþrotaskipti o.fl. Ákvæði 1. málsl. er háð því skilyrði að fyrirtæki eða eining haldi áfram að efna meginskyldur samningssambands, m.a. um greiðslur, afhendingu og veitingu tryggingarréttinda.
 
  Efni fyrirtæki eða eining áfram meginskyldur samningssambands skv. 2. málsl. 1. mgr. veita aðgerðir skv. 1. málsl. 1. mgr. samningsaðilum fyrirtækisins eða einingarinnar ekki sjálfkrafa rétt til að: 
    
@@ -1567,12 +1800,14 @@ Samningsskilmálum vikið til hliðar.
 
  Ákvæði 1. og 2. mgr. gilda um samninga sem dótturfélag hefur gert og móðurfélag eða annað fyrirtæki eða eining innan samstæðu ábyrgist eða styður á annan hátt. Ákvæði 1. og 2. mgr. gilda einnig um samninga á milli fyrirtækja eða eininga innan samstæðu sem fela í sér víxlvanefndarákvæði.
 
- Takmarkanir á samningsbundnum réttindum og skyldum sem leiðir af 70.–73. gr. teljast ekki til vanefndar eða brots á samningsskyldum skv. 1. og 3. mgr.
+ Takmarkanir á samningsbundnum réttindum og skyldum sem leiðir af [35. gr. a, 70. og 71. gr.]
+1) teljast ekki til vanefndar eða brots á samningsskyldum skv. 1. og 3. mgr. [og 1. mgr. 72. gr.]
+1)
 
  Ákvæði þessarar greinar takmarkar á engan hátt heimildir skv. [107. gr. f]
-1) laga um fjármálafyrirtæki.
+2) laga um fjármálafyrirtæki.
    
-1)L. 38/2022, 192. gr. 
+1)L. 63/2023, 28. gr. 2)L. 38/2022, 192. gr. 
 
 
 
@@ -1591,10 +1826,13 @@ Heimild til að fresta tilteknum skuldbindingum.
    
 2. Skuldbindingar við greiðslu- og verðbréfauppgjörskerfi og þátttakendur slíkra kerfa, sbr. lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum, miðlæga mótaðila og seðlabanka.
    
-3. Kröfur viðskiptavina sem njóta tryggingaverndar verðbréfadeildar Tryggingarsjóðs [vegna fjármálafyrirtækja],
-1) sbr. lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
+3. …
+1)
+
+ [Ef skilavaldið ákveður að fresta greiðslu eða afhendingu skv. 1. mgr. á tryggingarhæfum innstæðum umfram fjárhæðarmörk tryggðra innstæðna skal það tryggja að þeir innstæðueigendur hafi aðgang að viðeigandi daglegri fjárhæð innstæðnanna.]
+1)
    
-1)L. 48/2022, 2. gr. 
+1)L. 63/2023, 29. gr. 
 
 
 
@@ -1710,6 +1948,27 @@ Takmarkanir vegna tryggðra innstæðna.
  Framsal, niðurfelling eða breyting á samningsskilmálum skv. 1. mgr. skal hvorki afturkalla greiðslufyrirmæli skv. II. kafla laga um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum né breyta eða ógilda framkvæmd greiðslufyrirmæla eða greiðslujöfnunar skv. II. og IV. kafla sömu laga.
 
 
+
+[78. gr. a.
+Skilmáli í fjárhagslegum samningum um heimildir skilavalds.
+
+ Fyrirtæki og eining skulu hafa skilmála um heimild skilavaldsins til að grípa til ráðstafana skv. 35. gr. a og 70.–73. gr. í öllum fjárhagslegum samningum sínum sem löggjöf utan Evrópska efnahagssvæðisins gildir um. Í sömu samningum skal einnig kveðið á um viðurkenningu á skuldbindingargildi ákvæðis 69. gr. þessara laga og 
+107. gr. f laga um fjármálafyrirtæki, nr. 161/2002.
+
+ Ákvæði 1. mgr. gildir um fjárhagslega samninga sem uppfylla bæði eftirfarandi skilyrði: 
+   
+1. Þeir stofna til nýrrar skuldbindingar eða breyta verulega gildandi skuldbindingu eftir gildistöku laga þessara.
+   
+2. Þeir innihalda ákvæði um réttindi sem sæta takmörkunum skv. 35. gr. a og 69.–73. gr.
+
+ Brot gegn skyldu skv. 1. mgr. takmarkar ekki rétt skilavaldsins til að beita heimildum skv. 35. gr. a og 70.–73. gr.
+
+ Seðlabanki Íslands skal setja reglur sem kveða nánar á um efni skilmála skv. 1. mgr.]
+1)
+   
+1)L. 63/2023, 30. gr. 
+
+
 XIII. kafli.
 Opinber fjármálastöðgunarúrræði.
 
@@ -1752,6 +2011,18 @@ Takmörkun á tapi félagsaðila og lánardrottna.
 1) tapi ekki meira á skilameðferð fyrirtækis eða einingar skv. b–d-lið 1. mgr. 2. gr. en hann hefði gert við slit á fyrirtækinu eða gjaldþrotaskipti á búi þess. Heimilt er að greiða honum bætur úr skilasjóði ef tap verður meira en það hefði orðið við slit eða gjaldþrotaskipti.
    
 1)L. 48/2022, 2. gr. 
+
+
+
+[80. gr. a.
+Samspil skilameðferðar og markmiða laganna.
+
+ Skilaaðgerðum skal beita að teknu tilliti til markmiða laga þessara. Velja skal þau skilaúrræði og skilaheimildir sem eru best til þess fallin að ná þeim markmiðum sem mestu skipta hverju sinni.
+
+ Skilavaldið skal leitast við að lágmarka kostnað af skilameðferð og forðast virðistap nema slíkt sé nauðsynlegt til að ná markmiðum laganna.]
+1)
+   
+1)L. 63/2023, 31. gr. 
 
 
 
@@ -1993,10 +2264,21 @@ Skilaráð.
 
  Hlutverk skilaráðs er að skiptast á upplýsingum og skapa vettvang fyrir samstarf um þau verkefni sem kveðið er á um í lögum þessum.
 
- Seðlabanki Íslands skal setja reglur
-1) um starfsemi skilaráða samkvæmt þessari grein.
+ [Skilavaldið skal taka þátt í samstarfsvettvangi sem nefnist evrópskt skilaráð ef eitt af eftirtöldu á við: 
    
+1. Fyrirtæki eða móðurfélag í efsta þrepi samstæðu með staðfestu utan Evrópska efnahagssvæðisins á dótturfélag með starfsemi hér á landi.
+   
+2. Móðurfélög í efsta þrepi samstæðu, tvö eða fleiri, eru með staðfestu í fleiri en einu aðildarríki og eitt móðurfélaganna er með staðfestu hér á landi.
+   
+3. Tvö eða fleiri útibú fyrirtækis með staðfestu utan Evrópska efnahagssvæðisins teljast mikilvæg og eitt þeirra er starfrækt hér á landi.
+
+ Evrópskt skilaráð hefur sama hlutverk og skilaráð skv. 2. mgr.]
 1)
+
+ Seðlabanki Íslands skal setja reglur
+2) um starfsemi skilaráða samkvæmt þessari grein.
+   
+1)L. 63/2023, 32. gr. 2)
 Rgl. 666/2021. 
 
 
@@ -2087,11 +2369,22 @@ Stjórnvaldssektir.
    
 1. 12. gr. um veitingu upplýsinga við gerð skilaáætlunar.
    
-2. 25. gr. um að halda skrá yfir fjárhagslega samninga.
+[2. 3. mgr. 15. gr. um kröfu skilavalds um aðgerðir til að ráða bót á annmörkum á skilabærni.
    
-[3. 14. gr. reglugerðar (ESB) 
-2015/63, með breytingu skv. 2. gr. a, um upplýsingaskyldu vegna greiðslu framlaga í skilasjóð.]
+3. 1. mgr. 17. gr. um að uppfylla lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar.
+   
+4. 21. gr. um takmarkanir á úthlutun.
+   
+5. 1. mgr. 22. gr. um afhendingu upplýsinga og gagna til skilavaldsins og opinbera birtingu viðeigandi upplýsinga um lágmarkskröfu um eiginfjárgrunn og hæfar skuldbindingar.]
 1)
+   
+[6.]
+1) 25. gr. um að halda skrá yfir fjárhagslega samninga.
+   
+[[7.]
+1) 14. gr. reglugerðar (ESB) 
+2015/63, með breytingu skv. 2. gr. a, um upplýsingaskyldu vegna greiðslu framlaga í skilasjóð.]
+2)
 
  Sektir sem lagðar eru á einstaklinga geta numið frá 100.000 kr. til allt að 771 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 500.000 kr. til allt að 10% af heildarveltu samkvæmt síðasta samþykkta ársreikningi lögaðilans eða 10% af síðasta samþykkta samstæðureikningi ef lögaðili er hluti af samstæðu.
 
@@ -2121,7 +2414,7 @@ i. fyrri brota og hvort um ítrekað brot er að ræða.
 
  Ef einstaklingur eða lögaðili brýtur gegn lögum þessum og reglugerðum og reglum settum á grundvelli þeirra, og fyrir liggur fjárhagslegur ávinningur af broti, er heimilt að ákvarða hinum brotlega sektarfjárhæð sem getur, þrátt fyrir 2. mgr., orðið allt að tvöfaldri þeirri fjárhæð sem fjárhagslegur ávinningur af brotinu nemur.
    
-1)L. 48/2022, 7. gr. 
+1)L. 63/2023, 33. gr. 2)L. 48/2022, 7. gr. 
 
 
 
@@ -2200,10 +2493,13 @@ Innleiðing.
 1. Tilskipun Evrópuþingsins og ráðsins 2014/59/ESB frá 15. maí 2014 sem kemur á ramma um endurreisn og skilameðferð lánastofnana og verðbréfafyrirtækja og breytingu á tilskipun ráðsins 82/891/EBE og tilskipunum 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ESB, 2012/30/ESB og 2013/36/ESB og reglugerðum Evrópuþingsins og ráðsins (ESB) nr. 1093/2010 og (ESB) nr. 648/2012, að undanskildum ákvæðum 4. gr. að því er varðar einfaldar endurbótaáætlanir, [5.–9. gr. og 19.–30. gr.]
 1) Tilskipunin var birt í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 25. frá 19. apríl 2018, bls. 4–162.
    
-2. Tilskipun Evrópuþingsins og ráðsins (ESB) 2017/2399 frá 12. desember 2017 um breytingu á tilskipun 2014/59/ESB að því er varðar rétthæð ótryggðra skuldagerninga í réttindaröð við ógjaldfærnimeðferð sem birt var í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 87. frá 17. desember 2020, bls. 341–346.]
-2)
+2. Tilskipun Evrópuþingsins og ráðsins (ESB) 2017/2399 frá 12. desember 2017 um breytingu á tilskipun 2014/59/ESB að því er varðar rétthæð ótryggðra skuldagerninga í réttindaröð við ógjaldfærnimeðferð sem birt var í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 87. frá 17. desember 2020, bls. 341–346.
    
-1)L. 48/2022, 8. gr. 2)L. 38/2021, 15. gr. 
+[3. Tilskipun Evrópuþingsins og ráðsins (ESB) 2019/879 frá 20. maí 2019 um breytingu á tilskipun 2014/59/ESB að því er varðar tapþol og endurfjármögnunargetu lánastofnana og verðbréfafyrirtækja og tilskipun 98/26/EB, að undanskildum hluta ákvæða 6. og 17. tölul. 1. gr. tilskipunarinnar.]
+2)]
+3)
+   
+1)L. 48/2022, 8. gr. 2)L. 63/2023, 34. gr. 3)L. 38/2021, 15. gr. 
 
 
 

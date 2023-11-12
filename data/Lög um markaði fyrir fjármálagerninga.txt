@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. september 2021 nema 39. gr. sem tók gildi 1. nóvember 2021 og 5. mgr. 48. gr. sem tók gildi 28. febrúar 2023; um lagaskil sjá 147. gr. EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567. Breytt með:  L. 50/2022 (tóku gildi 8. júlí 2022; EES-samningurinn: IX. viðauki reglugerð 2017/2294, 2019/1011, 2021/527, 2019/2115, 2018/1717, tilskipun 2014/51/ESB, XXII. viðauki tilskipun 2004/25/EB). 
+Tóku gildi 1. september 2021 nema 39. gr. sem tók gildi 1. nóvember 2021 og 5. mgr. 48. gr. sem tók gildi 28. febrúar 2023; um lagaskil sjá 147. gr. EES-samningurinn: IX. viðauki tilskipun 2014/65/ESB, 2016/1034, reglugerð 600/2014, 2016/1033, 2017/565, 2017/567. Breytt með:  L. 50/2022 (tóku gildi 8. júlí 2022; EES-samningurinn: IX. viðauki reglugerð 2017/2294, 2019/1011, 2021/527, 2019/2115, 2018/1717, tilskipun 2014/51/ESB, XXII. viðauki tilskipun 2004/25/EB). L. 25/2023 (tóku gildi 1. júní 2023; EES-samningurinn: IX. viðauki reglugerð 2019/2088, 2020/852). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 fjármála- og efnahagsráðherra eða 
 fjármála- og efnahagsráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -144,8 +144,13 @@ b. framseldri reglugerð framkvæmdastjórnarinnar (ESB)
    
 c. framseldri reglugerð framkvæmdastjórnarinnar (ESB) 
 2021/527 frá 15. desember 2020 um breytingu á framseldri reglugerð framkvæmdastjórnarinnar (ESB) 
-2017/565 að því er varðar viðmiðunarmörk fyrir vikulegar stöðutilkynningar, sem er birt í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 16 frá 10. mars 2022, bls. 12–13.]
+2017/565 að því er varðar viðmiðunarmörk fyrir vikulegar stöðutilkynningar, sem er birt í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 16 frá 10. mars 2022, bls. 12–13],
 1)
+   
+[d. framseldri reglugerð framkvæmdastjórnarinnar (ESB) 2021/1253 um breytingu á framseldri reglugerð (ESB) 2017/565 að því er varðar samþættingu sjálfbærniþátta, -áhættu og -óska í tilteknar skipulagskröfur og rekstrarskilyrði fyrir verðbréfafyrirtæki, sem er birt í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 72 frá 3. nóvember 2022, bls. 333–337,
+   
+e. framseldri reglugerð framkvæmdastjórnarinnar (ESB) 2021/1254 um leiðréttingu á framseldri reglugerð (ESB) 2017/565 um viðbætur við tilskipun Evrópuþingsins og ráðsins 2014/65/ESB að því er varðar skipulagskröfur og rekstrarskilyrði verðbréfafyrirtækja og hugtök sem skilgreind eru að því er varðar þá tilskipun, sem er birt í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 63 frá 29. september 2022, bls. 158–162.]
+2)
    
 3. Framseldrar reglugerðar framkvæmdastjórnarinnar (ESB) 
 2017/567 um viðbætur við reglugerð Evrópuþingsins og ráðsins (ESB) nr. 
@@ -175,7 +180,7 @@ c. framseldri reglugerð framkvæmdastjórnarinnar (ESB)
  Með vísun í b-lið 2. mgr. 20. gr. og b-lið 2. mgr. 21. gr. reglugerðar (ESB) 
 2017/567 til tryggingaverndar samkvæmt tilskipun 2014/49/ESB fyrir samsettar innstæður er átt við vernd sem innstæðueigendum er veitt samkvæmt lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta.
    
-1)L. 50/2022, 1. gr. 
+1)L. 50/2022, 1. gr. 2)L. 25/2023, 11. gr. 
 
 
 
@@ -1023,7 +1028,7 @@ Viðskiptavakt með notkun algríms.
 1) um nánari framkvæmd greinarinnar, þ.m.t. um skipulagskröfur til verðbréfafyrirtækja sem stunda algrímsviðskipti í þeim tilgangi að fylgja áætlun um viðskiptavakt.
    
 1)
-Rgl. 854/2022. 
+Rgl. 545/2023. 
 
 
 
@@ -1505,7 +1510,7 @@ Besta framkvæmd.
 2)
    
 1)
-Rgl. 854/2022. 2)L. 50/2022, 7. gr. 
+Rgl. 545/2023. 2)L. 50/2022, 7. gr. 
 
 
 
@@ -1645,7 +1650,7 @@ Tímabundin stöðvun viðskipta með fjármálagerninga og taka þeirra úr vi�
 1) um framkvæmd ákvæðisins, þ.m.t. um form og efni tilkynninga.
    
 1)
-Rgl. 854/2022. 
+Rgl. 545/2023. 
 
 
 
@@ -2153,8 +2158,7 @@ Kröfur vegna virkra eignarhluta í rekstraraðila markaðar.
 1) um framkvæmd greinarinnar.
    
 1)
-Rgl. 854/2022. 
-  Rgl. 852/2022. 
+Rgl. 852/2022. Rg. 545/2023. 
 
 
 
@@ -2175,7 +2179,7 @@ Viðskiptavakt.
 1) um framkvæmd greinarinnar.
    
 1)
-Rgl. 854/2022. 
+Rgl. 545/2023. 
 
 
 
@@ -2190,8 +2194,7 @@ Algrímsviðskipti.
 1) um algrímsviðskipti, þ.m.t. um prófanir.
    
 1)
-Rgl. 854/2022. 
-  Rgl. 852/2022. 
+Rgl. 852/2022. Rg. 545/2023. 
 
 
 
@@ -2300,7 +2303,11 @@ Taka fjármálagerninga til viðskipta.
 
  Heimilt er að taka verðbréf til viðskipta á skipulegum markaði án samþykkis útgefanda ef verðbréfin hafa verið tekin til viðskipta á öðrum skipulegum markaði innan EES. Skipulegur markaður skal tilkynna útgefanda um það að viðskipti fari fram með verðbréf hans á markaðinum. Útgefandi verðbréfa sem hefur ekki samþykkt töku þeirra til viðskipta er ekki skylt að sinna upplýsingaskyldu gagnvart viðkomandi markaði.
 
- Seðlabanki Íslands setur frekari reglur um töku fjármálagerninga til viðskipta.
+ Seðlabanki Íslands setur frekari reglur
+1) um töku fjármálagerninga til viðskipta.
+   
+1)
+Rgl. 545/2023. 
 
 
 
@@ -2327,7 +2334,7 @@ Tímabundin stöðvun viðskipta og taka fjármálagerninga úr viðskiptum.
 1) um tímabundna stöðvun viðskipta og töku fjármálagerninga úr viðskiptum.
    
 1)
-Rgl. 854/2022. 
+Rgl. 545/2023. 
 
 
 
@@ -3701,7 +3708,7 @@ Rgl. 850/2022.
   Rgl. 851/2022. 
   Rgl. 852/2022. 
   Rgl. 853/2022. 
-  Rgl. 854/2022. 
+  Rgl. 545/2023. 
 
 
 

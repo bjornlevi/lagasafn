@@ -5,7 +5,7 @@ Ferill málsins á Alþingi.   
 Frumvarp til laga.
 
 
-Tóku gildi 1. janúar 2014. Breytt með:  L. 11/2014 (tóku gildi 4. febr. 2014). L. 102/2016 (tóku gildi 1. jan. 2017). L. 84/2019 (tóku gildi 1. jan. 2020). L. 101/2020 (tóku gildi 23. júlí 2020). L. 71/2021 (tóku gildi 29. júní 2021 nema 29. gr. sem tók gildi 1. júlí 2021). 
+Tóku gildi 1. janúar 2014. Breytt með:  L. 11/2014 (tóku gildi 4. febr. 2014). L. 102/2016 (tóku gildi 1. jan. 2017). L. 84/2019 (tóku gildi 1. jan. 2020). L. 101/2020 (tóku gildi 23. júlí 2020). L. 71/2021 (tóku gildi 29. júní 2021 nema 29. gr. sem tók gildi 1. júlí 2021). L. 60/2023 (tóku gildi 7. júlí 2023). 
 Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við 
 matvælaráðherra eða 
 matvælaráðuneyti sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna 
@@ -191,7 +191,7 @@ Eftirlit.
  Ráðherra setur í reglugerð
 2) nánari fyrirmæli um eftirlit og framkvæmd þess.
    
-1)L. 11/2014, 1. gr. 2)Rg. 917/2022. 
+1)L. 11/2014, 1. gr. 2)Rg. 895/2023. 
 
 
 V. kafli.
@@ -346,7 +346,7 @@ Aflífun.
  Ráðherra skal setja í reglugerð
 1) nánari ákvæði um hverjir megi aflífa dýr, hvernig staðið skuli að aflífun og bann við tilteknum aðferðum við aflífun.
    
-1)Rg. 911/2012, sbr. 738/2016 og 928/2019. Rg. 460/2017. 
+1)Rg. 911/2012, sbr. 738/2016 og 928/2019. Rg. 460/2017. Rg. 846/2023. 
 
 
 VI. kafli.
@@ -416,7 +416,10 @@ Veiðar.
 
  Við veiðar er óheimilt að beita aðferðum sem valda dýri óþarfa limlestingum eða kvölum. Við veiðar á villtum dýrum skal að auki fara að fyrirmælum gildandi laga um vernd, friðun og veiðar á villtum fuglum og villtum spendýrum.
 
- Ráðherra setur í reglugerð, að höfðu samráði við ráðherra er fer með stjórn veiða, vernd og friðun villtra fugla og villtra spendýra, nánari ákvæði um aðferðir við veiðar.
+ Ráðherra setur í reglugerð,
+1) að höfðu samráði við ráðherra er fer með stjórn veiða, vernd og friðun villtra fugla og villtra spendýra, nánari ákvæði um aðferðir við veiðar.
+   
+1)Rg. 895/2023. 
 
 
 
@@ -488,7 +491,34 @@ Gjaldtaka.
 
  Matvælastofnun er heimilt að taka gjald samkvæmt gjaldskrá fyrir leyfisumsóknir, úttektir, eftirlit, eftirfylgni og vinnu við úrvinnslu tilkynninga skv. 12., 13., 18., 20., 22. og 26. gr.
 
- Matvælastofnun gerir tillögu að slíkri gjaldskrá sem ráðherra staðfestir og er birt í B-deild Stjórnartíðinda. Gjaldið má ekki vera hærra en nemur kostnaði við umsýslu, úttektir, eftirlit og eftirfylgni.
+ [Fyrir eftirlit, umsýslu og skjalaskoðun Matvælastofnunar samkvæmt lögum þessum skal greiða gjald sem ekki er hærra en raunkostnaður til að standa straum af eftirtöldum kostnaðarþáttum: 
+   
+a. launum starfsfólks sem sinnir störfum vegna eftirlits, umsýslu og skjalaskoðunar,
+   
+b. öðrum kostnaði vegna starfsfólks, þ.m.t. kostnaði af aðstöðu, áhöldum, búnaði, þjálfun og ferðalögum, svo og tengdum kostnaði,
+   
+c. kostnaði vegna sýnatöku opinberra eftirlitsaðila og kostnaði sem opinberar rannsóknastofur innheimta vegna sýnatöku, greiningar, prófunar og sjúkdómsgreininga sem framkvæmdar eru á opinberum rannsóknastofum.
+
+ Ráðherra er heimilt að setja reglugerð um eftirlit, umsýslu og skjalaskoðun Matvælastofnunar og skal hann gefa út gjaldskrá fyrir eftirlit Matvælastofnunar að fengnum tillögum stofnunarinnar.
+
+ Við gerð reglugerðar og gjaldskrár opinberra eftirlitsaðila er heimilt að taka tillit til eftirfarandi atriða: 
+   
+a. hvers konar fyrirtæki um er að ræða og viðkomandi áhættuþátta,
+   
+b. hagsmuna fyrirtækja með litla framleiðslu,
+   
+c. hefðbundinna aðferða við framleiðslu, vinnslu og dreifingu,
+   
+d. þarfa fyrirtækja með aðsetur á svæðum sem líða fyrir landfræðilegar takmarkanir.
+
+ Matvælastofnun skal afla umsagnar hlutaðeigandi hagsmunasamtaka og kynna þeim efni og forsendur reglugerðar og/eða gjaldskrár stofnunarinnar með a.m.k. eins mánaðar fyrirvara. Hafi umsagnir þeirra ekki borist Matvælastofnun að mánuði liðnum er ráðherra þó heimilt að setja reglugerð og gjaldskrá án umsagna þeirra.
+
+ Eftirlitsgjald skal greiða samkvæmt framlögðum reikningi opinbers eftirlitsaðila.
+
+ Innheimta má eftirlitsgjaldið með fjárnámi án undangengins dóms eða sáttar. Opinberum eftirlitsaðilum er heimilt að krefjast dráttarvaxta af ógreiddri fjárkröfu vegna eftirlits frá og með gjalddaga fram að greiðsludegi.]
+1)
+   
+1)L. 60/2023, 8. gr. 
 
 
 X. kafli.
@@ -697,7 +727,7 @@ Reglugerðarheimild.
  Ráðherra er heimilt að mæla nánar fyrir um framkvæmd laga þessara í reglugerð.
 1)
    
-1)Rg. 968/2011 (um gildistöku reglugerðar Evrópuþingsins og ráðsins nr. 1760/2000 um að koma á kerfi fyrir auðkenningu og skráningu nautgripa og um merkingar nautakjöts og nautakjötsafurða), sbr. 33/2016. Rg. 910/2014 (um velferð hrossa). Rg. 1065/2014 (um velferð nautgripa), sbr. 379/2022. Rg. 1066/2014 (um velferð sauðfjár og geitfjár), sbr. 836/2021. Rg. 1276/2014 (um velferð svína), sbr. 529/2015 og 357/2019. Rg. 1277/2014 (um velferð minka). Rg. 80/2016 (um velferð gæludýra). Rg. 540/2016 (um búfjársæðingar og flutning fósturvísa). Rg. 300/2018 (um velferð lagardýra, varnir gegn sjúkdómum og heilbrigðiseftirlit með eldisstöðvum), sbr. 1447/2021. Rg. 511/2018 (um gæðastýrða sauðfjárframleiðslu). Rg. 200/2020 (um innflutning hunda og katta), sbr. 1152/2020, 1019/2021 og 946/2022. Rg. 201/2020 (um einangrun og einangrunarstöðvar fyrir gæludýr), sbr. 786/2022. Rg. 1020/2021 (um velferð sjávarspendýra við fiskveiðar og fiskeldi í sjó). Rg. 88/2022 (um velferð alifugla), sbr. 1359/2022. Rg. 900/2022 (um blóðtöku úr fylfullum hryssum). Rg. 917/2022 (um eftirlit með velferð dýra við veiðar á hvölum). 
+1)Rg. 968/2011 (um gildistöku reglugerðar Evrópuþingsins og ráðsins nr. 1760/2000 um að koma á kerfi fyrir auðkenningu og skráningu nautgripa og um merkingar nautakjöts og nautakjötsafurða), sbr. 33/2016. Rg. 910/2014 (um velferð hrossa). Rg. 1065/2014 (um velferð nautgripa), sbr. 379/2022. Rg. 1066/2014 (um velferð sauðfjár og geitfjár), sbr. 836/2021. Rg. 1276/2014 (um velferð svína), sbr. 529/2015 og 357/2019. Rg. 1277/2014 (um velferð minka). Rg. 80/2016 (um velferð gæludýra). Rg. 540/2016 (um búfjársæðingar og flutning fósturvísa). Rg. 300/2018 (um velferð lagardýra, varnir gegn sjúkdómum og heilbrigðiseftirlit með eldisstöðvum), sbr. 1447/2021. Rg. 511/2018 (um gæðastýrða sauðfjárframleiðslu). Rg. 200/2020 (um innflutning hunda og katta), sbr. 1152/2020, 1019/2021 og 946/2022. Rg. 201/2020 (um einangrun og einangrunarstöðvar fyrir gæludýr), sbr. 786/2022. Rg. 1020/2021 (um velferð sjávarspendýra við fiskveiðar og fiskeldi í sjó). Rg. 88/2022 (um velferð alifugla), sbr. 1359/2022. Rg. 900/2022 (um blóðtöku úr fylfullum hryssum). Rg. 895/2023 (um veiðar á langreyðum). 
 
 
 XI. kafli.
