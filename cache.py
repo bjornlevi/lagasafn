@@ -28,9 +28,6 @@ def save_cache(path: list[str], data: str, encoding: str = 'utf-8') -> None:
     cache_path = os.path.join(*CACHE_DIRECTORY, *path)
 
     # If directory does not exists, then create it
-    #if len(path) > 1:
-    #   prepare_dir(CACHE_DIRECTORY + path[:-1])
-
     touch_path(CACHE_DIRECTORY + path)
 
     # Save cache
@@ -45,6 +42,3 @@ def load_cache(path: list[str], encoding: str = 'utf-8') -> str | None:
         if not file:
             return None
         return file.read()
-
-def read_web_or_cache(url: str):
-     respo

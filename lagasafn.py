@@ -62,17 +62,13 @@ def get_law_text(url: str) -> str:
 	return clean_text
 
 # Update our data/ folder
-def update_laws_data() -> None:
-	#prepare_dir(LAWS_PATH)
-
-	
+def update_laws_data() -> None:	
 	# Get list of laws
 	lagalisti = get_lagalisti()
 
 	# Downloads every law in Iceland
 	for l in lagalisti:
 		print(l)
-		#try:
 		# Unix-like systems do not support having charachter '/' in a filename.
 		if '/' in l['name'] and platform.system().lower() != 'windows':
 			l['name'] = l['name'].replace('/', ' ')
@@ -86,8 +82,6 @@ def update_laws_data() -> None:
 		file_path = LAWS_PATH + [l['name'] + '.txt']
 		law_text = get_law_text(l['url'])
 		cache.save_cache(file_path, law_text)
-		#except Exception as e:
-		#	print('failed')
 
 # If we run this file directly, then we update laws data
 # If imported to another file, then it will not run automatically
