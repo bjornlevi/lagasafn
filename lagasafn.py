@@ -1,9 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import cache
+import platform
 
-ALTHINGI_BASE: str = 'https://www.althingi.is/'
+ALTHINGI_BASE: str = 'https://www.althingi.is'
 LAGALISTI_URL: str = 'https://www.althingi.is/lagasafn/' 
+
+LAWS_PATH: list[str] = ['laws']
+INFO_PATH: list[str] = ['info']
 
 def get_lagalisti() -> list[dict[str,str]]:
 	# Fetch the webpage content
@@ -58,8 +63,8 @@ def get_law_text(url: str) -> str:
 
 # Update our data/ folder
 def update_laws_data() -> None:
-	if not os.path.exists('data'):
-		os.mkdir('data')
+	#prepare_dir(LAWS_PATH)
+
 	
 	# Get list of laws
 	lagalisti = get_lagalisti()
@@ -67,14 +72,22 @@ def update_laws_data() -> None:
 	# Downloads every law in Iceland
 	for l in lagalisti:
 		print(l)
-		try:
-			# Use os.path.join to make it Windows friendly
-			file_name = os.path.join('data', l['name'] + '.txt')
-			with open(file_name, 'w') as file:
-				text = get_law_text(l['url'])
-				file.write(text)
-		except:
-			print('failed')
+		#try:
+		# Unix-like systems do not support having charachter '/' in a filename.
+		if '/' in l['name'] and platform.system().lower() != 'windows':
+			l['name'] = l['name'].replace('/', ' ')
+
+		# If filename is too long, then shorten it
+		if len(bytes(l['name'], encoding='utf-8')) >= 255:
+			byterow = bytes(l['name'], encoding='utf-8')
+			byterow = byterow[:250] #Leave space for .txt in the end
+			l['name'] = str(byterow, encoding='utf-8') 
+		
+		file_path = LAWS_PATH + [l['name'] + '.txt']
+		law_text = get_law_text(l['url'])
+		cache.save_cache(file_path, law_text)
+		#except Exception as e:
+		#	print('failed')
 
 # If we run this file directly, then we update laws data
 # If imported to another file, then it will not run automatically
